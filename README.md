@@ -60,57 +60,60 @@ by the U.S. Post Office
 ---
 <img src="Mother%20Earth%20Magazine/Skrmbillede_2020-03-06_kl._13.11.02.png" width="300">
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/da01a26e-ba30-46b4-9e62-38e058b09001/Skrmbillede_2020-03-06_kl._13.11.02.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/da01a26e-ba30-46b4-9e62-38e058b09001/Skrmbillede_2020-03-06_kl._13.11.02.png)
+<img src="Mother%20Earth%20Magazine/Skrmbillede_2020-03-06_kl._13.10.57.png" width="300">
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b01a63a2-2eba-43aa-8ee9-500fe80d4509/Skrmbillede_2020-03-06_kl._13.10.57.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b01a63a2-2eba-43aa-8ee9-500fe80d4509/Skrmbillede_2020-03-06_kl._13.10.57.png)
+<img src="Mother%20Earth%20Magazine/Skrmbillede_2020-03-06_kl._13.11.51.png" width="300">
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bbeca7a9-3747-45d2-afce-4b5164868f73/Skrmbillede_2020-03-06_kl._13.11.51.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bbeca7a9-3747-45d2-afce-4b5164868f73/Skrmbillede_2020-03-06_kl._13.11.51.png)
+<img src="Mother%20Earth%20Magazine/Skrmbillede_2020-03-06_kl._13.11.56.png" width="300">
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5113d680-21d0-44f0-860d-225d290e489b/Skrmbillede_2020-03-06_kl._13.11.56.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5113d680-21d0-44f0-860d-225d290e489b/Skrmbillede_2020-03-06_kl._13.11.56.png)
+<img src="Mother%20Earth%20Magazine/Skrmbillede_2020-03-06_kl._13.12.06.png" width="300">
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dd3f978a-762b-4130-aadd-00cb05e5657f/Skrmbillede_2020-03-06_kl._13.12.06.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dd3f978a-762b-4130-aadd-00cb05e5657f/Skrmbillede_2020-03-06_kl._13.12.06.png)
+<img src="Mother%20Earth%20Magazine/Skrmbillede_2020-03-06_kl._13.35.33.png" width="300">
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/35006935-fd26-4641-8a4f-8235739ee23e/Skrmbillede_2020-03-06_kl._13.35.33.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/35006935-fd26-4641-8a4f-8235739ee23e/Skrmbillede_2020-03-06_kl._13.35.33.png)
+<img src="Mother%20Earth%20Magazine/Skrmbillede_2020-03-06_kl._13.12.10.png" width="300">
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d025965d-8679-4f01-989b-c38020ca7fb2/Skrmbillede_2020-03-06_kl._13.12.10.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d025965d-8679-4f01-989b-c38020ca7fb2/Skrmbillede_2020-03-06_kl._13.12.10.png)
+<img src="Mother%20Earth%20Magazine/Skrmbillede_2020-03-06_kl._13.35.41.png" width="300">
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a38b26c9-3421-4819-963b-3e075c869425/Skrmbillede_2020-03-06_kl._13.35.41.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a38b26c9-3421-4819-963b-3e075c869425/Skrmbillede_2020-03-06_kl._13.35.41.png)
+<img src="Mother%20Earth%20Magazine/Skrmbillede_2020-03-06_kl._13.35.28.png" width="300">
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6ab7568f-34b9-442c-a31b-79bc803bbdd9/Skrmbillede_2020-03-06_kl._13.35.28.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6ab7568f-34b9-442c-a31b-79bc803bbdd9/Skrmbillede_2020-03-06_kl._13.35.28.png)
+
 
 ## Artefacts
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a2faae7f-f788-4890-b533-e3a92adc7620/microfilmpictures2__Side_12.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a2faae7f-f788-4890-b533-e3a92adc7620/microfilmpictures2__Side_12.jpg)
+<img src="Mother%20Earth%20Magazine/microfilmpictures2__Side_12.jpg" width="300">
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/68b35804-bd16-431a-b4dd-306f6b36a01f/IMG_1288.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/68b35804-bd16-431a-b4dd-306f6b36a01f/IMG_1288.jpg)
+<img src="Mother%20Earth%20Magazine/IMG_1288.jpg" width="300">
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e33b29e0-9227-4ead-9073-5dcbda38b35f/Microfilmpictures__Side_5.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e33b29e0-9227-4ead-9073-5dcbda38b35f/Microfilmpictures__Side_5.jpg)
+<img src="Mother%20Earth%20Magazine/Microfilmpictures__Side_5.jpg" width="300">
 
+UPLOAD VIDEO to youtube
 [https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b4e11670-70e1-4587-af15-690bf432b222/168b21b1a9d14eef82e59659bdaed9ea.mov](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b4e11670-70e1-4587-af15-690bf432b222/168b21b1a9d14eef82e59659bdaed9ea.mov)
 
 ## Pictures from IISH
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/60e3a9fa-c2f3-4c58-b927-a072a5597318/EmmaGoldmann_Side_05_Billede_0001.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/60e3a9fa-c2f3-4c58-b927-a072a5597318/EmmaGoldmann_Side_05_Billede_0001.jpg)
+<img src="Mother%20Earth%20Magazine/EmmaGoldmann_Side_05_Billede_0001.jpg" width="300">
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ee73e1c8-5397-4c23-8fa6-1eec2f9588af/EmmaGoldmann_Side_28_Billede_0001.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ee73e1c8-5397-4c23-8fa6-1eec2f9588af/EmmaGoldmann_Side_28_Billede_0001.jpg)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e38d0546-7673-41b6-8f72-cfc6ffdfdfd1/EmmaGoldmann_Side_08_Billede_0001.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e38d0546-7673-41b6-8f72-cfc6ffdfdfd1/EmmaGoldmann_Side_08_Billede_0001.jpg)
+<img src="Mother%20Earth%20Magazine/EmmaGoldmann_Side_28_Billede_0001.jpg" width="300">
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3db87e20-7890-47a9-9f02-90d718d557c4/EmmaGoldmann_Side_06_Billede_0001.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3db87e20-7890-47a9-9f02-90d718d557c4/EmmaGoldmann_Side_06_Billede_0001.jpg)
+<img src="Mother%20Earth%20Magazine/EmmaGoldmann_Side_08_Billede_0001.jpg" width="300">
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e7ec285b-e14c-4344-ae70-c29bbb35fdf4/EmmaGoldmann_Side_35_Billede_0001.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e7ec285b-e14c-4344-ae70-c29bbb35fdf4/EmmaGoldmann_Side_35_Billede_0001.jpg)
+<img src="Mother%20Earth%20Magazine/EmmaGoldmann_Side_06_Billede_0001.jpg" width="300">
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f0062ca8-1ade-4a85-a6a2-d8b24c0d534f/EmmaGoldmann_Side_34_Billede_0001.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f0062ca8-1ade-4a85-a6a2-d8b24c0d534f/EmmaGoldmann_Side_34_Billede_0001.jpg)
+<img src="Mother%20Earth%20Magazine/EmmaGoldmann_Side_35_Billede_0001.jpg" width="300">
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/671133c8-2b27-47d4-95a0-b78a90fe54a2/EmmaGoldmann_Side_36_Billede_0001.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/671133c8-2b27-47d4-95a0-b78a90fe54a2/EmmaGoldmann_Side_36_Billede_0001.jpg)
+<img src="Mother%20Earth%20Magazine/EmmaGoldmann_Side_34_Billede_0001.jpg" width="300">
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a4414e53-0b08-4920-9123-58d4a1606dee/EmmaGoldmann_Side_33_Billede_0001.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a4414e53-0b08-4920-9123-58d4a1606dee/EmmaGoldmann_Side_33_Billede_0001.jpg)
+<img src="Mother%20Earth%20Magazine/EmmaGoldmann_Side_36_Billede_0001.jpg" width="300">
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cad60ff0-ee80-4a8f-b16d-00eef5842ace/EmmaGoldmann_Side_32_Billede_0001.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cad60ff0-ee80-4a8f-b16d-00eef5842ace/EmmaGoldmann_Side_32_Billede_0001.jpg)
+<img src="Mother%20Earth%20Magazine/EmmaGoldmann_Side_33_Billede_0001.jpg" width="300">
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f09bd495-4eb4-430b-8114-b3ae3070c84e/EmmaGoldmann_Side_26_Billede_0001.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f09bd495-4eb4-430b-8114-b3ae3070c84e/EmmaGoldmann_Side_26_Billede_0001.jpg)
+<img src="Mother%20Earth%20Magazine/EmmaGoldmann_Side_32_Billede_0001.jpg" width="300">
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f41e0567-0ea8-4129-94a8-d3710d65419b/EmmaGoldmann_Side_27_Billede_0001.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f41e0567-0ea8-4129-94a8-d3710d65419b/EmmaGoldmann_Side_27_Billede_0001.jpg)
+<img src="Mother%20Earth%20Magazine/EmmaGoldmann_Side_26_Billede_0001.jpg" width="300">
+
+<img src="Mother%20Earth%20Magazine/EmmaGoldmann_Side_27_Billede_0001.jpg" width="300">
+
 
 **What media timeline:** 
 
@@ -118,8 +121,10 @@ by the U.S. Post Office
 
 **now:** podcast(voice), tedxtalks, youtube.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7c700c8c-f8fd-468a-a0f0-d2186664dd25/IMG_1289.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7c700c8c-f8fd-468a-a0f0-d2186664dd25/IMG_1289.jpg)
+<img src="Mother%20Earth%20Magazine/IMG_1289.jpg" width="300">
 
+
+UPLOAD THIS VIDEO TO YOUTUBE!
 [https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8b11ddff-7775-457e-ac4e-26911b13b49d/736d097e7a2e43a0af8c52a7365cedab.mov](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8b11ddff-7775-457e-ac4e-26911b13b49d/736d097e7a2e43a0af8c52a7365cedab.mov)
 
 ## Plan
