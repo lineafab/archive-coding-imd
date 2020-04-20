@@ -65,9 +65,9 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 * **Files below, before and after. 
 
 **Before**
-<img src="Mother%20Earth%20Magazine/0072.pdf" width="300">
-<img src="Mother%20Earth%20Magazine/0074.pdf" width="300">
-<img src="Mother%20Earth%20Magazine/0072.pdf" width="300">
+<img src="Mother%20Earth%20Magazine/0072.jpg" width="300">
+<img src="Mother%20Earth%20Magazine/0074.jpg" width="300">
+
 <img src="Mother%20Earth%20Magazine/M.E_1_0004.pdf" width="300">
 <img src="Mother%20Earth%20Magazine/M.E_1_0016.pdf" width="300">
 <img src="Mother%20Earth%20Magazine/M.E_1_0020.pdf" width="300">
@@ -75,7 +75,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 **After**
 <img src="Mother%20Earth%20Magazine/P1.jpg" width="300">
 <img src="Mother%20Earth%20Magazine/P2.jpg" width="300">
-<img src="Mother%20Earth%20Magazine/P3.jpg" width="300">
+<img src="Mother%20Earth%20Magazine/P3.png" width="300">
 <img src="Mother%20Earth%20Magazine/P4.jpg" width="300">
 
 
