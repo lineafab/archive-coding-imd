@@ -138,6 +138,9 @@ Still in progress
 <img src="Mother%20Earth%20Magazine/coding Sketches3.jpg" width="300">
 <img src="Mother%20Earth%20Magazine/coding Sketches4.jpg" width="300">
 
+___
+
+Underscores
 
 # In between (Thoughs, Ideas etc): 
 
@@ -169,6 +172,7 @@ Derrida asks what should be included in archives, where there are gaps, and what
    * **CONTENT** Narrtive of the voice, impact <a href="http://www.youtube.com/watch?feature=player_embedded&v=qZiLUirMElg
 " target="_blank"><img src="http://img.youtube.com/vi/qZiLUirMElg/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 
 * **References of names and situations now a ways:**
 * https://en.wikipedia.org/wiki/List_of_anarchist_communities
