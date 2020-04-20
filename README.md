@@ -69,18 +69,21 @@ ___
 * **Files below, before and after. 
 
 **Before**
-<img src="Mother%20Earth%20Magazine/0072.jpg" width="300">
-<img src="Mother%20Earth%20Magazine/0074.jpg" width="300">
 
-<img src="Mother%20Earth%20Magazine/M.E_1_0004.tif" width="300">
-<img src="Mother%20Earth%20Magazine/M.E_1_0016.tif" width="300">
-<img src="Mother%20Earth%20Magazine/M.E_1_0020.tif" width="300">
+
+<img src="Mother%20Earth%20Magazine/0072.jpg" width="400">
+<img src="Mother%20Earth%20Magazine/0074.jpg" width="400">
+<img src="Mother%20Earth%20Magazine/M.E_1_0004.tif" width="400">
+<img src="Mother%20Earth%20Magazine/M.E_1_0016.tif" width="400">
+<img src="Mother%20Earth%20Magazine/M.E_1_0020.tif" width="400">
 
 **After**
-<img src="Mother%20Earth%20Magazine/P1.jpg" width="300">
-<img src="Mother%20Earth%20Magazine/P2.jpg" width="300">
-<img src="Mother%20Earth%20Magazine/P3.png" width="300">
-<img src="Mother%20Earth%20Magazine/P4.jpg" width="300">
+
+
+<img src="Mother%20Earth%20Magazine/P1.jpg" width="400">
+<img src="Mother%20Earth%20Magazine/P2.jpg" width="400">
+<img src="Mother%20Earth%20Magazine/P3.png" width="400">
+<img src="Mother%20Earth%20Magazine/P4.jpg" width="400">
 
 
 Still in progress
@@ -140,10 +143,10 @@ ___
 
 ## Website Try out one: 
 
-<img src="Mother%20Earth%20Magazine/coding Sketches.jpg" width="300">
-<img src="Mother%20Earth%20Magazine/coding Sketches2.jpg" width="300">
-<img src="Mother%20Earth%20Magazine/coding Sketches3.jpg" width="300">
-<img src="Mother%20Earth%20Magazine/coding Sketches4.jpg" width="300">
+<img src="Mother%20Earth%20Magazine/coding Sketches.jpg" width="400">
+<img src="Mother%20Earth%20Magazine/coding Sketches2.jpg" width="400">
+<img src="Mother%20Earth%20Magazine/coding Sketches3.jpg" width="400">
+<img src="Mother%20Earth%20Magazine/coding Sketches4.jpg" width="400">
 
 ___
 
@@ -180,7 +183,7 @@ Derrida asks what should be included in archives, where there are gaps, and what
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
-* **References of names and situations now a ways:**
+* **### References of names and situations now a ways:**
 * https://en.wikipedia.org/wiki/List_of_anarchist_communities
 * Wiki Leaks
 * Pussy Riot 
