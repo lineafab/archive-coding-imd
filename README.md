@@ -106,11 +106,11 @@ ___
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=A6jYDI_QiCk
 " target="_blank"><img src="http://img.youtube.com/vi/A6jYDI_QiCk/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="340" height="280" border="10" /></a><a href="http://www.youtube.com/watch?feature=player_embedded&v=UB72b5OtECc
+alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a><a href="http://www.youtube.com/watch?feature=player_embedded&v=UB72b5OtECc
 " target="_blank"><img src="http://img.youtube.com/vi/UB72b5OtECc/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="340" height="280" border="10" /></a><a href="http://www.youtube.com/watch?feature=player_embedded&v=WmyXKr6Ymcs
+alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a><a href="http://www.youtube.com/watch?feature=player_embedded&v=WmyXKr6Ymcs
 " target="_blank"><img src="http://img.youtube.com/vi/WmyXKr6Ymcs/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="340" height="280" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a>
 
 Still in progress
 
