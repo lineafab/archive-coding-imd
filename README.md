@@ -68,9 +68,9 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 <img src="Mother%20Earth%20Magazine/0072.jpg" width="300">
 <img src="Mother%20Earth%20Magazine/0074.jpg" width="300">
 
-<img src="Mother%20Earth%20Magazine/M.E_1_0004.pdf" width="300">
-<img src="Mother%20Earth%20Magazine/M.E_1_0016.pdf" width="300">
-<img src="Mother%20Earth%20Magazine/M.E_1_0020.pdf" width="300">
+<img src="Mother%20Earth%20Magazine/M.E_1_0004.tif" width="300">
+<img src="Mother%20Earth%20Magazine/M.E_1_0016.tif" width="300">
+<img src="Mother%20Earth%20Magazine/M.E_1_0020.tif" width="300">
 
 **After**
 <img src="Mother%20Earth%20Magazine/P1.jpg" width="300">
@@ -133,10 +133,10 @@ Still in progress
 
 ## Website Try out one: 
 
-<img src="Mother%20Earth%20Magazine/coding sketches.jpg" width="300">
-<img src="Mother%20Earth%20Magazine/coding sketches2.jpg" width="300">
-<img src="Mother%20Earth%20Magazine/coding sketches3.jpg" width="300">
-<img src="Mother%20Earth%20Magazine/coding sketches4.jpg" width="300">
+<img src="Mother%20Earth%20Magazine/coding Sketches.jpg" width="300">
+<img src="Mother%20Earth%20Magazine/coding Sketches2.jpg" width="300">
+<img src="Mother%20Earth%20Magazine/coding Sketches3.jpg" width="300">
+<img src="Mother%20Earth%20Magazine/coding Sketches4.jpg" width="300">
 
 
 # In between (Thoughs, Ideas etc): 
