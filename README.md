@@ -43,11 +43,11 @@ ___
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=42ISS8nKCM8
 " target="_blank"><img src="http://img.youtube.com/vi/42ISS8nKCM8/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a><a href="http://www.youtube.com/watch?feature=player_embedded&v=dYVlv-RNt2A
+alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a><a href="http://www.youtube.com/watch?feature=player_embedded&v=dYVlv-RNt2A
 " target="_blank"><img src="http://img.youtube.com/vi/dYVlv-RNt2A/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a><a href="http://www.youtube.com/watch?feature=player_embedded&v=dMeMqGDSDLc
+alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a><a href="http://www.youtube.com/watch?feature=player_embedded&v=dMeMqGDSDLc
 " target="_blank"><img src="http://img.youtube.com/vi/dMeMqGDSDLc/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a>
   
 ___
 
