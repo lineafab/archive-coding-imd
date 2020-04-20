@@ -4,9 +4,7 @@ ___
 
 ## Artifact - Microfilm
 
-<img src="Mother%20Earth%20Magazine/microfilmpictures2__Side_12.jpg" width="400">
-<img src="Mother%20Earth%20Magazine/Microfilmpictures__Side_5.jpg" width="400">
-<img src="Mother%20Earth%20Magazine/IMG_1288.jpg" width="400">
+<img src="Mother%20Earth%20Magazine/microfilmpictures2__Side_12.jpg" width="400"><img src="Mother%20Earth%20Magazine/Microfilmpictures__Side_5.jpg" width="400"><img src="Mother%20Earth%20Magazine/IMG_1288.jpg" width="400">
 
 UPLOAD VIDEO to youtube
 [https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b4e11670-70e1-4587-af15-690bf432b222/168b21b1a9d14eef82e59659bdaed9ea.mov](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b4e11670-70e1-4587-af15-690bf432b222/168b21b1a9d14eef82e59659bdaed9ea.mov)
@@ -46,13 +44,9 @@ ___
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=42ISS8nKCM8
 " target="_blank"><img src="http://img.youtube.com/vi/42ISS8nKCM8/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=dYVlv-RNt2A
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a><a href="http://www.youtube.com/watch?feature=player_embedded&v=dYVlv-RNt2A
 " target="_blank"><img src="http://img.youtube.com/vi/dYVlv-RNt2A/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
- 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=dMeMqGDSDLc
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a><a href="http://www.youtube.com/watch?feature=player_embedded&v=dMeMqGDSDLc
 " target="_blank"><img src="http://img.youtube.com/vi/dMeMqGDSDLc/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
   
@@ -71,19 +65,12 @@ ___
 **Before**
 
 
-<img src="Mother%20Earth%20Magazine/0072.jpg" width="500">
-<img src="Mother%20Earth%20Magazine/0074.jpg" width="500">
-<img src="Mother%20Earth%20Magazine/M.E_1_0004.tif" width="400">
-<img src="Mother%20Earth%20Magazine/M.E_1_0016.tif" width="400">
-<img src="Mother%20Earth%20Magazine/M.E_1_0020.tif" width="400">
+<img src="Mother%20Earth%20Magazine/0072.jpg" width="500"><img src="Mother%20Earth%20Magazine/0074.jpg" width="500"><img src="Mother%20Earth%20Magazine/M.E_1_0004.tif" width="400"><img src="Mother%20Earth%20Magazine/M.E_1_0016.tif" width="400"><img src="Mother%20Earth%20Magazine/M.E_1_0020.tif" width="400">
 
 **After**
 
 
-<img src="Mother%20Earth%20Magazine/P1.jpg" width="400">
-<img src="Mother%20Earth%20Magazine/P2.jpg" width="400">
-<img src="Mother%20Earth%20Magazine/P3.png" width="400">
-<img src="Mother%20Earth%20Magazine/P4.jpg" width="400">
+<img src="Mother%20Earth%20Magazine/P1.jpg" width="400"><img src="Mother%20Earth%20Magazine/P2.jpg" width="400"><img src="Mother%20Earth%20Magazine/P3.png" width="400"><img src="Mother%20Earth%20Magazine/P4.jpg" width="400">
 
 
 Still in progress
@@ -143,10 +130,7 @@ ___
 
 ## Website Try out one: 
 
-<img src="Mother%20Earth%20Magazine/coding Sketches.jpg" width="500">
-<img src="Mother%20Earth%20Magazine/coding Sketches2.jpg" width="500">
-<img src="Mother%20Earth%20Magazine/coding Sketches3.jpg" width="500">
-<img src="Mother%20Earth%20Magazine/coding Sketches4.jpg" width="500">
+<img src="Mother%20Earth%20Magazine/coding Sketches.jpg" width="500"><img src="Mother%20Earth%20Magazine/coding Sketches2.jpg" width="500"><img src="Mother%20Earth%20Magazine/coding Sketches3.jpg" width="500"><img src="Mother%20Earth%20Magazine/coding Sketches4.jpg" width="500">
 
 ___
 
