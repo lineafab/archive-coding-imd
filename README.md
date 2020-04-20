@@ -137,6 +137,8 @@ ___
 # In between (Thoughs, Ideas etc): 
 
 ## Thought 
+
+
 **→ Non linear narrative - The mother Earth.** The different medias that have being used. In the magazine. Always a new knowledges, you never know. 
 
 → imd: In the archive will never be a linear narrative. its about perspective and personally  opinion/direction. Can I use the way/function(machine) of used of the microfilm today?. To transcode this magazine in the future. installation. circle experiences. Where to break the circle?
@@ -150,23 +152,25 @@ Derrida asks what should be included in archives, where there are gaps, and what
 
 ## Visual references 
    * **WEBSITE** non linear narrtive, online magazine, structure [https://www.e-flux.com].
+   * **WEBSITE** Structure of website, 3 dimensions [http://differentrecordings.com].
+   * **WEBSITE** Online reading, underlinies links, how to refering the orginal text into a more contemporary content [http://www.matthewshengoodman.com].
+   
+   
    * **WEBSITE/CONTENT** ZOOM IN AND OUT VIDEO [http://www.theoneminutes.org/series/enjoy-your-file-download-your-life].
    * **WEBSITE/CONTENT** Visual references and website structure idea [https://www.wired.com/story/the-rise-of-dna-data-storage/].
-  [https://ganimals.media.mit.edu/breed_em].
-   * **WEBSITE** Structure of website, 3 dimensions [http://differentrecordings.com].
    * **WEBSITE/CONTENT** Structure of website, non narrtive, dragable [http://indirect.flights].
-  * **WEBSITE** Online reading, underlinies links, how to refering the orginal text into a more contemporary content [http://www.matthewshengoodman.com].
+  
    
    
 ## Content references 
    * **CONTENT** Visual content references of media. [http://www.theoneminutes.org/series/enjoy-your-file-download-your-life].
-   * **CONTENT** genereate new images out of two other images with the methode of "Fake" GAN. 
+   * **CONTENT** genereate new images out of two other images with the methode of "Fake" GAN [https://ganimals.media.mit.edu/breed_em].
    * **CONTENT** Narrtive of the voice, impact <a href="http://www.youtube.com/watch?feature=player_embedded&v=qZiLUirMElg
 " target="_blank"><img src="http://img.youtube.com/vi/qZiLUirMElg/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
-* **### References of names and situations now a ways:**
+* **References of names and situations now a ways:**
 * https://en.wikipedia.org/wiki/List_of_anarchist_communities
 * Wiki Leaks
 * Pussy Riot 
