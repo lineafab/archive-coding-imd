@@ -1,3 +1,5 @@
+___
+
 # MOTHER EARTH MAGAZINE
 
 ## Artifact - Microfilm
@@ -30,6 +32,7 @@ by the U.S. Post Office
 
 I want to show that the issues from a 100 years old magazine is still nowadays headlines issues in different format og outcomes. But the reason and the thoughs is the same. I want to portraying the relavans of the mother earth magazine subjects to todays contemporary stages. 
 
+___
 
 ## TRANSCODING
 
@@ -53,6 +56,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 " target="_blank"><img src="http://img.youtube.com/vi/dMeMqGDSDLc/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
   
+___
 
 ### Transcoding 2: Clean the scans files 
 
@@ -81,6 +85,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 Still in progress
 
+___
 
 ### Transcoding 3: Insert a voice into text. 
 
@@ -95,6 +100,7 @@ Still in progress
 
 Still in progress. 
 
+___
 
 ### Transcoding 4: Make visual to text with content from a more present perspective
 
@@ -120,6 +126,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 Still in progress
 
+___
 
 ### final outcome transcoding : Platform -> Website
 
@@ -129,7 +136,7 @@ Still in progress
 
 * **Outcome goal** -> A transcoded mother earth magazine with their subjects in a contemporary format and relatable.
 
-
+___
 
 ## Website Try out one: 
 
@@ -140,7 +147,6 @@ Still in progress
 
 ___
 
-Underscores
 
 # In between (Thoughs, Ideas etc): 
 
