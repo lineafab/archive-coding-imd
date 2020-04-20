@@ -142,21 +142,31 @@ Still in progress
 # In between (Thoughs, Ideas etc): 
 
 ## Thought 
-## visual references 
+**→ Non linear narrative - The mother Earth.** The different medias that have being used. In the magazine. Always a new knowledges, you never know. 
+
+→ imd: In the archive will never be a linear narrative. its about perspective and personally  opinion/direction. Can I use the way/function(machine) of used of the microfilm today?. To transcode this magazine in the future. installation. circle experiences. Where to break the circle?
+
+→ A book has it begnings and a end, but what if where is no way of start or endings? Emma Goldman's story has a starting point, but as she tell that her life start for real later in the her. She decidede when her life begins. (find the date Linea) 
+
+**Archive Fever - Derrida** → He desricbe the similiarity between an archive and the human psylogi mind. How we capture, select, lost memory. That our urgent to control everything, but as Derrida desricbe that there will always be another perspective. 
+
+Derrida asks what should be included in archives, where there are gaps, and what a Freudian archive might look like.
+
+
+## Visual references 
    * **WEBSITE** non linear narrtive, online magazine, structure [https://www.e-flux.com].
    * **WEBSITE/CONTENT** ZOOM IN AND OUT VIDEO [http://www.theoneminutes.org/series/enjoy-your-file-download-your-life].
    * **WEBSITE/CONTENT** Visual references and website structure idea [https://www.wired.com/story/the-rise-of-dna-data-storage/].
   [https://ganimals.media.mit.edu/breed_em].
    * **WEBSITE** Structure of website, 3 dimensions [http://differentrecordings.com].
    * **WEBSITE/CONTENT** Structure of website, non narrtive, dragable [http://indirect.flights].
-  
   * **WEBSITE** Online reading, underlinies links, how to refering the orginal text into a more contemporary content [http://www.matthewshengoodman.com].
    
    
-## content references 
+## Content references 
    * **CONTENT** Visual content references of media. [http://www.theoneminutes.org/series/enjoy-your-file-download-your-life].
    * **CONTENT** genereate new images out of two other images with the methode of "Fake" GAN. 
-    * **CONTENT** Narrtive of the voice, impact <a href="http://www.youtube.com/watch?feature=player_embedded&v=qZiLUirMElg
+   * **CONTENT** Narrtive of the voice, impact <a href="http://www.youtube.com/watch?feature=player_embedded&v=qZiLUirMElg
 " target="_blank"><img src="http://img.youtube.com/vi/qZiLUirMElg/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
