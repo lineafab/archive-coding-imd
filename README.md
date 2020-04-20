@@ -1,30 +1,10 @@
-# archive-coding-imd
-Coding/IMD
-### **Reguets Links**
+# MOTHER EARTH MAGAZINE
 
-[https://search.iisg.amsterdam/Record/966870](https://search.iisg.amsterdam/Record/966870)
+## Artifact - Microfilm
+pictures of the microfilm
+<img src="Mother%20Earth%20Magazine/Skrmbillede_2020-03-06_kl._13.11.02.png" width="300">
 
-[https://search.iisg.amsterdam/Cover/Show?author=Plaster&callnumber=BG+H2%2F995&size=large&title=Poster+Emma+Goldman&oclc=982974756&pid=30051001214011&publication=pictoright](https://search.iisg.amsterdam/Cover/Show?author=Plaster&callnumber=BG+H2%2F995&size=large&title=Poster+Emma+Goldman&oclc=982974756&pid=30051001214011&publication=pictoright)
-
-[https://search.iisg.amsterdam/Record/614498](https://search.iisg.amsterdam/Record/614498)
-
-[https://search.iisg.amsterdam/Record/934334](https://search.iisg.amsterdam/Record/934334)
-
-[https://search.iisg.amsterdam/Record/614761](https://search.iisg.amsterdam/Record/614761)
-
-[https://search.iisg.amsterdam/Record/ARCH00538](https://search.iisg.amsterdam/Record/ARCH00538)
-
-[https://search.iisg.amsterdam/Record/ARCH00538](https://search.iisg.amsterdam/Record/ARCH00538)
-
-11 Marts
-
-[https://search.iisg.amsterdam/Record/ARCH00520](https://search.iisg.amsterdam/Record/ARCH00520)
-
-[https://search.iisg.amsterdam/Record/1383973](https://search.iisg.amsterdam/Record/1383973)
-
----
-
-### Mother Earth
+### Mother Earth 
 
 Mother Earth magazine. (1906-1918) (social science and Literature)
 
@@ -51,13 +31,7 @@ by the U.S. Post Office
 
 → Mother Earth Bulletin was forced to close
 
-**Another kind of anarchist magazine.** 
 
-→ Benjamin Tucker, the publisher of the individual anarchist magazine **Liberty**
-
----
-
----
 <img src="Mother%20Earth%20Magazine/Skrmbillede_2020-03-06_kl._13.11.02.png" width="300">
 
 <img src="Mother%20Earth%20Magazine/Skrmbillede_2020-03-06_kl._13.10.57.png" width="300">
