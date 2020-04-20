@@ -1,8 +1,13 @@
 # MOTHER EARTH MAGAZINE
 
 ## Artifact - Microfilm
-pictures of the microfilm
-<img src="Mother%20Earth%20Magazine/Skrmbillede_2020-03-06_kl._13.11.02.png" width="300">
+
+<img src="Mother%20Earth%20Magazine/microfilmpictures2__Side_12.jpg" width="300">
+<img src="Mother%20Earth%20Magazine/Microfilmpictures__Side_5.jpg" width="300">
+<img src="Mother%20Earth%20Magazine/IMG_1288.jpg" width="300">
+
+UPLOAD VIDEO to youtube
+[https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b4e11670-70e1-4587-af15-690bf432b222/168b21b1a9d14eef82e59659bdaed9ea.mov](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b4e11670-70e1-4587-af15-690bf432b222/168b21b1a9d14eef82e59659bdaed9ea.mov)
 
 ### Mother Earth 
 
@@ -31,62 +36,21 @@ by the U.S. Post Office
 
 → Mother Earth Bulletin was forced to close
 
+#PROJECT GOAL
 
-<img src="Mother%20Earth%20Magazine/Skrmbillede_2020-03-06_kl._13.11.02.png" width="300">
+I want to show that the issues from a 100 years old magazine is still nowadays headlines issues in different format og outcomes. But the reason and the thoughs is the same. I want to portraying the relavans of the mother earth magazine subjects to todays contemporary stages. 
 
-<img src="Mother%20Earth%20Magazine/Skrmbillede_2020-03-06_kl._13.10.57.png" width="300">
 
-<img src="Mother%20Earth%20Magazine/Skrmbillede_2020-03-06_kl._13.11.51.png" width="300">
+#TRANSCODING
 
-<img src="Mother%20Earth%20Magazine/Skrmbillede_2020-03-06_kl._13.11.56.png" width="300">
+#Transcoding 1: Function of the transcoder machine
 
-<img src="Mother%20Earth%20Magazine/Skrmbillede_2020-03-06_kl._13.12.06.png" width="300">
-
-<img src="Mother%20Earth%20Magazine/Skrmbillede_2020-03-06_kl._13.35.33.png" width="300">
-
-<img src="Mother%20Earth%20Magazine/Skrmbillede_2020-03-06_kl._13.12.10.png" width="300">
-
-<img src="Mother%20Earth%20Magazine/Skrmbillede_2020-03-06_kl._13.35.41.png" width="300">
-
-<img src="Mother%20Earth%20Magazine/Skrmbillede_2020-03-06_kl._13.35.28.png" width="300">
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=A6jYDI_QiCk
+" target="_blank"><img src="http://img.youtube.com/vi/A6jYDI_QiCk/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
 
-## Artefacts
-
-<img src="Mother%20Earth%20Magazine/microfilmpictures2__Side_12.jpg" width="300">
-
-<img src="Mother%20Earth%20Magazine/IMG_1288.jpg" width="300">
-
-<img src="Mother%20Earth%20Magazine/Microfilmpictures__Side_5.jpg" width="300">
-
-UPLOAD VIDEO to youtube
-[https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b4e11670-70e1-4587-af15-690bf432b222/168b21b1a9d14eef82e59659bdaed9ea.mov](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b4e11670-70e1-4587-af15-690bf432b222/168b21b1a9d14eef82e59659bdaed9ea.mov)
-
-## Pictures from IISH
-
-<img src="Mother%20Earth%20Magazine/EmmaGoldmann_Side_05_Billede_0001.jpg" width="300">
-
-
-<img src="Mother%20Earth%20Magazine/EmmaGoldmann_Side_28_Billede_0001.jpg" width="300">
-
-<img src="Mother%20Earth%20Magazine/EmmaGoldmann_Side_08_Billede_0001.jpg" width="300">
-
-<img src="Mother%20Earth%20Magazine/EmmaGoldmann_Side_06_Billede_0001.jpg" width="300">
-
-<img src="Mother%20Earth%20Magazine/EmmaGoldmann_Side_35_Billede_0001.jpg" width="300">
-
-<img src="Mother%20Earth%20Magazine/EmmaGoldmann_Side_34_Billede_0001.jpg" width="300">
-
-<img src="Mother%20Earth%20Magazine/EmmaGoldmann_Side_36_Billede_0001.jpg" width="300">
-
-<img src="Mother%20Earth%20Magazine/EmmaGoldmann_Side_33_Billede_0001.jpg" width="300">
-
-<img src="Mother%20Earth%20Magazine/EmmaGoldmann_Side_32_Billede_0001.jpg" width="300">
-
-<img src="Mother%20Earth%20Magazine/EmmaGoldmann_Side_26_Billede_0001.jpg" width="300">
-
-<img src="Mother%20Earth%20Magazine/EmmaGoldmann_Side_27_Billede_0001.jpg" width="300">
 
 
 **What media timeline:** 
