@@ -45,10 +45,10 @@ I want to show that the issues from a 100 years old magazine is still nowadays h
 
 ### Transcoding 1: Recording the Microfilm machine and in use. 
   
-  ⋅⋅ Why: I wanted to figure out the machines functionality. So I recorded my self useing it with different focus points. 
-  ⋅⋅ Recording of my handgesture when I was useing the machine. 
-  ⋅⋅ The screen function of zoom in and out. 
-  ⋅⋅ The sound of the machine.
+  * Why: I wanted to figure out the machines functionality. So I recorded my self useing it with different focus points. 
+  ⋅⋅* Recording of my handgesture when I was useing the machine. 
+  ⋅⋅* The screen function of zoom in and out. 
+  ⋅⋅* The sound of the machine.
 
  
 
