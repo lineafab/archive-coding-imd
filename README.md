@@ -129,7 +129,7 @@ ___
 ## Website Try out one: 
 
 <img src="Mother%20Earth%20Magazine/coding Sketches.jpg" width="700"><img src="Mother%20Earth%20Magazine/coding Sketches2.jpg" width="700">
-<img src="Mother%20Earth%20Magazine/coding Sketches3.jpg" width="700"><img src="Mother%20Earth%20Magazine/coding Sketches4.jpg" width="500">
+<img src="Mother%20Earth%20Magazine/coding Sketches3.jpg" width="700"><img src="Mother%20Earth%20Magazine/coding Sketches4.jpg" width="700">
 
 ___
 
