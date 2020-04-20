@@ -36,23 +36,23 @@ by the U.S. Post Office
 
 → Mother Earth Bulletin was forced to close
 
-# PROJECT GOAL
+## PROJECT GOAL
 
 I want to show that the issues from a 100 years old magazine is still nowadays headlines issues in different format og outcomes. But the reason and the thoughs is the same. I want to portraying the relavans of the mother earth magazine subjects to todays contemporary stages. 
 
 
-# TRANSCODING
+## TRANSCODING
 
-# Transcoding 1: Recording the Microfilm machine and in use. 
+### Transcoding 1: Recording the Microfilm machine and in use. 
   
-  ⋅⋅* Why: I wanted to figure out the machines functionality. So I recorded my self useing it with different focus points. 
-  ⋅⋅* Recording of my handgesture when I was useing the machine. 
-  ⋅⋅* The screen function of zoom in and out. 
-  ⋅⋅* The sound of the machine.
+  ⋅⋅ Why: I wanted to figure out the machines functionality. So I recorded my self useing it with different focus points. 
+  ⋅⋅ Recording of my handgesture when I was useing the machine. 
+  ⋅⋅ The screen function of zoom in and out. 
+  ⋅⋅ The sound of the machine.
 
  
 
-# Transcoding 2: Clean the 
+### Transcoding 2: Clean the 
 
 
 
