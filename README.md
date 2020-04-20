@@ -4,9 +4,9 @@ ___
 
 ## Artifact - Microfilm
 
-<img src="Mother%20Earth%20Magazine/microfilmpictures2__Side_12.jpg" width="300">
-<img src="Mother%20Earth%20Magazine/Microfilmpictures__Side_5.jpg" width="300">
-<img src="Mother%20Earth%20Magazine/IMG_1288.jpg" width="300">
+<img src="Mother%20Earth%20Magazine/microfilmpictures2__Side_12.jpg" width="400">
+<img src="Mother%20Earth%20Magazine/Microfilmpictures__Side_5.jpg" width="400">
+<img src="Mother%20Earth%20Magazine/IMG_1288.jpg" width="400">
 
 UPLOAD VIDEO to youtube
 [https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b4e11670-70e1-4587-af15-690bf432b222/168b21b1a9d14eef82e59659bdaed9ea.mov](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b4e11670-70e1-4587-af15-690bf432b222/168b21b1a9d14eef82e59659bdaed9ea.mov)
@@ -71,8 +71,8 @@ ___
 **Before**
 
 
-<img src="Mother%20Earth%20Magazine/0072.jpg" width="400">
-<img src="Mother%20Earth%20Magazine/0074.jpg" width="400">
+<img src="Mother%20Earth%20Magazine/0072.jpg" width="500">
+<img src="Mother%20Earth%20Magazine/0074.jpg" width="500">
 <img src="Mother%20Earth%20Magazine/M.E_1_0004.tif" width="400">
 <img src="Mother%20Earth%20Magazine/M.E_1_0016.tif" width="400">
 <img src="Mother%20Earth%20Magazine/M.E_1_0020.tif" width="400">
@@ -143,10 +143,10 @@ ___
 
 ## Website Try out one: 
 
-<img src="Mother%20Earth%20Magazine/coding Sketches.jpg" width="400">
-<img src="Mother%20Earth%20Magazine/coding Sketches2.jpg" width="400">
-<img src="Mother%20Earth%20Magazine/coding Sketches3.jpg" width="400">
-<img src="Mother%20Earth%20Magazine/coding Sketches4.jpg" width="400">
+<img src="Mother%20Earth%20Magazine/coding Sketches.jpg" width="500">
+<img src="Mother%20Earth%20Magazine/coding Sketches2.jpg" width="500">
+<img src="Mother%20Earth%20Magazine/coding Sketches3.jpg" width="500">
+<img src="Mother%20Earth%20Magazine/coding Sketches4.jpg" width="500">
 
 ___
 
