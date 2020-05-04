@@ -53,11 +53,6 @@ A microfiche is a sheet of flat film, 105 x 148 mm. A microfiche can be in negat
 
 ### What is Mother Earth magaszine?
 
-## PROJECT GOAL
-
-I want to show that the issues from a 100 years old magazine is still nowadays headlines issues in different format og outcomes. But the reason and the thoughs is the same. I want to portraying the relavans of the mother earth magazine subjects to todays contemporary stages. 
-
-___
 
 # Transcoding
 ## Transcoding no.1
@@ -67,16 +62,6 @@ In my transcoding I wanted to research how to preserved these microfilm and the 
 How can I transform a text based magazine into a more understanding narrative with a mission and vision, without losing its context. I want to show that the issues from a 100 years old magazine is still nowadays headlines issues in different format og outcomes. But the reason and the thoughs has not changes. I want to portraying the relavans of the mother earth magazine subjects to todays contemporary stages. 
 
 On my transcoding I focused on two methods, preservation and transformation.
-
-
-
-
-
-
-
-
-
-
 
 
 
