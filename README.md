@@ -56,7 +56,7 @@ by the U.S. Post Office
 
 
 <a name="2"></a>
-# Research (H1)
+# Research
 
 My research started with examining the potential and spectrum of IISH archives. Where examined in various subjects and objects. Here I came across Emma Goldman's and her story where I began and request some physical materials where I find these microfiches, which are not visualized on the website. So when they came, I received these microfiches with no idea what it was and how I could use it. I got an introduction to the machine that can help to see the pages on a large scale. The whole technical thing in it caught my interest but also this magazine and the magazine's vision and mission.
 
@@ -72,6 +72,18 @@ A microfiche is a sheet of flat film, 105 x 148 mm. A microfiche can be in negat
 
 <a name="2.1.3"></a>
 ### My uses of the microfiche
+* **WHAT:** I wanted to figure out the machines functionality. So I recorded my self useing it with different focus points. Recording of my handgesture when I was useing the machine. The screen function of zoom in and out. The sound of the machine.
+
+* **TOOL:** Video camera, handhold recording
+
+* **OUTCOME:** Video recording
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=42ISS8nKCM8
+" target="_blank"><img src="http://img.youtube.com/vi/42ISS8nKCM8/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a><a href="http://www.youtube.com/watch?feature=player_embedded&v=dYVlv-RNt2A
+" target="_blank"><img src="http://img.youtube.com/vi/dYVlv-RNt2A/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a><a href="http://www.youtube.com/watch?feature=player_embedded&v=dMeMqGDSDLc
+" target="_blank"><img src="http://img.youtube.com/vi/dMeMqGDSDLc/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a>
 
 
 <a name="2.2"></a>
