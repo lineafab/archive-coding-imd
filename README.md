@@ -1,5 +1,5 @@
 
-[<img src="Mother%20Earth%20Magazine/microfilmpictures2__Side_12.jpg" width="100%">](#)
+[<img src="Mother%20Earth%20Magazine/coverIMD.jpg" width="100%">](#)
 # MOTHER EARTH MAGAZINE
 
 ### Table of Contents
