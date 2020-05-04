@@ -168,13 +168,10 @@ ___
 " target="_blank"><img src="http://img.youtube.com/vi/0qo4fB9sFdE/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a><a href="http://www.youtube.com/watch?feature=player_embedded&v=rYcdIvrz1ZY
 " target="_blank"><img src="http://img.youtube.com/vi/rYcdIvrz1ZY/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a><a href="http://www.youtube.com/watch?feature=player_embedded&v=rNvykllljJAY
+" target="_blank"><img src="http://img.youtube.com/vi/rNvykllljJAY/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a>
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=rNvykllljJAY
-
-" target="_blank"><img src="http://img.youtube.com/vi/NvykllljJAY
-/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a>
 ___
 
 <a name="3.3"></a>
