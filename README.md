@@ -159,7 +159,7 @@ ___
 <a name="3.2"></a>
 ### Processing with use the content
 
-* **WHAT:** I wanted to use the journal itself to generate the some visuals that can give
+* **WHAT:** I wanted to use the journal itself to generate the some visuals that can give the website some visual element. 
 
 * **TOOL:** Processing
 
