@@ -77,6 +77,8 @@ A microfiche is a sheet of flat film, 105 x 148 mm. A microfiche can be in negat
 * **TOOL:** Video camera, handhold recording
 
 * **OUTCOME:** Video recording
+
+<br/>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=42ISS8nKCM8
 " target="_blank"><img src="http://img.youtube.com/vi/42ISS8nKCM8/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a><a href="http://www.youtube.com/watch?feature=player_embedded&v=dYVlv-RNt2A
