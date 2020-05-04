@@ -1,6 +1,6 @@
 
 [<img src="Mother%20Earth%20Magazine/COVERIMD.png" width="100%">](#)
-# MOTHER EARTH MAGAZINE
+# MOTHER EARTH JOURNAL
 
 ### Table of Contents
 1. [Artefact](#1)
@@ -10,14 +10,20 @@
         - [What is a microfiche](#2.1.1)
         - [The history of microfiche and its use](#2.1.2)
         - [My uses of the microfiche](#2.1.3)
-    - [Mother Earth magaszine](#2.2)
-        - [What is Mother Earth magaszine?](#2.2.1)
-        - [Who is Emma goldmann?](#2.2.2)
-3. [Transcoding](#Transcoding)
-    1. [Transcoding No. 1](#Transcoding-no-1)
-    2. [Transcoding Tool](#Transcoding-tool)
+    - [Mother Earth Journal](#2.2)
+        - [What is Mother Earth Journal?](#2.2.1)
+        - [Who is Emma goldmann and ?](#2.2.2)
+3. [Transcoding](#3)
+    - [Content transcoding](#3.1)
+        - [Clean the scans files](#3.1.1)
+        - [Processing with use the content](#3.1.2)
+        - [text into video clips](#3.1.3)
+        - [Insert a voice into text.](#3.1.4)
 4. [Reflection](#Reflection)
 5. [Outcome](#Outcome)
+   - [website](#website code)
+        - [Website elements](#3.1.1)
+        - [HTML, CSS, JS](#3.1.1)
 6. [Conclusion](#Conclusion)
 7. [Bibliography](#Bibliography) 
 
@@ -59,6 +65,10 @@ by the U.S. Post Office
 # Research
 
 My research started with examining the potential and spectrum of IISH archives. Where examined in various subjects and objects. Here I came across Emma Goldman's and her story where I began and request some physical materials where I find these microfiches, which are not visualized on the website. So when they came, I received these microfiches with no idea what it was and how I could use it. I got an introduction to the machine that can help to see the pages on a large scale. The whole technical thing in it caught my interest but also this magazine and the magazine's vision and mission.
+
+Derrida in Archive Fever desricbe the similiarity between an srchive and the human psylogi mnd. How we capture, select, lost memory. That our urgent to control everything, but as Derrida desribe that there will always be another perspective. 
+He desricbe as well that in a arhive will never be a linear narrative. its about perspective and personally  opinion/direction. Can I use the way/function(machine) of used of the microfilm today?. To transcode this magazine in the future. installation. circle experiences. Where to break the circle?
+
 
 <a name="2.1"></a>
 ## Microfiche
@@ -108,18 +118,18 @@ Mother Earth was a radical political journal and got their first publishing in M
 <a name="2.2.1"></a>
 ## Who is Emma goldmann?
 
-
+<a name="3"></a>
 # Transcoding
-## Transcoding no.1
+
 ### Description
 
-In my transcoding I wanted to research how to preserved these microfiches and the magazine with a more accessible contemporary mediums. How can I preserve this microfiche with this text based magazine into a more understanding narrative with a mission and vision, without losing its context. One of the big lack of a microfiche is the cost expenses. Reading microfiches need a reader-printers are not always available, often on a public library, limiting the potential user and the ability to make copies. I want to show that the issues from a 100 years old magazine is still nowadays headlines issues in different format og outcomes. But the reason and the thoughs has not changes. I want to portraying the relavans of the mother earth magazine subjects to todays contemporary stages. 
+In my transcoding I wanted to research how to preserved these microfiches and the journal with a more accessible contemporary mediums. How can I preserve this microfiche with this text based journal into a more understanding narrative with a mission and vision, without losing its context. One of the big lack of a microfiche is the cost expenses. Reading microfiches need a reader-printers are not always available, often on a public library, limiting the potential user and the ability to make copies. I want to show that the issues from a 100 years old journal is still nowadays headlines issues in different format og outcomes. But the reason and the thoughs has not changes. I want to portraying the relavans of the mother earth journal subjects to todays contemporary stages. 
 
 On my transcoding I focused on two methods, preservation and transformation.
 
 
-
-## Transcoding 1: Clean the scans files
+<a name="3.1"></a>
+## Clean the scans files
 * **WHAT:** I wanted to make it more possible to read and translate in web-based format, because the scans of the pages, is not straight and contrain a lot of dust from the microfilm machine.  
 
 * **TOOL:** Photoshop, adobe reader
@@ -145,10 +155,10 @@ On my transcoding I focused on two methods, preservation and transformation.
 Still in progress
   
 ___
+<a name="3.2"></a>
+### Processing with use the content
 
-### Transcoding 2: Processing with use the content
-
-* **WHAT:** I wanted to use the magazine itself to generate the some visuals that can give
+* **WHAT:** I wanted to use the journal itself to generate the some visuals that can give
 
 * **TOOL:** Processing
 
@@ -165,7 +175,8 @@ alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a>
 alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a>
 ___
 
-### Transcoding 3: Insert a voice into text. 
+<a name="3.3"></a>
+### Insert a voice into text 
 
 * **WHAT:** The text is very old with a old languages. I wanted to get a person to read the text up, to get it more contemporary and relatable. 
 
@@ -204,11 +215,11 @@ ___
 
 ### final outcome transcoding : Platform -> Website
 
-* **Function:** I want to connect the 3 different transcoding methode in a website platform. In that way I can use different media and make a interpretation of the magazine and the microfilm.
+* **Function:** I want to connect the 3 different transcoding methode in a website platform. In that way I can use different media and make a interpretation of the journal and the microfilm.
 
 * **Tool:** Coding -> Html, css and js. 
 
-* **Outcome goal** -> A transcoded mother earth magazine with their subjects in a contemporary format and relatable.
+* **Outcome goal** -> A transcoded mother earth journal with their subjects in a contemporary format and relatable.
 
 ___
 
@@ -220,24 +231,12 @@ ___
 ___
 
 
-# In between (Thoughs, Ideas etc): 
-
-## Thought 
 
 
-**→ Non linear narrative - The mother Earth.** The different medias that have being used. In the magazine. Always a new knowledges, you never know. 
-
-→ imd: In the archive will never be a linear narrative. its about perspective and personally  opinion/direction. Can I use the way/function(machine) of used of the microfilm today?. To transcode this magazine in the future. installation. circle experiences. Where to break the circle?
-
-→ A book has it begnings and a end, but what if where is no way of start or endings? Emma Goldman's story has a starting point, but as she tell that her life start for real later in the her. She decidede when her life begins. (find the date Linea) 
-
-**Archive Fever - Derrida** → He desricbe the similiarity between an archive and the human psylogi mind. How we capture, select, lost memory. That our urgent to control everything, but as Derrida desricbe that there will always be another perspective. 
-
-Derrida asks what should be included in archives, where there are gaps, and what a Freudian archive might look like.
-
+7. [Bibliography](#Bibliography) 
 
 ## Visual references 
-   * **WEBSITE** non linear narrtive, online magazine, structure [https://www.e-flux.com].
+   * **WEBSITE** non linear narrtive, online journal, structure [https://www.e-flux.com].
    * **WEBSITE** Structure of website, 3 dimensions [http://differentrecordings.com].
    * **WEBSITE** Online reading, underlinies links, how to refering the orginal text into a more contemporary content [http://www.matthewshengoodman.com].
    
@@ -245,7 +244,6 @@ Derrida asks what should be included in archives, where there are gaps, and what
    * **WEBSITE/CONTENT** ZOOM IN AND OUT VIDEO [http://www.theoneminutes.org/series/enjoy-your-file-download-your-life].
    * **WEBSITE/CONTENT** Visual references and website structure idea [https://www.wired.com/story/the-rise-of-dna-data-storage/].
    * **WEBSITE/CONTENT** Structure of website, non narrtive, dragable [http://indirect.flights].
-  
    
    
 ## Content references 
