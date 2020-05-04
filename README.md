@@ -14,10 +14,6 @@
 6. [Conclusion](#Conclusion)
 7. [Bibliography](#Bibliography) 
 
-
-
-
-
 # Artifact - Microfilm
 Mother Earth magazine. (1906-1918) (social science and Literature)
 
@@ -32,7 +28,7 @@ Mother Earth magazine. (1906-1918) (social science and Literature)
 → comment on the contemporary scene
 → In August 1917, for the final issue of Mother Earth—which was confiscated
 by the U.S. Post Office
-→ Mother Earth Bulletin was forced to close
+→ Mother Earth Bulletin was forced to close. 
 
 
 
@@ -46,7 +42,16 @@ by the U.S. Post Office
 | **Medium** | Fiche
 | **Materials** | Fiche
 | **Date** | Unknown
-|![enter image description here](<img src="Mother%20Earth%20Magazine/microfilmpictures2__Side_12.jpg" width="100"><img src="Mother%20Earth%20Magazine/Microfilmpictures__Side_5.jpg" width="100"> )| 
+| <img src="Mother%20Earth%20Magazine/microfilmpictures2__Side_12.jpg" width="200">
+<img src="Mother%20Earth%20Magazine/Microfilmpictures__Side_5.jpg" width="200"> | 
+
+# Research (H1)
+
+My research started with examining the potential and spectrum of IISH archives. Where examined in various subjects and objects. Here I came across Emma Goldman's and her story where I began and request some physical materials where I find these microfilms, which are not visualized on the website. So when they came, I received these microfilms with no idea what it was and how I could use it. I got an introduction to the machine that can help to see the pages on a large scale. The whole technical thing in it caught my interest but also this magazine and the magazine's vision and mission.
+
+## What is a microfilm (fiche)?
+
+### What is Mother Earth magaszine?
 
 ## PROJECT GOAL
 
@@ -54,9 +59,28 @@ I want to show that the issues from a 100 years old magazine is still nowadays h
 
 ___
 
-## TRANSCODING
+# Transcoding
+## Transcoding no.1
+### Description
 
-### Transcoding 1: Recording the Microfilm machine and in use. 
+In my transcoding I wanted to research how to preserved these microfilm and the magazine with contemporary mediums.
+How can I transform a text based magazine into a more understanding narrative with a mission and vision, without losing its context. I want to show that the issues from a 100 years old magazine is still nowadays headlines issues in different format og outcomes. But the reason and the thoughs has not changes. I want to portraying the relavans of the mother earth magazine subjects to todays contemporary stages. 
+
+On my transcoding I focused on two methods, preservation and transformation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Transcoding 1: Recording the Microfilm machine and in use. 
   
 * **WHAT:** I wanted to figure out the machines functionality. So I recorded my self useing it with different focus points. Recording of my handgesture when I was useing the machine. The screen function of zoom in and out. The sound of the machine.
 
