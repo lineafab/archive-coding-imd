@@ -40,13 +40,13 @@ by the U.S. Post Office
 
 | Tag | Data |  
 |--|--|
-**IISG Call Number** | [IISG BG K21/985](https://search.iisg.amsterdam/Record/1109411)
-| **Physical Description** | Copper Bust 
-| **Type** | Object
-| **Medium** | Sculpture
-| **Materials** | Copper, Steel
-| **Date** | 1912
-|![enter image description here](<img src="Mother%20Earth%20Magazine/microfilmpictures2__Side_12.jpg"><img src="Mother%20Earth%20Magazine/Microfilmpictures__Side_5.jpg">)| This is literally a description of what you see in the image, make sure its a clear, complete and concise overview of the artefact. It should make sense for someone who doesn't see the image itself.  Our final *Catalogue of Resilience* might make use of one representative image from each student, so important to put your moneyshot here. You can build a gallery of additional artefact images below. 
+**IISG Call Number** | [IISG Fiche 169 1(1906/07) - 12(1917):No.6](https://search.iisg.amsterdam/Record/1383973)
+| **Physical Description** | Unknown
+| **Type** | Serials
+| **Medium** | Fiche
+| **Materials** | Fiche
+| **Date** | Unknown
+|![enter image description here](<img src="Mother%20Earth%20Magazine/microfilmpictures2__Side_12.jpg"><img src="Mother%20Earth%20Magazine/Microfilmpictures__Side_5.jpg">)| 
 
 ## PROJECT GOAL
 
