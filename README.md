@@ -102,7 +102,8 @@ alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a>
 
 
 <a name="2.2"></a>
-### What is Mother Earth magaszine?
+### What is Mother Earth journal?
+Mother Earth was a radical political journal and got their first publishing in March 1906 by anarchist Emma Goldman and Alexander Berkman. The 
 
 <a name="2.2.1"></a>
 ## Who is Emma goldmann?
