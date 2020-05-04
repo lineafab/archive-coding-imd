@@ -348,6 +348,80 @@ ___
 <img src="Mother%20Earth%20Magazine/coding Sketches.jpg" width="700"><img src="Mother%20Earth%20Magazine/coding Sketches2.jpg" width="700">
 <img src="Mother%20Earth%20Magazine/coding Sketches3.jpg" width="700"><img src="Mother%20Earth%20Magazine/coding Sketches4.jpg" width="700">
 
+## Website Try out two:
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=qJmYxo4uM
+" target="_blank"><img src="http://img.youtube.com/vi/qJmYxo4uM/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a>
+
+
+### Code: 
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<script type="text/javascript">
+		$( function( ) {
+			var txt_hgt = $( '#text' ).height( );
+			var wnd_hgt = $( window ).height( );
+			
+			$( '#text' ).animate( { 'top': '-' + ( txt_hgt - wnd_hgt ) + 'px' }, 180000 );
+			
+			
+			
+			
+
+			$.fn.isInViewport = function() {
+				var elementTop = $(this).offset().top;
+				var elementBottom = elementTop + $(this).outerHeight();
+
+				var viewportTop = $(window).scrollTop();
+				var viewportBottom = viewportTop + $(window).height();
+
+				return elementBottom > viewportTop && elementTop < viewportBottom;
+			};
+
+
+			var footnotes = $( '.footnote' );
+			
+			
+			var footnotediv = $( '<span class="tooltip">' );
+			
+			function showFootnote( footnote ) {
+				var footnote_text = footnote.data( 'text' );
+				
+				footnotediv.text( footnote_text )
+						   .appendTo( footnote )
+						   .show( );
+						   
+				footnotediv.toggleClass( 'left', footnote.hasClass( 'left' ) );
+				footnotediv.toggleClass( 'right', footnote.hasClass( 'right' ) );
+			}
+			function hideFootnote( ) {
+				footnotediv.hide( );
+			}
+
+			function step( ) {
+				var footnote_found = false;
+				
+				footnotes.each( function( ) {
+					var footnote = $( this );
+					
+					if ( !footnote_found ) {
+						if ( footnote.isInViewport( ) ) {
+							footnote_found = true;
+						
+							showFootnote( $( this ) );
+						} else {
+							hideFootnote( );
+						}
+					}
+				} );
+  
+				window.requestAnimationFrame( step );
+			}
+
+			window.requestAnimationFrame( step );
+		} );
+	</script>
+
 ___
 
 
