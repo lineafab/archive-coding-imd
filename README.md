@@ -41,15 +41,15 @@ by the U.S. Post Office
 | **Type** | Serials
 | **Medium** | Fiche
 | **Materials** | Fiche
-| **Date** | Unknown
-| <img src="Mother%20Earth%20Magazine/microfilmpictures2__Side_12.jpg" width="200">
-<img src="Mother%20Earth%20Magazine/Microfilmpictures__Side_5.jpg" width="200"> | 
+| **Date** | 1906
+| <img src="Mother%20Earth%20Magazine/microfilmpictures2__Side_12.jpg" width="200"><img src="Mother%20Earth%20Magazine/Microfilmpictures__Side_5.jpg" width="200"> | plastic 
 
 # Research (H1)
 
-My research started with examining the potential and spectrum of IISH archives. Where examined in various subjects and objects. Here I came across Emma Goldman's and her story where I began and request some physical materials where I find these microfilms, which are not visualized on the website. So when they came, I received these microfilms with no idea what it was and how I could use it. I got an introduction to the machine that can help to see the pages on a large scale. The whole technical thing in it caught my interest but also this magazine and the magazine's vision and mission.
+My research started with examining the potential and spectrum of IISH archives. Where examined in various subjects and objects. Here I came across Emma Goldman's and her story where I began and request some physical materials where I find these microfiches, which are not visualized on the website. So when they came, I received these microfilms with no idea what it was and how I could use it. I got an introduction to the machine that can help to see the pages on a large scale. The whole technical thing in it caught my interest but also this magazine and the magazine's vision and mission.
 
-## What is a microfilm (fiche)?
+## What is a microfiche?
+A microfiche is a sheet of flat film, 105 x 148 mm. A microfiche can be in negative and positive films Microfiche aims to store fragile documents in an analog format, which may be newspapers, paper documents, or other paper material that has storage needs. The smart thing about formatting documents for microfilm is that it gets scaled down to a small format so it doesn't take up space. By using machines that dissolve microfilm content to a readable format, the content can be reread.
 
 ### What is Mother Earth magaszine?
 
