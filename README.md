@@ -46,7 +46,7 @@ by the U.S. Post Office
 | **Medium** | Fiche
 | **Materials** | Fiche
 | **Date** | Unknown
-|![enter image description here](<img src="Mother%20Earth%20Magazine/microfilmpictures2__Side_12.jpg"><img src="Mother%20Earth%20Magazine/Microfilmpictures__Side_5.jpg">)| 
+|![enter image description here](<img src="Mother%20Earth%20Magazine/microfilmpictures2__Side_12.jpg" width="100"><img src="Mother%20Earth%20Magazine/Microfilmpictures__Side_5.jpg" width="100"> )| 
 
 ## PROJECT GOAL
 
