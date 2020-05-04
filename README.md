@@ -23,7 +23,7 @@
 5. [Outcome](#5)
    - [website](#5.1)
         - [Website elements](#5.1.2)
-        - [HTML, CSS, JS](#5.1.2)
+        - [HTML, CSS, JS](#5.1.3)
 6. [Conclusion](#Conclusion)
 7. [Bibliography](#Bibliography) 
 
@@ -333,29 +333,27 @@ Still in progress
 
 ___
 
-### final outcome transcoding : Platform -> Website
 
-* **Function:** I want to connect the 3 different transcoding methode in a website platform. In that way I can use different media and make a interpretation of the journal and the microfilm.
+<a name="5"></a>
+# Outcome
 
-* **Tool:** Coding -> Html, css and js. 
+<a name="5.1"></a>
+## website
 
-* **Outcome goal** -> A transcoded mother earth journal with their subjects in a contemporary format and relatable.
+<a name="5.1.2"></a>
 
-___
-
-## Website Try out one: 
-
+### Website Try out one: 
 <img src="Mother%20Earth%20Magazine/coding Sketches.jpg" width="700"><img src="Mother%20Earth%20Magazine/coding Sketches2.jpg" width="700">
 <img src="Mother%20Earth%20Magazine/coding Sketches3.jpg" width="700"><img src="Mother%20Earth%20Magazine/coding Sketches4.jpg" width="700">
 
-## Website Try out two:
-
+### Website Try out two: 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=c7qJmYxo4uM
 " target="_blank"><img src="http://img.youtube.com/vi/c7qJmYxo4uM/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a>
+___
+<a name="5.1.3"></a>
 
-
-### Code: 
+## HTML, CSS, JS: 
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 	<script type="text/javascript">
 		$( function( ) {
