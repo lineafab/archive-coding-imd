@@ -174,6 +174,125 @@ alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a>
 
 <img src="Mother%20Earth%20Magazine/S1.png" width="200"><img src="Mother%20Earth%20Magazine/S2.png" width="200"><img src="Mother%20Earth%20Magazine/S3.png" width="200"><img src="Mother%20Earth%20Magazine/S4.png" width="200"><img src="Mother%20Earth%20Magazine/S8.png" width="200"><img src="Mother%20Earth%20Magazine/S9.png" width="200"><img src="Mother%20Earth%20Magazine/S9.png" width="200"><img src="Mother%20Earth%20Magazine/S10.png" width="200"><img src="Mother%20Earth%20Magazine/S11.png" width="200"><img src="Mother%20Earth%20Magazine/S12.png" width="200"><img src="Mother%20Earth%20Magazine/S13.png" width="200"><img src="Mother%20Earth%20Magazine/S14.png" width="200"><img src="Mother%20Earth%20Magazine/S15.png" width="200"><img src="Mother%20Earth%20Magazine/S16.png" width="200"><img src="Mother%20Earth%20Magazine/S17.png" width="200"><img src="Mother%20Earth%20Magazine/S18.png" width="200"><img src="Mother%20Earth%20Magazine/S19.png" width="200"><img src="Mother%20Earth%20Magazine/S20.png" width="200"><img src="Mother%20Earth%20Magazine/S21.png" width="200"><img src="Mother%20Earth%20Magazine/S22.png" width="200"><img src="Mother%20Earth%20Magazine/S26.png" width="200"><img src="Mother%20Earth%20Magazine/S27.png" width="200"><img src="Mother%20Earth%20Magazine/S28.png" width="200"><img src="Mother%20Earth%20Magazine/S29.png" width="200"><img src="Mother%20Earth%20Magazine/S30.png" width="200"><img src="Mother%20Earth%20Magazine/S31.png" width="200"><img src="Mother%20Earth%20Magazine/S32.png" width="200"><img src="Mother%20Earth%20Magazine/S36.png" width="200"><img src="Mother%20Earth%20Magazine/S37.png" width="200"><img src="Mother%20Earth%20Magazine/S38.png" width="200"><img src="Mother%20Earth%20Magazine/S39.png" width="200"><img src="Mother%20Earth%20Magazine/S40.png" width="200"><img src="Mother%20Earth%20Magazine/S41.png" width="200"><img src="Mother%20Earth%20Magazine/S42.png" width="200"><img src="Mother%20Earth%20Magazine/S46.png" width="200"><img src="Mother%20Earth%20Magazine/S47.png" width="200"><img src="Mother%20Earth%20Magazine/S48.png" width="200">
 
+* **CODE1:**
+
+//import java.util.Calendar;
+import com.hamoid;
+
+VideoExport videoExport;
+
+PImage img;
+
+void setup() {
+  size(1724, 1280);
+  background(255);
+  img = loadImage("P1.jpg");
+  image(img,000,000,1500,1000);
+  
+  videoExport = new VideoExport(this, "myvideo.mp4");
+  videoExport.setFrameRate(30);
+  videoExport.startMovie();
+}
+
+void draw() {
+  int x1 = (int) random(0, width);
+  int y1 = 0;
+
+  int x2 = round(x1 + random(20, -70));
+  int y2 = round(random(20, -50));
+
+  int w = (int) random(50, 150);
+  int h = height;
+
+  copy(x1,y1, w,h, x2,y2, w,h);
+  
+  videoExport.saveFrame();
+}
+
+void keyReleased() {
+  if(keyCode == DELETE || keyCode == BACKSPACE) {
+    background(255);
+    image(img,0,100);
+  }
+  if(key=='s' || key=='S') saveFrame(timestamp()+"_##.png");
+  If (key== 'q' || key=='Q') {
+    videoExport.endMovie();
+    exit();
+  }
+}
+
+// timestamp
+String timestamp() {
+  Calendar now = Calendar.getInstance();
+  return String.format("%1$ty%1$tm%1$td_%1$tH%1$tM%1$tS", now);
+}
+
+* **CODE2:**
+
+PImage img;
+
+void setup() {
+  img = loadImage("../ASSETS/image.jpg");
+  size(800, 600, P2D);
+}
+
+void draw() {
+  background(0);
+
+  // SOURCE
+  int sx = mouseX+150;
+  int sy = mouseY+150;
+  int sw = 150;
+  int sh = 150;
+
+
+  // DESTINATION
+  int dx = width/2-125;
+  int dy = height/2-125;
+  int dw = 250;
+  int dh = 250;
+
+  copy(img, sx, sy, sw, sh, dx, dy, dw, dh);
+  noFill();
+  fill(#ffffff);
+  noStroke();
+  ellipse(mouseX, mouseY, 10, 10);
+
+}
+
+* **CODE3:**
+
+color FG = #46FF33;
+color BG = #000000;
+PImage img; 
+
+void setup() {
+  size(500, 700); 
+  background(BG);
+  img = loadImage("P1.jpg");
+  img.resize(500, 700);
+}
+
+void draw() {
+  background(BG);
+  fill(FG);
+  noStroke();
+  float ratio = float(height)/float(width);
+  float tilesX = map(mouseX, 0, width, 10, 100);
+  float tilesY = ratio * tilesX;
+  float tileSize = width / tilesX;
+  for (int y = 0; y < img.height; y += tileSize) {
+    for (int x = 0; x < img.width; x += tileSize) {
+      color c = img.get(x, y);
+      float b = map(brightness(c), 0, 105, 1, 0);
+      pushMatrix();
+      translate(x, y);
+      ellipse(0, 0, b * tileSize, b * tileSize);
+      popMatrix();
+    }
+  }
+}
+
 ___
 
 <a name="3.3"></a>
