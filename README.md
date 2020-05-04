@@ -3,9 +3,16 @@
 # MOTHER EARTH MAGAZINE
 
 ### Table of Contents
-1. [Artefact](#Artefact)
-    1. [Metadata](#Metadata)
-2. [Research](#Research-h1)
+1. [Artefact](#1)
+    - [Metadata](#1.1)
+2. [Research](#2)
+    - [Micofiches](#2.1)
+        - [What is a microfiche](#2.1.1)
+        - [The history of microfiche and its use](#2.1.2)
+        - [My uses of the microfiche](#2.1.3)
+    - [Mother Earth magaszine](#2.2)
+        - [What is Mother Earth magaszine?](#2.2.1)
+        - [Who is Emma goldmann?](#2.2.2)
 3. [Transcoding](#Transcoding)
     1. [Transcoding No. 1](#Transcoding-no-1)
     2. [Transcoding Tool](#Transcoding-tool)
@@ -14,6 +21,9 @@
 6. [Conclusion](#Conclusion)
 7. [Bibliography](#Bibliography) 
 
+<br/>
+
+<a name="1"></a>
 # Artifact - Microfilm
 Mother Earth magazine. (1906-1918) (social science and Literature)
 
@@ -31,7 +41,7 @@ by the U.S. Post Office
 → Mother Earth Bulletin was forced to close. 
 
 
-
+<a name="1.1"></a>
 ## Metadata
 
 | Tag | Data |  
@@ -44,22 +54,38 @@ by the U.S. Post Office
 | **Date** | 1906
 | <img src="Mother%20Earth%20Magazine/microfilmpictures2__Side_12.jpg" width="200"><img src="Mother%20Earth%20Magazine/Microfilmpictures__Side_5.jpg" width="200"> | plastic 
 
+
+<a name="2"></a>
 # Research (H1)
 
-My research started with examining the potential and spectrum of IISH archives. Where examined in various subjects and objects. Here I came across Emma Goldman's and her story where I began and request some physical materials where I find these microfiches, which are not visualized on the website. So when they came, I received these microfilms with no idea what it was and how I could use it. I got an introduction to the machine that can help to see the pages on a large scale. The whole technical thing in it caught my interest but also this magazine and the magazine's vision and mission.
+My research started with examining the potential and spectrum of IISH archives. Where examined in various subjects and objects. Here I came across Emma Goldman's and her story where I began and request some physical materials where I find these microfiches, which are not visualized on the website. So when they came, I received these microfiches with no idea what it was and how I could use it. I got an introduction to the machine that can help to see the pages on a large scale. The whole technical thing in it caught my interest but also this magazine and the magazine's vision and mission.
 
-## What is a microfiche?
+<a name="2.1"></a>
+## Microfiche
+
+<a name="2.1.1"></a>
+### What is a microfiche?
 A microfiche is a sheet of flat film, 105 x 148 mm. A microfiche can be in negative and positive films Microfiche aims to store fragile documents in an analog format, which may be newspapers, paper documents, or other paper material that has storage needs. The smart thing about formatting documents for microfilm is that it gets scaled down to a small format so it doesn't take up space. By using machines that dissolve microfilm content to a readable format, the content can be reread.
 
+<a name="2.1.2"></a>
+### The history of microfiche and its use
+
+<a name="2.1.3"></a>
+### My uses of the microfiche
+
+
+<a name="2.2"></a>
 ### What is Mother Earth magaszine?
+
+<a name="2.2.1"></a>
+## Who is Emma goldmann?
 
 
 # Transcoding
 ## Transcoding no.1
 ### Description
 
-In my transcoding I wanted to research how to preserved these microfilm and the magazine with contemporary mediums.
-How can I transform a text based magazine into a more understanding narrative with a mission and vision, without losing its context. I want to show that the issues from a 100 years old magazine is still nowadays headlines issues in different format og outcomes. But the reason and the thoughs has not changes. I want to portraying the relavans of the mother earth magazine subjects to todays contemporary stages. 
+In my transcoding I wanted to research how to preserved these microfiches and the magazine with a more accessible contemporary mediums. How can I preserve this microfiche with this text based magazine into a more understanding narrative with a mission and vision, without losing its context. One of the big lack of a microfiche is the cost expenses. Reading microfiches need a reader-printers are not always available, often on a public library, limiting the potential user and the ability to make copies. I want to show that the issues from a 100 years old magazine is still nowadays headlines issues in different format og outcomes. But the reason and the thoughs has not changes. I want to portraying the relavans of the mother earth magazine subjects to todays contemporary stages. 
 
 On my transcoding I focused on two methods, preservation and transformation.
 
