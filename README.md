@@ -1,15 +1,24 @@
-___
 
+[<img src="Mother%20Earth%20Magazine/microfilmpictures2__Side_12.jpg" width="100%">](#)
 # MOTHER EARTH MAGAZINE
 
-## Artifact - Microfilm
+### Table of Contents
+1. [Artefact](#Artefact)
+    1. [Metadata](#Metadata)
+2. [Research](#Research-h1)
+3. [Transcoding](#Transcoding)
+    1. [Transcoding No. 1](#Transcoding-no-1)
+    2. [Transcoding Tool](#Transcoding-tool)
+4. [Reflection](#Reflection)
+5. [Outcome](#Outcome)
+6. [Conclusion](#Conclusion)
+7. [Bibliography](#Bibliography) 
 
-<img src="Mother%20Earth%20Magazine/microfilmpictures2__Side_12.jpg" width="430"><img src="Mother%20Earth%20Magazine/Microfilmpictures__Side_5.jpg" width="430">
 
 
 
-### Mother Earth 
 
+# Artifact - Microfilm
 Mother Earth magazine. (1906-1918) (social science and Literature)
 
 → "The Open Road" was the orginal name, but they got lawsuit by another magazine with the same name. 
@@ -24,6 +33,20 @@ Mother Earth magazine. (1906-1918) (social science and Literature)
 → In August 1917, for the final issue of Mother Earth—which was confiscated
 by the U.S. Post Office
 → Mother Earth Bulletin was forced to close
+
+
+
+## Metadata
+
+| Tag | Data |  
+|--|--|
+**IISG Call Number** | [IISG BG K21/985](https://search.iisg.amsterdam/Record/1109411)
+| **Physical Description** | Copper Bust 
+| **Type** | Object
+| **Medium** | Sculpture
+| **Materials** | Copper, Steel
+| **Date** | 1912
+|![enter image description here](<img src="Mother%20Earth%20Magazine/microfilmpictures2__Side_12.jpg"><img src="Mother%20Earth%20Magazine/Microfilmpictures__Side_5.jpg">)| This is literally a description of what you see in the image, make sure its a clear, complete and concise overview of the artefact. It should make sense for someone who doesn't see the image itself.  Our final *Catalogue of Resilience* might make use of one representative image from each student, so important to put your moneyshot here. You can build a gallery of additional artefact images below. 
 
 ## PROJECT GOAL
 
