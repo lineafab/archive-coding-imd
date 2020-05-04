@@ -99,11 +99,6 @@ alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a><a href="ht
 alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a>
 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=0qo4fB9sFdE
-" target="_blank"><img src="http://img.youtube.com/vi/0qo4fB9sFdE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a>
-
-
 
 
 <a name="2.2"></a>
@@ -123,26 +118,7 @@ On my transcoding I focused on two methods, preservation and transformation.
 
 
 
-## Transcoding 1: Recording the Microfilm machine and in use. 
-  
-* **WHAT:** I wanted to figure out the machines functionality. So I recorded my self useing it with different focus points. Recording of my handgesture when I was useing the machine. The screen function of zoom in and out. The sound of the machine.
-
-* **TOOL:** Video camera, handhold recording
-
-* **OUTCOME:** Video recording
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=42ISS8nKCM8
-" target="_blank"><img src="http://img.youtube.com/vi/42ISS8nKCM8/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a><a href="http://www.youtube.com/watch?feature=player_embedded&v=dYVlv-RNt2A
-" target="_blank"><img src="http://img.youtube.com/vi/dYVlv-RNt2A/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a><a href="http://www.youtube.com/watch?feature=player_embedded&v=dMeMqGDSDLc
-" target="_blank"><img src="http://img.youtube.com/vi/dMeMqGDSDLc/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a>
-  
-___
-
-### Transcoding 2: Clean the scans files 
-
+## Transcoding 1: Clean the scans files
 * **WHAT:** I wanted to make it more possible to read and translate in web-based format, because the scans of the pages, is not straight and contrain a lot of dust from the microfilm machine.  
 
 * **TOOL:** Photoshop, adobe reader
@@ -166,7 +142,26 @@ ___
 
 
 Still in progress
+  
+___
 
+### Transcoding 2: Processing with use the content
+
+* **WHAT:** I wanted to use the magazine itself to generate the some visuals that can give
+
+* **TOOL:** Processing
+
+* **OUTCOME:** skærmrecording, images visuals. 
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=0qo4fB9sFdE
+" target="_blank"><img src="http://img.youtube.com/vi/0qo4fB9sFdE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a><a href="http://www.youtube.com/watch?feature=player_embedded&v=rYcdIvrz1ZY
+" target="_blank"><img src="http://img.youtube.com/vi/rYcdIvrz1ZY/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a>
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=rYcdIvrz1ZY
+" target="_blank"><img src="http://img.youtube.com/vi/rYcdIvrz1ZY/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a>
 ___
 
 ### Transcoding 3: Insert a voice into text. 
