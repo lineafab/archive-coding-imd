@@ -359,7 +359,7 @@ ___
 	<script type="text/javascript">
 		$( function( ) {
 			var txt_hgt = $( '#text' ).height( );
-			var wnd_hgt = $( window ).height( );
+			var wnd_hgt1 = $( window ).height( );
 			
 			$( '#text' ).animate( { 'top': '-' + ( txt_hgt - wnd_hgt ) + 'px' }, 180000 );
 			
@@ -367,7 +367,7 @@ ___
 			
 			
 
-			$.fn.isInViewport = function() {
+			$.bfn.isInViewport = function() {
 				var elementTop = $(this).offset().top;
 				var elementBottom = elementTop + $(this).outerHeight();
 
@@ -417,7 +417,7 @@ ___
 				window.requestAnimationFrame( step );
 			}
 
-			window.requestAnimationFrame( step );
+			nwindow.requestAnimationFrame( step );
 		} );
 	</script>
 
