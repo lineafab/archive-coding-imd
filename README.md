@@ -97,7 +97,7 @@ As the reliability of Microforms will never change, they are used by all kinds o
 * **OUTCOME:** Video recording
 
 <br/>
-   <width="50%">
+
 [<img src="https://j.gifs.com/4QykW2.gif" width="30%">](https://youtu.be/dMeMqGDSDLc)
 [<img src="https://j.gifs.com/Qn8BVM.gif" width="30%">](https://youtu.be/42ISS8nKCM8)
 [<img src="https://j.gifs.com/r8lnQB.gif" width="30%">](https://youtu.be/dYVlv-RNt2A)
@@ -147,11 +147,11 @@ On my transcoding I focused on two methods, preservation and transformation.
 
 <a name="3.1"></a>
 <details>
-<summary><b><h2>Content transcoding</h2></b></summary>
+<summary><b>Content transcoding</h2></b></summary>
 
 <a name="3.1.1"></a>
 <details>
-<summary><b> #1 Clean the scans files</b></summary>
+<summary><i> #1 Clean the scans files</i></summary>
 	* **WHAT:** I wanted to make it more possible to read and translate in web-based format, because the scans of the pages, is not straight and contrain a lot of dust from the microfilm machine.  
 
 * **TOOL:** Photoshop, adobe reader
@@ -180,7 +180,7 @@ Still in progress
 
 <a name="3.1.2"></a>
 <details>
-<summary><b>Processing with use the content</b></summary>
+<summary><i>Processing with use the content</i></summary>
 
 * **WHAT:** I wanted to use the journal itself to generate the some visuals that can give the website some visual element. 
 
@@ -200,7 +200,7 @@ alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a>
 
 
 <details>
-<summary><b>Processing code #1</b></summary>
+<summary><i>Processing code #1</i></summary>
 
 //import java.util.Calendar;
 import com.hamoid;
