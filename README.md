@@ -13,10 +13,11 @@
     - [Mother Earth Journal](#2.2)
         - [What is Mother Earth Journal?](#2.2.1)
         - [Who is Emma goldmann and ?](#2.2.2)
-3. [Transcoding](#3)
-    - [Content transcoding](#3.1)
-    	- [#1 Clean the scans files](#3.1.1)
-        - [#1 Processing with use the content](#3.1.2)
+3. [Transcoding](#transcoding)
+    - [Microfiche reader machine](#reader)
+    - [Content transcoding](#contenttranscoding)
+    	- [#1 Clean the scans files](#clean)
+        - [#2 Processing with use the content](#processing)
         - [#3 text into video clips](#3.1.3)
         - [#4 Insert a voice into text.](#3.1.4)
     - [website transcoding](#3.2)
@@ -120,7 +121,7 @@ by the U.S. Post Office
 
 
 ___
-<a name="3"></a>
+<a name="transcoding"></a>
 # Transcoding
 
 ### Description
@@ -128,10 +129,11 @@ ___
 In my transcoding I wanted to research how to preserved these microfiches and the journal with a more accessible contemporary mediums. How can I preserve this microfiche with this text based journal into a more understanding narrative with a mission and vision, without losing its context. One of the big lack of a microfiche is the cost expenses. Reading microfiches need a reader-printers are not always available, often on a public library, limiting the potential user and the ability to make copies. I want to show that the issues from a 100 years old journal is still nowadays headlines issues in different format og outcomes. But the reason and the thoughs has not changes. I want to portraying the relavans of the mother earth journal subjects to todays contemporary stages. 
 
 On my transcoding I focused on two methods, preservation and transformation.
+  
 
-<a name="2.1.3"></a>
+<a name="reader"></a>
 <details>
-<summary><b>My uses of the microfiche</b></summary>
+<summary><b>Microfiche reader machine</b></summary>
 
 * **Aims:** I wanted to figure out the reader machines functionality. So I recorded my self useing it with different focus points. 
 1. Recording of my handgesture when I was useing the machine. 
@@ -157,13 +159,13 @@ On my transcoding I focused on two methods, preservation and transformation.
 </details>
 
 
-<a name="3.1"></a>
+<a name="contenttranscoding"></a>
 <details>
 <summary><b>Content transcoding</h2></b></summary>
 
 
 
-<a name="3.1.1"></a>
+<a name="clean"></a>
 <details>
 	<br/>
 <summary>#1 Clean the scans files</summary>
@@ -190,7 +192,7 @@ Still in progress
 </details>
 
 
-<a name="3.1.2"></a>
+<a name="processing"></a>
 <details>
 <summary> #1 Processing with use the content</summary>
 	<br/>
