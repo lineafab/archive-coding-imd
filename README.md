@@ -66,7 +66,8 @@ He desricbe as well that in a arhive will never be a linear narrative. its about
 <a name="2.1.1"></a>
 <details>
 <summary><b>What is a microfiche?</b></summary>
-	
+
+<br><br>
 <br>A microfiche is a sheet of flat film, 105 x 148 mm. Microfiche is a type of film. Each piece of film can hold more than one hundred pages of printed text. The film varies in size but is usually just a few inches long and wide. A microfiche reader is necessary to then read the film. Microfiche allows various institutions to save space by converting paper documents, which take up much more space, to smaller microfiche files. Historically, libraries found microfiche very useful to expand their collections, while saving space. With advances in computers, many libraries and businesses have replaced their microfiche files with computerized ones. A microfiche can be in negative and positive films Microfiche aims to store fragile documents in an analog format, which may be newspapers, paper documents, or other paper material that has storage needs.
 </details>
 
