@@ -90,15 +90,26 @@ As the reliability of Microforms will never change, they are used by all kinds o
 <a name="2.1.3"></a>
 <details>
 <summary><b>My uses of the microfiche</b></summary>
-<br>* **WHAT:** I wanted to figure out the machines functionality. So I recorded my self useing it with different focus points. Recording of my handgesture when I was useing the machine. The screen function of zoom in and out. The sound of the machine.
 
-* **TOOL:** Video camera, handhold recording
+* **Aims:** I wanted to figure out the reader machines functionality. So I recorded my self useing it with different focus points. 
+1. Recording of my handgesture when I was useing the machine. 
+2. The screen function of zoom in and out. 
+3. The sound of the machine.
+4. Full picture of me using the reader machine from the back
 
-* **OUTCOME:** Video recording
+* **Methods:** Video camera, handhold recording
+
+* **Result:** 
+1. Here I discovered with small repetitive movements, I controlled the machine, and capture the pages quickly. 
+2.The zoom in and out function gave me the opportunities to get a complete perspective over the microfiches. With the zoom in part, I discovered I could get small details of the microfiches, so I remove all the unnecessary information that I did not need. 
+3. The sound of the zoom in and out gave the machine an atmosphere of something fragile, old school, and useful.
+4. Shows that it takes time to use this reader machine and your movements doest change extremely. patience and attention
+
+
 
 <br/>
 
-[<img src="https://j.gifs.com/4QykW2.gif" width="20%">](https://youtu.be/dMeMqGDSDLc)[<img src="https://j.gifs.com/Qn8BVM.gif" width="20%">](https://youtu.be/42ISS8nKCM8)[<img src="https://j.gifs.com/r8lnQB.gif" width="20%">](https://youtu.be/dYVlv-RNt2A)
+[<img src="https://j.gifs.com/4QykW2.gif" width="20%">](https://youtu.be/dMeMqGDSDLc)[<img src="https://j.gifs.com/Qn8BVM.gif" width="20%">](https://youtu.be/42ISS8nKCM8)[<img src="https://j.gifs.com/r8lnQB.gif" width="20%">](https://youtu.be/dYVlv-RNt2A)[<img src="https://j.gifs.com/4Qy3xk.gif" width="20%">](https://youtu.be/9gLRmmCxDbU)
 
 
 </details>
