@@ -87,32 +87,7 @@ As the introduction of computers and the internet arrived in the 1990’s, this 
 As the reliability of Microforms will never change, they are used by all kinds of libraries and archives as the best way to keep a hard copy of every document, and ensure they are never lost. Although they cannot be moved or shared in the same way as a digital file, they are completely full proof and will stand easily stand the test of time.
 </details>
 
-<a name="2.1.3"></a>
-<details>
-<summary><b>My uses of the microfiche</b></summary>
 
-* **Aims:** I wanted to figure out the reader machines functionality. So I recorded my self useing it with different focus points. 
-1. Recording of my handgesture when I was useing the machine. 
-2. The screen function of zoom in and out. 
-3. The sound of the machine.
-4. Full picture of me using the reader machine from the back
-
-* **Methods:** Video camera, handhold recording
-
-* **Result:** 
-1. Here I discovered with small repetitive movements, I controlled the machine, and capture the pages quickly. 
-2.The zoom in and out function gave me the opportunities to get a complete perspective over the microfiches. With the zoom in part, I discovered I could get small details of the microfiches, so I remove all the unnecessary information that I did not need. 
-3. The sound of the zoom in and out gave the machine an atmosphere of something fragile, old school, and useful.
-4. Shows that it takes time to use this reader machine and your movements doest change extremely. patience and attention
-
-
-
-<br/>
-
-[<img src="https://j.gifs.com/4QykW2.gif" width="20%">](https://youtu.be/dMeMqGDSDLc)[<img src="https://j.gifs.com/Qn8BVM.gif" width="20%">](https://youtu.be/42ISS8nKCM8)[<img src="https://j.gifs.com/r8lnQB.gif" width="20%">](https://youtu.be/dYVlv-RNt2A)[<img src="https://j.gifs.com/4Qy3xk.gif" width="20%">](https://youtu.be/9gLRmmCxDbU)
-
-
-</details>
 
 <a name="2.2"></a>
 ### What is Mother Earth journal?
@@ -153,10 +128,39 @@ In my transcoding I wanted to research how to preserved these microfiches and th
 
 On my transcoding I focused on two methods, preservation and transformation.
 
+<a name="2.1.3"></a>
+<details>
+<summary><b>My uses of the microfiche</b></summary>
+
+* **Aims:** I wanted to figure out the reader machines functionality. So I recorded my self useing it with different focus points. 
+1. Recording of my handgesture when I was useing the machine. 
+2. The screen function of zoom in and out. 
+3. The sound of the machine.
+4. Full picture of me using the reader machine from the back
+
+* **Methods:** Video camera, handhold recording
+
+* **Result:** 
+1. Here I discovered with small repetitive movements, I controlled the machine, and capture the pages quickly. 
+2.The zoom in and out function gave me the opportunities to get a complete perspective over the microfiches. With the zoom in part, I discovered I could get small details of the microfiches, so I remove all the unnecessary information that I did not need. 
+3. The sound of the zoom in and out gave the machine an atmosphere of something fragile, old school, and useful.
+4. Shows that it takes time to use this reader machine and your movements doest change extremely. patience and attention
+
+
+
+<br/>
+
+[<img src="https://j.gifs.com/4QykW2.gif" width="20%">](https://youtu.be/dMeMqGDSDLc)[<img src="https://j.gifs.com/Qn8BVM.gif" width="20%">](https://youtu.be/42ISS8nKCM8)[<img src="https://j.gifs.com/r8lnQB.gif" width="20%">](https://youtu.be/dYVlv-RNt2A)[<img src="https://j.gifs.com/4Qy3xk.gif" width="20%">](https://youtu.be/9gLRmmCxDbU)
+
+
+</details>
+
 
 <a name="3.1"></a>
 <details>
 <summary><b>Content transcoding</h2></b></summary>
+
+
 
 <a name="3.1.1"></a>
 <details>
@@ -474,6 +478,10 @@ ___
 
 <a name="5"></a>
 # Outcome
+
+[Website](https://github.com/lineafab/archive-coding-imd/blob/master/WEBSITE%20CODE/autoscroll.html)
+
+
 
 6. [Conclusion](#Concluesion) 
 
