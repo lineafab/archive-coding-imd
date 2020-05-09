@@ -97,13 +97,18 @@ As the reliability of Microforms will never change, they are used by all kinds o
 <br/>
    <width="50%">
 [<img src="https://j.gifs.com/4QykW2.gif" width="50%">](https://youtu.be/dMeMqGDSDLc)
+[<img src="https://j.gifs.com/Qn8BVM.gif" width="50%">](https://youtu.be/42ISS8nKCM8)
 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=42ISS8nKCM8
 " target="_blank"><img src="http://img.youtube.com/vi/42ISS8nKCM8/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a><a href="http://www.youtube.com/watch?feature=player_embedded&v=dYVlv-RNt2A
+alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a>
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=dYVlv-RNt2A
 " target="_blank"><img src="http://img.youtube.com/vi/dYVlv-RNt2A/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a><a href="http://www.youtube.com/watch?feature=player_embedded&v=dMeMqGDSDLc
+alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a>
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=dMeMqGDSDLc
 " target="_blank"><img src="http://img.youtube.com/vi/dMeMqGDSDLc/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a>
 
