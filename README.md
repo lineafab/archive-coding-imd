@@ -48,7 +48,7 @@ ___
 | **Medium** | Microfiche
 | **Materials** | cellulose acetate base
 | **Date** | 1906
-| <img src="https://github.com/lineafab/archive-coding-imd/blob/master/Mother%20Earth%20Magazine/microfilmpictures2__Side_12.jpg" width="200"><img src="https://github.com/lineafab/archive-coding-imd/blob/master/Mother%20Earth%20Magazine/Microfilmpictures__Side_5.jpg" width="200"> | Mircofiches in envelopes. One sheet mircofiches contain 98 pages 14 x 7. The top part is red with the information: MOTHER EARTH, New Yor, 1906-1918 Vol.1/Nos. 2-3 Card 2 of 66. One microfiches 105 x 148 mm. The mircofilm is black and white. You see a illustration row 4 from top, that is the where the journal begins. The illustration is the journals first cover.
+| <img src="https://github.com/lineafab/archive-coding-imd/blob/master/Mother%20Earth%20Magazine/microfilmpictures2__Side_12.jpg" width="250"><img src="https://github.com/lineafab/archive-coding-imd/blob/master/Mother%20Earth%20Magazine/Microfilmpictures__Side_5.jpg" width="250"> | Mircofiches in envelopes. One sheet mircofiches contain 98 pages 14 x 7. The top part is red with the information: MOTHER EARTH, New Yor, 1906-1918 Vol.1/Nos. 2-3 Card 2 of 66. One microfiches 105 x 148 mm. The mircofilm is black and white. You see a illustration row 4 from top, that is the where the journal begins. The illustration is the journals first cover.
 
 ___
 
@@ -66,7 +66,8 @@ He desricbe as well that in a arhive will never be a linear narrative. its about
 <a name="2.1.1"></a>
 <details>
 <summary><b>What is a microfiche?</b></summary>
- A microfiche is a sheet of flat film, 105 x 148 mm. Microfiche is a type of film. Each piece of film can hold more than one hundred pages of printed text. The film varies in size but is usually just a few inches long and wide. A microfiche reader is necessary to then read the film. Microfiche allows various institutions to save space by converting paper documents, which take up much more space, to smaller microfiche files. Historically, libraries found microfiche very useful to expand their collections, while saving space. With advances in computers, many libraries and businesses have replaced their microfiche files with computerized ones. A microfiche can be in negative and positive films Microfiche aims to store fragile documents in an analog format, which may be newspapers, paper documents, or other paper material that has storage needs.
+	
+<br>A microfiche is a sheet of flat film, 105 x 148 mm. Microfiche is a type of film. Each piece of film can hold more than one hundred pages of printed text. The film varies in size but is usually just a few inches long and wide. A microfiche reader is necessary to then read the film. Microfiche allows various institutions to save space by converting paper documents, which take up much more space, to smaller microfiche files. Historically, libraries found microfiche very useful to expand their collections, while saving space. With advances in computers, many libraries and businesses have replaced their microfiche files with computerized ones. A microfiche can be in negative and positive films Microfiche aims to store fragile documents in an analog format, which may be newspapers, paper documents, or other paper material that has storage needs.
 </details>
 
 
@@ -74,7 +75,7 @@ He desricbe as well that in a arhive will never be a linear narrative. its about
 <a name="2.1.2"></a>
 <details>
 <summary><b>The history of microfiche and its use</b></summary>
-The history of microfilm starts around the same time as the invention of photography. John Benjamin Dancer was one of the first to produce microphotographs in 1839, where he achieved a reduction ratio of 160:1. Throughout his life dancer perfected his microfilm results, and by 1853 he was successfully selling microphotographs as slides which could be viewed with a microscope. Throughout the rest of the century the science of microfilm continued to develop, as more people began to see new applications for the practice. One of its first real uses came during the Franco-Prussian war, where they were used to send messages to and from the front lines using pigeon carriers who could only carry large documents using microfilm.
+<br>The history of microfilm starts around the same time as the invention of photography. John Benjamin Dancer was one of the first to produce microphotographs in 1839, where he achieved a reduction ratio of 160:1. Throughout his life dancer perfected his microfilm results, and by 1853 he was successfully selling microphotographs as slides which could be viewed with a microscope. Throughout the rest of the century the science of microfilm continued to develop, as more people began to see new applications for the practice. One of its first real uses came during the Franco-Prussian war, where they were used to send messages to and from the front lines using pigeon carriers who could only carry large documents using microfilm.
 
 In the 1930’s the process was developed onto 35mm film, and saw its first real application for document storage when the University Microfilms Inc (UMI) was created by Eugene Power. He had previously been microfilming rare books, but now began making records of important dissertations. During WW2 the process was mainly used for espionage, as they could be used by spies to move around or send documents without them being found. They were also used for regular military mail purposes, and also by governments who feared their records and archives could be destroyed through relentless bombing campaigns.
 
@@ -88,7 +89,7 @@ As the reliability of Microforms will never change, they are used by all kinds o
 <a name="2.1.3"></a>
 <details>
 <summary><b>My uses of the microfiche</b></summary>
-* **WHAT:** I wanted to figure out the machines functionality. So I recorded my self useing it with different focus points. Recording of my handgesture when I was useing the machine. The screen function of zoom in and out. The sound of the machine.
+<br>* **WHAT:** I wanted to figure out the machines functionality. So I recorded my self useing it with different focus points. Recording of my handgesture when I was useing the machine. The screen function of zoom in and out. The sound of the machine.
 
 * **TOOL:** Video camera, handhold recording
 
@@ -96,22 +97,9 @@ As the reliability of Microforms will never change, they are used by all kinds o
 
 <br/>
    <width="50%">
-[<img src="https://j.gifs.com/4QykW2.gif" width="50%">](https://youtu.be/dMeMqGDSDLc)
-[<img src="https://j.gifs.com/Qn8BVM.gif" width="50%">](https://youtu.be/42ISS8nKCM8)
-
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=42ISS8nKCM8
-" target="_blank"><img src="http://img.youtube.com/vi/42ISS8nKCM8/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a>
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=dYVlv-RNt2A
-" target="_blank"><img src="http://img.youtube.com/vi/dYVlv-RNt2A/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a>
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=dMeMqGDSDLc
-" target="_blank"><img src="http://img.youtube.com/vi/dMeMqGDSDLc/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a>
-
+[<img src="https://j.gifs.com/4QykW2.gif" width="30%">](https://youtu.be/dMeMqGDSDLc)
+[<img src="https://j.gifs.com/Qn8BVM.gif" width="30%">](https://youtu.be/42ISS8nKCM8)
+[<img src="https://j.gifs.com/r8lnQB.gif" width="30%">](https://youtu.be/dYVlv-RNt2A)
 
 
 </details>
