@@ -30,21 +30,9 @@
 <br/>
 
 <a name="1"></a>
-# Artifact - Microfilm
-Mother Earth magazine. (1906-1918) (social science and Literature)
+# Artifact - Microfiche/Mother Earth Journal
 
-→ "The Open Road" was the orginal name, but they got lawsuit by another magazine with the same name. 
-→ The first magazine was sixty-four pages long, measured 5 inches by 8 inches, and had a price of ten cents.
-→ Mother Earth remained in monthly circulation until August 1917
-→ "indicating life was germinating in the womb of Mother earth"
-→ the nourisher of man
-→ man freed and unhindered in his access to the free earth!
-→ the message of the name was not environmental but libertarian.
-→ The time around The Mother Earth is often called by the era of Lyrical Left.
-→ comment on the contemporary scene
-→ In August 1917, for the final issue of Mother Earth—which was confiscated
-by the U.S. Post Office
-→ Mother Earth Bulletin was forced to close. 
+105 x 148 mm card made out transparent film. The content has been reduced 24% 25 % in size. It can be read be reader by a special microfiche/film reader. This microfishe serie contain the journal Mother Earth. This journal pay attention to science and literature. Founded by the anarchist Emma Goldman and Alexander Berkman. The journal ran from March 1906 t August 1918. Came in various volume and monthly issues. 
 
 
 <a name="1.1"></a>
@@ -55,8 +43,8 @@ by the U.S. Post Office
 **IISG Call Number** | [IISG Fiche 169 1(1906/07) - 12(1917):No.6](https://search.iisg.amsterdam/Record/1383973)
 | **Physical Description** | Unknown
 | **Type** | Serials
-| **Medium** | Fiche
-| **Materials** | Fiche
+| **Medium** | Microfiche
+| **Materials** | cellulose acetate base
 | **Date** | 1906
 | <img src="Mother%20Earth%20Magazine/microfilmpictures2__Side_12.jpg" width="200"><img src="Mother%20Earth%20Magazine/Microfilmpictures__Side_5.jpg" width="200"> | Mircofiches in envelopes. One sheet mircofiches contain 98 pages 14 x 7. The top part is red with the information: MOTHER EARTH, New Yor, 1906-1918 Vol.1/Nos. 2-3 Card 2 of 66. One microfiches 105 x 148 mm. The mircofilm is black and white. You see a illustration row 4 from top, that is the where the journal begins. The illustration is the journals first cover.
 
@@ -119,9 +107,24 @@ alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a>
 ### What is Mother Earth journal?
 Mother Earth was a radical political journal and got their first publishing in March 1906 by anarchist Emma Goldman and Alexander Berkman. The journal ran from March 1906 to August 1917. 
 
+Mother Earth magazine. (1906-1918) (social science and Literature)
+
+→ "The Open Road" was the orginal name, but they got lawsuit by another magazine with the same name. 
+→ The first magazine was sixty-four pages long, measured 5 inches by 8 inches, and had a price of ten cents.
+→ Mother Earth remained in monthly circulation until August 1917
+→ "indicating life was germinating in the womb of Mother earth"
+→ the nourisher of man
+→ man freed and unhindered in his access to the free earth!
+→ the message of the name was not environmental but libertarian.
+→ The time around The Mother Earth is often called by the era of Lyrical Left.
+→ comment on the contemporary scene
+→ In August 1917, for the final issue of Mother Earth—which was confiscated
+by the U.S. Post Office
+→ Mother Earth Bulletin was forced to close. 
+
 
 <a name="2.2.1"></a>
-## Who is Emma goldmann?
+## Who is Emma goldmann and Alexander Berkman?
 
 <a name="3"></a>
 # Transcoding
