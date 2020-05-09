@@ -147,7 +147,7 @@ On my transcoding I focused on two methods, preservation and transformation.
 
 <a name="3.1"></a>
 <details>
-<summary><b>Content transcoding</b></summary>
+<summary><b><h2>Content transcoding</h2></b></summary>
 
 <a name="3.1.1"></a>
 <details>
