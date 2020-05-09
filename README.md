@@ -1,5 +1,5 @@
 
-[<img src="Mother%20Earth%20Magazine/COVERNEW.png" width="100%">](#)
+[<img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/COVERNEW.png" width="100%">](#)
 # MOTHER EARTH JOURNAL
 
 ### Table of Contents
@@ -15,19 +15,21 @@
         - [Who is Emma goldmann and ?](#2.2.2)
 3. [Transcoding](#3)
     - [Content transcoding](#3.1)
-        - [Clean the scans files](#3.1.1)
+    	- [#1 Clean the scans files](#3.1.1)
         - [Processing with use the content](#3.1.2)
-        - [text into video clips](#3.1.3)
-        - [Insert a voice into text.](#3.1.4)
+        - [#3 text into video clips](#3.1.3)
+        - [#4 Insert a voice into text.](#3.1.4)
+    - [website transcoding](#3.2)
+    	- [#1 Microfiche reader = website](#3.2.1)
+        - [#2 Microfiche reader = website](#3.2.2)
 4. [Reflection](#4)
 5. [Outcome](#5)
-   - [website](#5.1)
-        - [Website elements](#5.1.2)
-        - [HTML, CSS, JS](#5.1.3)
 6. [Conclusion](#Conclusion)
 7. [Bibliography](#Bibliography) 
 
 <br/>
+
+___
 
 <a name="1"></a>
 # Artifact - Microfiche/Mother Earth Journal
@@ -46,8 +48,9 @@
 | **Medium** | Microfiche
 | **Materials** | cellulose acetate base
 | **Date** | 1906
-| <img src="Mother%20Earth%20Magazine/microfilmpictures2__Side_12.jpg" width="200"><img src="Mother%20Earth%20Magazine/Microfilmpictures__Side_5.jpg" width="200"> | Mircofiches in envelopes. One sheet mircofiches contain 98 pages 14 x 7. The top part is red with the information: MOTHER EARTH, New Yor, 1906-1918 Vol.1/Nos. 2-3 Card 2 of 66. One microfiches 105 x 148 mm. The mircofilm is black and white. You see a illustration row 4 from top, that is the where the journal begins. The illustration is the journals first cover.
+| <img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/microfilmpictures2__Side_12.jpg" width="200"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/Microfilmpictures__Side_5.jpg" width="200"> | Mircofiches in envelopes. One sheet mircofiches contain 98 pages 14 x 7. The top part is red with the information: MOTHER EARTH, New Yor, 1906-1918 Vol.1/Nos. 2-3 Card 2 of 66. One microfiches 105 x 148 mm. The mircofilm is black and white. You see a illustration row 4 from top, that is the where the journal begins. The illustration is the journals first cover.
 
+___
 
 <a name="2"></a>
 # Research
@@ -57,17 +60,20 @@ My research started with examining the potential and spectrum of IISH archives. 
 Derrida in Archive Fever desricbe the similiarity between an srchive and the human psylogi mnd. How we capture, select, lost memory. That our urgent to control everything, but as Derrida desribe that there will always be another perspective. 
 He desricbe as well that in a arhive will never be a linear narrative. its about perspective and personally  opinion/direction. Can I use the way/function(machine) of used of the microfilm today?. To transcode this magazine in the future. installation. circle experiences. Where to break the circle?
 
-
 <a name="2.1"></a>
 ## Microfiche
 
 <a name="2.1.1"></a>
-### What is a microfiche?
-A microfiche is a sheet of flat film, 105 x 148 mm. Microfiche is a type of film. Each piece of film can hold more than one hundred pages of printed text. The film varies in size but is usually just a few inches long and wide. A microfiche reader is necessary to then read the film. Microfiche allows various institutions to save space by converting paper documents, which take up much more space, to smaller microfiche files. Historically, libraries found microfiche very useful to expand their collections, while saving space. With advances in computers, many libraries and businesses have replaced their microfiche files with computerized ones. A microfiche can be in negative and positive films Microfiche aims to store fragile documents in an analog format, which may be newspapers, paper documents, or other paper material that has storage needs.
+<details>
+<summary><b>What is a microfiche?</b></summary>
+ A microfiche is a sheet of flat film, 105 x 148 mm. Microfiche is a type of film. Each piece of film can hold more than one hundred pages of printed text. The film varies in size but is usually just a few inches long and wide. A microfiche reader is necessary to then read the film. Microfiche allows various institutions to save space by converting paper documents, which take up much more space, to smaller microfiche files. Historically, libraries found microfiche very useful to expand their collections, while saving space. With advances in computers, many libraries and businesses have replaced their microfiche files with computerized ones. A microfiche can be in negative and positive films Microfiche aims to store fragile documents in an analog format, which may be newspapers, paper documents, or other paper material that has storage needs.
+</details>
+
 
 
 <a name="2.1.2"></a>
-### The history of microfiche and its use
+<details>
+<summary><b>The history of microfiche and its use</b></summary>
 The history of microfilm starts around the same time as the invention of photography. John Benjamin Dancer was one of the first to produce microphotographs in 1839, where he achieved a reduction ratio of 160:1. Throughout his life dancer perfected his microfilm results, and by 1853 he was successfully selling microphotographs as slides which could be viewed with a microscope. Throughout the rest of the century the science of microfilm continued to develop, as more people began to see new applications for the practice. One of its first real uses came during the Franco-Prussian war, where they were used to send messages to and from the front lines using pigeon carriers who could only carry large documents using microfilm.
 
 In the 1930’s the process was developed onto 35mm film, and saw its first real application for document storage when the University Microfilms Inc (UMI) was created by Eugene Power. He had previously been microfilming rare books, but now began making records of important dissertations. During WW2 the process was mainly used for espionage, as they could be used by spies to move around or send documents without them being found. They were also used for regular military mail purposes, and also by governments who feared their records and archives could be destroyed through relentless bombing campaigns.
@@ -77,10 +83,11 @@ In the post war years the technology for microfilm continued to improve, with be
 As the introduction of computers and the internet arrived in the 1990’s, this improved technology also increased output for microform applications. This meant they could now be produced directly from a computer, and then used for an unlimited amount of uses such as hospital records or catalogues.
 
 As the reliability of Microforms will never change, they are used by all kinds of libraries and archives as the best way to keep a hard copy of every document, and ensure they are never lost. Although they cannot be moved or shared in the same way as a digital file, they are completely full proof and will stand easily stand the test of time.
-
+</details>
 
 <a name="2.1.3"></a>
-### My uses of the microfiche
+<details>
+<summary><b>My uses of the microfiche</b></summary>
 * **WHAT:** I wanted to figure out the machines functionality. So I recorded my self useing it with different focus points. Recording of my handgesture when I was useing the machine. The screen function of zoom in and out. The sound of the machine.
 
 * **TOOL:** Video camera, handhold recording
@@ -90,7 +97,7 @@ As the reliability of Microforms will never change, they are used by all kinds o
 <br/>
    <width="50%">
 [<img src="https://j.gifs.com/4QykW2.gif" width="50%">](https://youtu.be/dMeMqGDSDLc)
-[<img src="https://j.gifs.com/ROJr3z.gif" width="50%">](https://youtu.be/o2rmmqxC4NU)
+
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=42ISS8nKCM8
 " target="_blank"><img src="http://img.youtube.com/vi/42ISS8nKCM8/0.jpg" 
@@ -102,6 +109,7 @@ alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a>
 
 
 
+</details>
 
 <a name="2.2"></a>
 ### What is Mother Earth journal?
@@ -123,9 +131,16 @@ by the U.S. Post Office
 → Mother Earth Bulletin was forced to close. 
 
 
-<a name="2.2.1"></a>
-## Who is Emma goldmann and Alexander Berkman?
 
+
+<a name="2.2.1"></a>
+<details>
+<summary><b> Who is Emma goldmann and Alexander Berkman?</b></summary>
+</details>
+
+
+
+___
 <a name="3"></a>
 # Transcoding
 
@@ -137,8 +152,13 @@ On my transcoding I focused on two methods, preservation and transformation.
 
 
 <a name="3.1"></a>
-## Clean the scans files
-* **WHAT:** I wanted to make it more possible to read and translate in web-based format, because the scans of the pages, is not straight and contrain a lot of dust from the microfilm machine.  
+<details>
+<summary><b>Content transcoding</b></summary>
+
+<a name="3.1.1"></a>
+<details>
+<summary><b> #1 Clean the scans files</b></summary>
+	* **WHAT:** I wanted to make it more possible to read and translate in web-based format, because the scans of the pages, is not straight and contrain a lot of dust from the microfilm machine.  
 
 * **TOOL:** Photoshop, adobe reader
 
@@ -149,22 +169,24 @@ On my transcoding I focused on two methods, preservation and transformation.
 **Before**
 
 
-<img src="Mother%20Earth%20Magazine/0072.jpg" width="200"><img src="Mother%20Earth%20Magazine/0074.jpg" width="200">
-<img src="Mother%20Earth%20Magazine/M.E_1_0004.tif" width="200"><img src="Mother%20Earth%20Magazine/M.E_1_0016.tif" width="200">
-<img src="Mother%20Earth%20Magazine/M.E_1_0020.tif" width="200">
+<img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/0072.jpg" width="200"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/0074.jpg" width="200">
+<img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/M.E_1_0004.tif" width="200"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/M.E_1_0016.tif" width="200">
+<img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/M.E_1_0020.tif" width="200">
 
 **After**
 
 
-<img src="Mother%20Earth%20Magazine/P1.jpg" width="200"><img src="Mother%20Earth%20Magazine/P2.jpg" width="200">
-<img src="Mother%20Earth%20Magazine/P3.png" width="200"><img src="Mother%20Earth%20Magazine/P4.jpg" width="200">
+<img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/P1.jpg" width="200"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20MagazineP2.jpg" width="200">
+<img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20MagazineP3.png" width="200"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20MagazineP4.jpg" width="200">
 
 
 Still in progress
-  
-___
-<a name="3.2"></a>
-### Processing with use the content
+</details>
+
+
+<a name="3.1.2"></a>
+<details>
+<summary><b>Processing with use the content</b></summary>
 
 * **WHAT:** I wanted to use the journal itself to generate the some visuals that can give the website some visual element. 
 
@@ -180,9 +202,11 @@ alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a><a href="ht
 " target="_blank"><img src="http://img.youtube.com/vi/NvykllljJAY/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a>
 
-<img src="Mother%20Earth%20Magazine/S1.png" width="200"><img src="Mother%20Earth%20Magazine/S2.png" width="200"><img src="Mother%20Earth%20Magazine/S3.png" width="200"><img src="Mother%20Earth%20Magazine/S4.png" width="200"><img src="Mother%20Earth%20Magazine/S8.png" width="200"><img src="Mother%20Earth%20Magazine/S9.png" width="200"><img src="Mother%20Earth%20Magazine/S9.png" width="200"><img src="Mother%20Earth%20Magazine/S10.png" width="200"><img src="Mother%20Earth%20Magazine/S11.png" width="200"><img src="Mother%20Earth%20Magazine/S12.png" width="200"><img src="Mother%20Earth%20Magazine/S13.png" width="200"><img src="Mother%20Earth%20Magazine/S14.png" width="200"><img src="Mother%20Earth%20Magazine/S15.png" width="200"><img src="Mother%20Earth%20Magazine/S16.png" width="200"><img src="Mother%20Earth%20Magazine/S17.png" width="200"><img src="Mother%20Earth%20Magazine/S18.png" width="200"><img src="Mother%20Earth%20Magazine/S19.png" width="200"><img src="Mother%20Earth%20Magazine/S20.png" width="200"><img src="Mother%20Earth%20Magazine/S21.png" width="200"><img src="Mother%20Earth%20Magazine/S22.png" width="200"><img src="Mother%20Earth%20Magazine/S26.png" width="200"><img src="Mother%20Earth%20Magazine/S27.png" width="200"><img src="Mother%20Earth%20Magazine/S28.png" width="200"><img src="Mother%20Earth%20Magazine/S29.png" width="200"><img src="Mother%20Earth%20Magazine/S30.png" width="200"><img src="Mother%20Earth%20Magazine/S31.png" width="200"><img src="Mother%20Earth%20Magazine/S32.png" width="200"><img src="Mother%20Earth%20Magazine/S36.png" width="200"><img src="Mother%20Earth%20Magazine/S37.png" width="200"><img src="Mother%20Earth%20Magazine/S38.png" width="200"><img src="Mother%20Earth%20Magazine/S39.png" width="200"><img src="Mother%20Earth%20Magazine/S40.png" width="200"><img src="Mother%20Earth%20Magazine/S41.png" width="200"><img src="Mother%20Earth%20Magazine/S42.png" width="200"><img src="Mother%20Earth%20Magazine/S46.png" width="200"><img src="Mother%20Earth%20Magazine/S47.png" width="200"><img src="Mother%20Earth%20Magazine/S48.png" width="200">
+<img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20MagazineS1.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20MagazineS2.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20MagazineS3.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20MagazineS4.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20MagazineS8.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20MagazineS9.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20MagazineS9.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20MagazineS10.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20MagazineS11.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20MagazineS12.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20MagazineS13.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20MagazineS14.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20MagazineS15.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20MagazineS16.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S17.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20MagazineS18.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20MagazineS19.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20MagazineS20.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20MagazineS21.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20MagazineS22.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20MagazineS26.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20MagazineS27.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20MagazineS28.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20MagazineS29.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20MagazineS30.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20MagazineS31.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20MagazineS32.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20MagazineS36.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20MagazineS37.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20MagazineS38.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20MagazineS39.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20MagazineS40.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20MagazineS41.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20MagazineS42.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20MagazineS46.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20MagazineS47.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20MagazineS48.png" width="100">
 
-* **CODE1:**
+
+<details>
+<summary><b>Processing code #1</b></summary>
 
 //import java.util.Calendar;
 import com.hamoid;
@@ -235,8 +259,12 @@ String timestamp() {
   return String.format("%1$ty%1$tm%1$td_%1$tH%1$tM%1$tS", now);
 }
 
-* **CODE2:**
+</details>
 
+
+<details>
+<summary><b>Processing code #2</b></summary>
+	
 PImage img;
 
 void setup() {
@@ -268,7 +296,13 @@ void draw() {
 
 }
 
-* **CODE3:**
+
+</details>
+
+
+<details>
+<summary><b>Processing code #3</b></summary>
+	
 
 color FG = #46FF33;
 color BG = #000000;
@@ -301,10 +335,13 @@ void draw() {
   }
 }
 
-___
+</details>
+</details>
 
-<a name="3.3"></a>
-### Insert a voice into text 
+
+<a name="3.1.3"></a>
+<details>
+<summary><b> #3 Insert a voice into text </b></summary>
 
 * **WHAT:** The text is very old with a old languages. I wanted to get a person to read the text up, to get it more contemporary and relatable. 
 
@@ -314,12 +351,10 @@ ___
 
 * **OUTCOME:** MP4 files. Youtube upload. 
 
+</details>
 
-Still in progress. 
-
-___
-
-### Transcoding 4: Make visual to text with content from a more present perspective
+<details>
+<summary><b> #4 Make visual to text with content from a more present perspective </b></summary>
 
 * **WHAT:** The text is very old with a old languages, but still very urgent subject. How will th visual look like of the text, if    I use some present content, but idea of it be for the future. 
 
@@ -338,30 +373,31 @@ alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a><a href="ht
 alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a>
 
 Still in progress
+</details>
+</details>
 
-___
+<a name="3.2.1"></a>
+<details>
+<summary><b>Website transcoding</b></summary>
+	
+<details>
+<summary><b>#1 Microfiche reader = website </b></summary>	
+<img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/coding Sketches.jpg" width="700"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/coding Sketches2.jpg" width="700">
+<img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/coding Sketches3.jpg" width="700"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/coding Sketches4.jpg" width="700">
 
-
-<a name="5"></a>
-# Outcome
-
-<a name="5.1"></a>
-## website
-
-<a name="5.1.2"></a>
-
-### Website Try out one: 
-<img src="Mother%20Earth%20Magazine/coding Sketches.jpg" width="700"><img src="Mother%20Earth%20Magazine/coding Sketches2.jpg" width="700">
-<img src="Mother%20Earth%20Magazine/coding Sketches3.jpg" width="700"><img src="Mother%20Earth%20Magazine/coding Sketches4.jpg" width="700">
-
-### Website Try out two: 
+</details>
+	
+<a name="3.2.2"></a>
+<details>
+<summary><b>#2 Microfiche reader = website</b></summary>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=c7qJmYxo4uM
 " target="_blank"><img src="http://img.youtube.com/vi/c7qJmYxo4uM/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a>
-___
-<a name="5.1.3"></a>
+	
+</details>
 
-## HTML, CSS, JS: 
+<details>
+<summary><b>#1 code</b></summary>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 	<script type="text/javascript">
 		$( function( ) {
@@ -428,9 +464,15 @@ ___
 		} );
 	</script>
 
+
+</details>
+</details>
 ___
 
+<a name="5"></a>
+# Outcome
 
+6. [Conclusion](#Concluesion) 
 
 
 7. [Bibliography](#Bibliography) 
