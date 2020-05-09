@@ -9,20 +9,19 @@
     - [Micofiches](#2.1)
         - [What is a microfiche](#2.1.1)
         - [The history of microfiche and its use](#2.1.2)
-        - [My uses of the microfiche](#2.1.3)
     - [Mother Earth Journal](#2.2)
         - [What is Mother Earth Journal?](#2.2.1)
         - [Who is Emma goldmann and ?](#2.2.2)
 3. [Transcoding](#transcoding)
     - [Microfiche reader machine](#reader)
     - [Content transcoding](#contenttranscoding)
-    	- [#1 Clean the scans files](#clean)
-        - [#2 Processing with use the content](#processing)
-        - [#3 text into video clips](#3.1.3)
-        - [#4 Insert a voice into text.](#3.1.4)
+    	- [1 Clean the scans files](#clean)
+        - [2 Processing with use the content](#processing)
+        - [3 Insert a voice into text.](#video)
+        - [4 text into video clips.](#voiceclips)
     - [website transcoding](#3.2)
-    	- [#1 Microfiche reader = website](#3.2.1)
-        - [#2 Microfiche reader = website](#3.2.2)
+    	- [1 Microfiche reader = website](#3.2.1)
+        - [2 Microfiche reader = website](#3.2.2)
 4. [Reflection](#4)
 5. [Outcome](#5)
 6. [Conclusion](#Conclusion)
@@ -168,7 +167,7 @@ On my transcoding I focused on two methods, preservation and transformation.
 <a name="clean"></a>
 <details>
 	<br/>
-<summary>#1 Clean the scans files</summary>
+<summary>2 Clean the scans files</summary>
 	* **WHAT:** I wanted to make it more possible to read and translate in web-based format, because the scans of the pages, is not straight and contrain a lot of dust from the microfilm machine.  
 
 * **TOOL:** Photoshop, adobe reader
@@ -194,7 +193,7 @@ Still in progress
 
 <a name="processing"></a>
 <details>
-<summary> #1 Processing with use the content</summary>
+<summary>2 Processing with use the content</summary>
 	<br/>
 
 * **WHAT:** I wanted to use the journal itself to generate the some visuals that can give the website some visual element. 
@@ -212,7 +211,7 @@ Still in progress
 
 
 <details>
-<summary><i>Processing code #1</i></summary>
+<summary>Processing code #1</summary>
 
 //import java.util.Calendar;
 import com.hamoid;
@@ -345,9 +344,9 @@ void draw() {
 </details>
 
 
-<a name="3.1.3"></a>
+<a name="voice"></a>
 <details>
-<summary><b> #3 Insert a voice into text </b></summary>
+<summary><b>3 Insert a voice into text </b></summary>
 	<br/>
 
 * **WHAT:** The text is very old with a old languages. I wanted to get a person to read the text up, to get it more contemporary and relatable. 
@@ -360,8 +359,9 @@ void draw() {
 
 </details>
 
+<a name="present"></a>
 <details>
-<summary><b> #4 Make visual to text with content from a more present perspective </b></summary>
+<summary><b>4 Make visual to text with content from a more present perspective </b></summary>
 
 * **WHAT:** The text is very old with a old languages, but still very urgent subject. How will th visual look like of the text, if    I use some present content, but idea of it be for the future. 
 
