@@ -202,7 +202,10 @@ Still in progress
 
 * **TOOL:** Processing
 
-* **OUTCOME:** skærmrecording, images visuals. 
+* **OUTCOME:** screenrecording, images visuals. 
+
+[<img src="https://j.gifs.com/6XANRN.gif" width="20%">](https://youtu.be/0qo4fB9sFdE)[<img src="https://j.gifs.com/mO9jQ3.gif" width="20%">](https://youtu.be/rYcdIvrz1ZY)
+
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=0qo4fB9sFdE
 " target="_blank"><img src="http://img.youtube.com/vi/0qo4fB9sFdE/0.jpg" 
@@ -374,6 +377,10 @@ void draw() {
 * **WHY:** Mix to present content together
 
 * **OUTCOME:** Video clip. Youtube upload. 
+
+[<img src="https://j.gifs.com/1WvNrq.gif" width="20%">](https://youtu.be/A6jYDI_QiCk)
+
+
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=A6jYDI_QiCk
 " target="_blank"><img src="http://img.youtube.com/vi/A6jYDI_QiCk/0.jpg" 
