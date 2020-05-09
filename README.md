@@ -16,7 +16,7 @@
 3. [Transcoding](#3)
     - [Content transcoding](#3.1)
     	- [#1 Clean the scans files](#3.1.1)
-        - [Processing with use the content](#3.1.2)
+        - [#1 Processing with use the content](#3.1.2)
         - [#3 text into video clips](#3.1.3)
         - [#4 Insert a voice into text.](#3.1.4)
     - [website transcoding](#3.2)
@@ -66,8 +66,7 @@ He desricbe as well that in a arhive will never be a linear narrative. its about
 <a name="2.1.1"></a>
 <details>
 <summary><b>What is a microfiche?</b></summary>
-
-Quote break.
+	<br/>
 
 A microfiche is a sheet of flat film, 105 x 148 mm. Microfiche is a type of film. Each piece of film can hold more than one hundred pages of printed text. The film varies in size but is usually just a few inches long and wide. A microfiche reader is necessary to then read the film. Microfiche allows various institutions to save space by converting paper documents, which take up much more space, to smaller microfiche files. Historically, libraries found microfiche very useful to expand their collections, while saving space. With advances in computers, many libraries and businesses have replaced their microfiche files with computerized ones. A microfiche can be in negative and positive films Microfiche aims to store fragile documents in an analog format, which may be newspapers, paper documents, or other paper material that has storage needs.
 </details>
@@ -77,7 +76,8 @@ A microfiche is a sheet of flat film, 105 x 148 mm. Microfiche is a type of film
 <a name="2.1.2"></a>
 <details>
 <summary><b>The history of microfiche and its use</b></summary>
-<br>The history of microfilm starts around the same time as the invention of photography. John Benjamin Dancer was one of the first to produce microphotographs in 1839, where he achieved a reduction ratio of 160:1. Throughout his life dancer perfected his microfilm results, and by 1853 he was successfully selling microphotographs as slides which could be viewed with a microscope. Throughout the rest of the century the science of microfilm continued to develop, as more people began to see new applications for the practice. One of its first real uses came during the Franco-Prussian war, where they were used to send messages to and from the front lines using pigeon carriers who could only carry large documents using microfilm.
+	<br/>
+The history of microfilm starts around the same time as the invention of photography. John Benjamin Dancer was one of the first to produce microphotographs in 1839, where he achieved a reduction ratio of 160:1. Throughout his life dancer perfected his microfilm results, and by 1853 he was successfully selling microphotographs as slides which could be viewed with a microscope. Throughout the rest of the century the science of microfilm continued to develop, as more people began to see new applications for the practice. One of its first real uses came during the Franco-Prussian war, where they were used to send messages to and from the front lines using pigeon carriers who could only carry large documents using microfilm.
 
 In the 1930’s the process was developed onto 35mm film, and saw its first real application for document storage when the University Microfilms Inc (UMI) was created by Eugene Power. He had previously been microfilming rare books, but now began making records of important dissertations. During WW2 the process was mainly used for espionage, as they could be used by spies to move around or send documents without them being found. They were also used for regular military mail purposes, and also by governments who feared their records and archives could be destroyed through relentless bombing campaigns.
 
@@ -165,7 +165,7 @@ On my transcoding I focused on two methods, preservation and transformation.
 
 <a name="3.1.1"></a>
 <details>
-<summary><i> #1 Clean the scans files</i></summary>
+<summary>#1 Clean the scans files</summary>
 	* **WHAT:** I wanted to make it more possible to read and translate in web-based format, because the scans of the pages, is not straight and contrain a lot of dust from the microfilm machine.  
 
 * **TOOL:** Photoshop, adobe reader
@@ -194,7 +194,7 @@ Still in progress
 
 <a name="3.1.2"></a>
 <details>
-<summary><i>Processing with use the content</i></summary>
+<summary> #1 Processing with use the content</summary>
 
 * **WHAT:** I wanted to use the journal itself to generate the some visuals that can give the website some visual element. 
 
