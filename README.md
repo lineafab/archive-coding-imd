@@ -151,7 +151,7 @@ On my transcoding I focused on two methods, preservation and transformation.
 
 <br/>
 
-[<img src="https://j.gifs.com/4QykW2.gif" width="20%">](https://youtu.be/dMeMqGDSDLc)[<img src="https://j.gifs.com/Qn8BVM.gif" width="20%">](https://youtu.be/42ISS8nKCM8)[<img src="https://j.gifs.com/r8lnQB.gif" width="20%">](https://youtu.be/dYVlv-RNt2A)[<img src="https://j.gifs.com/4Qy3xk.gif" width="20%">](https://youtu.be/9gLRmmCxDbU)
+[<img src="https://j.gifs.com/4QykW2.gif" width="10%">](https://youtu.be/dMeMqGDSDLc)[<img src="https://j.gifs.com/Qn8BVM.gif" width="10%">](https://youtu.be/42ISS8nKCM8)[<img src="https://j.gifs.com/r8lnQB.gif" width="10%">](https://youtu.be/dYVlv-RNt2A)[<img src="https://j.gifs.com/4Qy3xk.gif" width="20%">](https://youtu.be/9gLRmmCxDbU)
 
 
 </details>
@@ -201,7 +201,8 @@ Still in progress
 
 * **OUTCOME:** screenrecording, images visuals. 
 
-[<img src="https://j.gifs.com/6XANRN.gif" height="20%"](https://youtu.be/0qo4fB9sFdE)[<img src="https://j.gifs.com/mO9jQ3.gif" width="20%">](https://youtu.be/rYcdIvrz1ZY)
+[<img src="https://j.gifs.com/6XANRN.gif" height="10%">](https://youtu.be/0qo4fB9sFdE)
+[<img src="https://j.gifs.com/mO9jQ3.gif" width="20%">](https://youtu.be/rYcdIvrz1ZY)
 
 
 
