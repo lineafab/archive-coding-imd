@@ -165,6 +165,7 @@ On my transcoding I focused on two methods, preservation and transformation.
 
 <a name="3.1.1"></a>
 <details>
+	<br/>
 <summary>#1 Clean the scans files</summary>
 	* **WHAT:** I wanted to make it more possible to read and translate in web-based format, because the scans of the pages, is not straight and contrain a lot of dust from the microfilm machine.  
 
@@ -195,6 +196,7 @@ Still in progress
 <a name="3.1.2"></a>
 <details>
 <summary> #1 Processing with use the content</summary>
+	<br/>
 
 * **WHAT:** I wanted to use the journal itself to generate the some visuals that can give the website some visual element. 
 
@@ -350,6 +352,7 @@ void draw() {
 <a name="3.1.3"></a>
 <details>
 <summary><b> #3 Insert a voice into text </b></summary>
+	<br/>
 
 * **WHAT:** The text is very old with a old languages. I wanted to get a person to read the text up, to get it more contemporary and relatable. 
 
@@ -398,6 +401,7 @@ Still in progress
 <a name="3.2.2"></a>
 <details>
 <summary><b>#2 Microfiche reader = website</b></summary>
+	<br/>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=c7qJmYxo4uM
 " target="_blank"><img src="http://img.youtube.com/vi/c7qJmYxo4uM/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a>
@@ -406,6 +410,8 @@ alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a>
 
 <details>
 <summary><b>#1 code</b></summary>
+	<br/>
+	
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 	<script type="text/javascript">
 		$( function( ) {
