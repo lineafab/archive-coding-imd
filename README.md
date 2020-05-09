@@ -481,12 +481,11 @@ ___
 
 [Website](https://github.com/lineafab/archive-coding-imd/blob/master/WEBSITE%20CODE/autoscroll.html)
 
+<a name="Concluesion"></a>
+# Concluesion
 
-
-6. [Conclusion](#Concluesion) 
-
-
-7. [Bibliography](#Bibliography) 
+<a name="Bibliography"></a>
+# Bibliography
 
 ## Visual references 
    * **WEBSITE** non linear narrtive, online journal, structure [https://www.e-flux.com].
