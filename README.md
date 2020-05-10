@@ -32,13 +32,13 @@
 ___
 
 <a name="1"></a>
-# Artifact - Microfiche/Mother Earth Journal
+# artifact - Microfiche/Mother Earth Journal
 
 105 x 148 mm card made out transparent film. The content has been reduced 24% 25 % in size. It can be read be reader by a special microfiche/film reader. This microfishe serie contain the journal Mother Earth. This journal pay attention to science and literature. Founded by the anarchist Emma Goldman and Alexander Berkman. The journal ran from March 1906 t August 1918. Came in various volume and monthly issues. 
 
 
 <a name="1.1"></a>
-## Metadata
+## metadata
 
 | Tag | Data |  
 |--|--|
@@ -53,7 +53,7 @@ ___
 ___
 
 <a name="2"></a>
-# Research
+## Research
 
 My research started with examining the potential and spectrum of IISH archives. Where examined in various subjects and objects. Here I came across Emma Goldman's and her story where I began and request some physical materials where I find these microfiches, which are not visualized on the website. So when they came, I received these microfiches with no idea what it was and how I could use it. I got an introduction to the machine that can help to see the pages on a large scale. The whole technical thing in it caught my interest but also this magazine and the magazine's vision and mission.
 
@@ -61,7 +61,7 @@ Derrida in Archive Fever desricbe the similiarity between an srchive and the hum
 He desricbe as well that in a arhive will never be a linear narrative. its about perspective and personally  opinion/direction. Can I use the way/function(machine) of used of the microfilm today?. To transcode this magazine in the future. installation. circle experiences. Where to break the circle?
 
 <a name="2.1"></a>
-## Microfiche
+### Microfiche
 
 <a name="2.1.1"></a>
 <details>
@@ -91,7 +91,7 @@ As the reliability of Microforms will never change, they are used by all kinds o
 
 
 <a name="2.2"></a>
-### What is Mother Earth journal?
+#### What is Mother Earth journal?
 Mother Earth was a radical political journal and got their first publishing in March 1906 by anarchist Emma Goldman and Alexander Berkman. The journal ran from March 1906 to August 1917. 
 
 Mother Earth magazine. (1906-1918) (social science and Literature)
@@ -121,7 +121,7 @@ by the U.S. Post Office
 
 ___
 <a name="transcoding"></a>
-# Transcoding
+## Transcoding
 
 ### Description
 
@@ -205,11 +205,6 @@ Still in progress
 [<img src="https://j.gifs.com/6XANRN.gif" width="20%">](https://youtu.be/0qo4fB9sFdE)
 [<img src="https://j.gifs.com/mO9jQ3.gif" width="20%">](https://youtu.be/rYcdIvrz1ZY)
 [<img src="https://j.gifs.com/NL6BYv.gif" width="20%">](https://youtu.be/NvykllljJAY)
-
-
-
-
-
 <img src="https://github.com/lineafab/archive-coding-imd/blob/master/Mother%20Earth%20Magazine/S1.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/blob/master/Mother%20Earth%20Magazine/S2.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/blob/master/Mother%20Earth%20Magazine/S3.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S4.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S8.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S9.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S9.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S10.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S11.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S12.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S13.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S14.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S15.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S16.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S17.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S18.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S19.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S20.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S21.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S22.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S26.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S27.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S28.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S29.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S30.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S31.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S32.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S36.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S37.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S38.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S39.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S40.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S41.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S42.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S46.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S47.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/blob/master/Mother%20Earth%20Magazine/S48.png" width="100">
 
 
@@ -493,17 +488,18 @@ alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a>
 ___
 
 <a name="5"></a>
-# Outcome
+## Outcome
 
 [Website](https://github.com/lineafab/archive-coding-imd/blob/master/WEBSITE%20CODE/autoscroll.html)
 
 <a name="Concluesion"></a>
-# Concluesion
+## Concluesion
 
 <a name="Bibliography"></a>
-# Bibliography
+## Bibliography
 
-## Visual references 
+<details>
+<summary><b>Visual references</b></summary>
    * **WEBSITE** non linear narrtive, online journal, structure [https://www.e-flux.com].
    * **WEBSITE** Structure of website, 3 dimensions [http://differentrecordings.com].
    * **WEBSITE** Online reading, underlinies links, how to refering the orginal text into a more contemporary content [http://www.matthewshengoodman.com].
@@ -512,9 +508,11 @@ ___
    * **WEBSITE/CONTENT** ZOOM IN AND OUT VIDEO [http://www.theoneminutes.org/series/enjoy-your-file-download-your-life].
    * **WEBSITE/CONTENT** Visual references and website structure idea [https://www.wired.com/story/the-rise-of-dna-data-storage/].
    * **WEBSITE/CONTENT** Structure of website, non narrtive, dragable [http://indirect.flights].
-   
-   
-## Content references 
+  
+  </details>
+ 
+<details>
+<summary><b>Content references</b></summary> 
    * **CONTENT** Visual content references of media. [http://www.theoneminutes.org/series/enjoy-your-file-download-your-life].
    * **CONTENT** genereate new images out of two other images with the methode of "Fake" GAN [https://ganimals.media.mit.edu/breed_em].
    * **CONTENT** Narrtive of the voice, impact <a href="http://www.youtube.com/watch?feature=player_embedded&v=qZiLUirMElg
@@ -529,5 +527,6 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 * Donna Haraway 
 * Memo akten
 
+</details>
 
 
