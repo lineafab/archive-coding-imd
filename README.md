@@ -166,8 +166,8 @@ On my transcoding I focused on two methods, preservation and transformation.
 
 <a name="clean"></a>
 <details>
+<summary><b>1 Clean the scans files</b></summary>
 	<br/>
-<summary>2 Clean the scans files</summary>
 	* **WHAT:** I wanted to make it more possible to read and translate in web-based format, because the scans of the pages, is not straight and contrain a lot of dust from the microfilm machine.  
 
 * **TOOL:** Photoshop, adobe reader
@@ -193,7 +193,7 @@ Still in progress
 
 <a name="processing"></a>
 <details>
-<summary>2 Processing with use the content</summary>
+<summary><b>2 Processing with use the content</b></summary>
 	<br/>
 
 * **Aims:** I wanted to use the journal itself to generate some visuals that can give the website some visual element and see if I could generate some visuals and movement that referring back to reader machine
@@ -204,6 +204,9 @@ Still in progress
 
 [<img src="https://j.gifs.com/6XANRN.gif" width="20%">](https://youtu.be/0qo4fB9sFdE)
 [<img src="https://j.gifs.com/mO9jQ3.gif" width="20%">](https://youtu.be/rYcdIvrz1ZY)
+[<img src="https://j.gifs.com/NL6BYv.gif" width="20%">](https://youtu.be/NvykllljJAY)
+
+
 
 
 
@@ -357,6 +360,9 @@ void draw() {
 
 * **OUTCOME:** MP4 files. Youtube upload. 
 
+[M.E.J Issue 1. Page 1](https://soundcloud.com/linea-lan-cai-fabricius/mother-earth-journal-issues-1/s-e7kshTiTnpQ)
+
+
 </details>
 
 <a name="present"></a>
@@ -402,6 +408,9 @@ Still in progress
 <details>
 <summary><b>#2 Microfiche reader = website</b></summary>
 	<br/>
+	
+[<img src="https://j.gifs.com/ANYlMl.gif" width="20%">](https://youtu.be/c7qJmYxo4uM)
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=c7qJmYxo4uM
 " target="_blank"><img src="http://img.youtube.com/vi/c7qJmYxo4uM/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a>
