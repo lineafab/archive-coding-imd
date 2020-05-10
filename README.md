@@ -196,13 +196,13 @@ Still in progress
 <summary>2 Processing with use the content</summary>
 	<br/>
 
-* **WHAT:** I wanted to use the journal itself to generate the some visuals that can give the website some visual element. 
+* **Aims:** I wanted to use the journal itself to generate some visuals that can give the website some visual element and see if I could generate some visuals and movement that referring back to reader machine
 
-* **TOOL:** Processing
+* **Methods:** Processing coding and screenrecording
 
-* **OUTCOME:** screenrecording, images visuals. 
+* **Result:** By using the program Processing it immediately gave an expression of modern content and digital expression.But as well as references back to the reader machine. movement and the clear and unclear 
 
-[<img src="https://j.gifs.com/6XANRN.gif" height="10%">](https://youtu.be/0qo4fB9sFdE)
+[<img src="https://j.gifs.com/6XANRN.gif" width="20%">](https://youtu.be/0qo4fB9sFdE)
 [<img src="https://j.gifs.com/mO9jQ3.gif" width="20%">](https://youtu.be/rYcdIvrz1ZY)
 
 
