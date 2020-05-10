@@ -33,13 +33,11 @@ ___
 
 <a name="1"></a>
 # artifact - Microfiche/Mother Earth Journal
-
 105 x 148 mm card made out transparent film. The content has been reduced 24% 25 % in size. It can be read be reader by a special microfiche/film reader. This microfishe serie contain the journal Mother Earth. This journal pay attention to science and literature. Founded by the anarchist Emma Goldman and Alexander Berkman. The journal ran from March 1906 t August 1918. Came in various volume and monthly issues. 
 
 
 <a name="1.1"></a>
 ## metadata
-
 | Tag | Data |  
 |--|--|
 **IISG Call Number** | [IISG Fiche 169 1(1906/07) - 12(1917):No.6](https://search.iisg.amsterdam/Record/1383973)
@@ -54,7 +52,7 @@ ___
 
 <a name="2"></a>
 ## Research
-
+<br/>
 My research started with examining the potential and spectrum of IISH archives. Where examined in various subjects and objects. Here I came across Emma Goldman's and her story where I began and request some physical materials where I find these microfiches, which are not visualized on the website. So when they came, I received these microfiches with no idea what it was and how I could use it. I got an introduction to the machine that can help to see the pages on a large scale. The whole technical thing in it caught my interest but also this magazine and the magazine's vision and mission.
 
 Derrida in Archive Fever desricbe the similiarity between an srchive and the human psylogi mnd. How we capture, select, lost memory. That our urgent to control everything, but as Derrida desribe that there will always be another perspective. 
@@ -62,7 +60,7 @@ He desricbe as well that in a arhive will never be a linear narrative. its about
 
 <a name="2.1"></a>
 ### Microfiche
-
+<br/>
 <a name="2.1.1"></a>
 <details>
 <summary><b>What is a microfiche?</b></summary>
@@ -70,8 +68,6 @@ He desricbe as well that in a arhive will never be a linear narrative. its about
 
 A microfiche is a sheet of flat film, 105 x 148 mm. Microfiche is a type of film. Each piece of film can hold more than one hundred pages of printed text. The film varies in size but is usually just a few inches long and wide. A microfiche reader is necessary to then read the film. Microfiche allows various institutions to save space by converting paper documents, which take up much more space, to smaller microfiche files. Historically, libraries found microfiche very useful to expand their collections, while saving space. With advances in computers, many libraries and businesses have replaced their microfiche files with computerized ones. A microfiche can be in negative and positive films Microfiche aims to store fragile documents in an analog format, which may be newspapers, paper documents, or other paper material that has storage needs.
 </details>
-
-
 
 <a name="2.1.2"></a>
 <details>
@@ -92,6 +88,7 @@ As the reliability of Microforms will never change, they are used by all kinds o
 
 <a name="2.2"></a>
 #### What is Mother Earth journal?
+<br/>
 Mother Earth was a radical political journal and got their first publishing in March 1906 by anarchist Emma Goldman and Alexander Berkman. The journal ran from March 1906 to August 1917. 
 
 Mother Earth magazine. (1906-1918) (social science and Literature)
@@ -115,6 +112,7 @@ by the U.S. Post Office
 <a name="2.2.1"></a>
 <details>
 <summary><b> Who is Emma goldmann and Alexander Berkman?</b></summary>
+	<br/>
 </details>
 
 
@@ -122,9 +120,9 @@ by the U.S. Post Office
 ___
 <a name="transcoding"></a>
 ## Transcoding
-
+<br/>
 ### Description
-
+<br/>
 In my transcoding I wanted to research how to preserved these microfiches and the journal with a more accessible contemporary mediums. How can I preserve this microfiche with this text based journal into a more understanding narrative with a mission and vision, without losing its context. One of the big lack of a microfiche is the cost expenses. Reading microfiches need a reader-printers are not always available, often on a public library, limiting the potential user and the ability to make copies. I want to show that the issues from a 100 years old journal is still nowadays headlines issues in different format og outcomes. But the reason and the thoughs has not changes. I want to portraying the relavans of the mother earth journal subjects to todays contemporary stages. 
 
 On my transcoding I focused on two methods, preservation and transformation.
@@ -133,7 +131,7 @@ On my transcoding I focused on two methods, preservation and transformation.
 <a name="reader"></a>
 <details>
 <summary><b>Microfiche reader machine</b></summary>
-
+<br/>
 * **Aims:** I wanted to figure out the reader machines functionality. So I recorded my self useing it with different focus points. 
 1. Recording of my handgesture when I was useing the machine. 
 2. The screen function of zoom in and out. 
@@ -148,10 +146,7 @@ On my transcoding I focused on two methods, preservation and transformation.
 3. The sound of the zoom in and out gave the machine an atmosphere of something fragile, old school, and useful.
 4. Shows that it takes time to use this reader machine and your movements doest change extremely. patience and attention
 
-
-
 <br/>
-
 [<img src="https://j.gifs.com/4QykW2.gif" width="10%">](https://youtu.be/dMeMqGDSDLc)[<img src="https://j.gifs.com/Qn8BVM.gif" width="10%">](https://youtu.be/42ISS8nKCM8)[<img src="https://j.gifs.com/r8lnQB.gif" width="10%">](https://youtu.be/dYVlv-RNt2A)[<img src="https://j.gifs.com/4Qy3xk.gif" width="20%">](https://youtu.be/9gLRmmCxDbU)
 
 
@@ -161,9 +156,7 @@ On my transcoding I focused on two methods, preservation and transformation.
 <a name="contenttranscoding"></a>
 <details>
 <summary><b>Content transcoding</h2></b></summary>
-
-
-
+<br/>
 <a name="clean"></a>
 <details>
 <summary><b>1 Clean the scans files</b></summary>
@@ -177,13 +170,9 @@ On my transcoding I focused on two methods, preservation and transformation.
 * **Files below, before and after. 
 
 **Before**
-
-
 <img src="https://github.com/lineafab/archive-coding-imd/blob/master/Mother%20Earth%20Magazine/0072.jpg" width="100"><img src="https://github.com/lineafab/archive-coding-imd/blob/master/Mother%20Earth%20Magazine/0074.jpg" width="100"><img src="https://github.com/lineafab/archive-coding-imd/blob/master/Mother%20Earth%20Magazine/M.E_1_0004.tif" width="100"><img src="https://github.com/lineafab/archive-coding-imd/blob/master/Mother%20Earth%20Magazine/M.E_1_0016.tif" width="100"><img src="https://github.com/lineafab/archive-coding-imd/blob/master/Mother%20Earth%20Magazine/M.E_1_0020.tif" width="100">
 
 **After**
-
-
 <img src="https://github.com/lineafab/archive-coding-imd/blob/master/Mother%20Earth%20Magazine/P1.jpg" width="200"><img src="https://github.com/lineafab/archive-coding-imd/blob/master/Mother%20Earth%20Magazine/P2.jpg" width="200"><img src="https://github.com/lineafab/archive-coding-imd/blob/master/Mother%20Earth%20Magazine/P3.png" width="200"><img src="https://github.com/lineafab/archive-coding-imd/blob/master/Mother%20Earth%20Magazine/P4.jpg" width="200">
 
 
@@ -201,7 +190,7 @@ Still in progress
 * **Methods:** Processing coding and screenrecording
 
 * **Result:** By using the program Processing it immediately gave an expression of modern content and digital expression.But as well as references back to the reader machine. movement and the clear and unclear 
-
+<br/>
 [<img src="https://j.gifs.com/6XANRN.gif" width="20%">](https://youtu.be/0qo4fB9sFdE)
 [<img src="https://j.gifs.com/mO9jQ3.gif" width="20%">](https://youtu.be/rYcdIvrz1ZY)
 [<img src="https://j.gifs.com/NL6BYv.gif" width="20%">](https://youtu.be/NvykllljJAY)
@@ -354,16 +343,14 @@ void draw() {
 * **WHY:** No noise, more constancy in the volume. and spilt in small part of recording. 
 
 * **OUTCOME:** MP4 files. Youtube upload. 
-
+<br/>
 [M.E.J Issue 1. Page 1](https://soundcloud.com/linea-lan-cai-fabricius/mother-earth-journal-issues-1/s-e7kshTiTnpQ)
-
-
 </details>
 
 <a name="present"></a>
 <details>
 <summary><b>4 Make visual to text with content from a more present perspective </b></summary>
-
+<br/>
 * **WHAT:** The text is very old with a old languages, but still very urgent subject. How will th visual look like of the text, if    I use some present content, but idea of it be for the future. 
 
 * **TOOL:** Youtube, google serach, Premiere Pro and RunWay. 
@@ -373,8 +360,6 @@ void draw() {
 * **OUTCOME:** Video clip. Youtube upload. 
 
 [<img src="https://j.gifs.com/1WvNrq.gif" width="20%">](https://youtu.be/A6jYDI_QiCk)
-
-
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=A6jYDI_QiCk
 " target="_blank"><img src="http://img.youtube.com/vi/A6jYDI_QiCk/0.jpg" 
@@ -391,11 +376,10 @@ Still in progress
 <a name="3.2.1"></a>
 <details>
 <summary><b>Website transcoding</b></summary>
-	
+	<br/>
 <details>
 <summary><b>#1 Microfiche reader = website </b></summary>	
-<img src="https://github.com/lineafab/archive-coding-imd/blob/master/Mother%20Earth%20Magazine/coding Sketches.jpg" width="700"><img src="https://github.com/lineafab/archive-coding-imd/blob/master/Mother%20Earth%20Magazine/coding Sketches2.jpg" width="700">
-<img src="https://github.com/lineafab/archive-coding-imd/blob/master/Mother%20Earth%20Magazine/coding Sketches3.jpg" width="700"><img src="https://github.com/lineafab/archive-coding-imd/blob/master/Mother%20Earth%20Magazine/coding Sketches4.jpg" width="700">
+<img src="https://github.com/lineafab/archive-coding-imd/blob/master/Mother%20Earth%20Magazine/coding Sketches.jpg" width="700"><img src="https://github.com/lineafab/archive-coding-imd/blob/master/Mother%20Earth%20Magazine/coding Sketches2.jpg" width="700"><img src="https://github.com/lineafab/archive-coding-imd/blob/master/Mother%20Earth%20Magazine/coding Sketches3.jpg" width="700"><img src="https://github.com/lineafab/archive-coding-imd/blob/master/Mother%20Earth%20Magazine/coding Sketches4.jpg" width="700">
 
 </details>
 	
@@ -403,12 +387,7 @@ Still in progress
 <details>
 <summary><b>#2 Microfiche reader = website</b></summary>
 	<br/>
-	
 [<img src="https://j.gifs.com/ANYlMl.gif" width="20%">](https://youtu.be/c7qJmYxo4uM)
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=c7qJmYxo4uM
-" target="_blank"><img src="http://img.youtube.com/vi/c7qJmYxo4uM/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a>
 	
 </details>
 
@@ -500,11 +479,10 @@ ___
 
 <details>
 <summary><b>Visual references</b></summary>
+	<br/>
    * **WEBSITE** non linear narrtive, online journal, structure [https://www.e-flux.com].
    * **WEBSITE** Structure of website, 3 dimensions [http://differentrecordings.com].
    * **WEBSITE** Online reading, underlinies links, how to refering the orginal text into a more contemporary content [http://www.matthewshengoodman.com].
-   
-   
    * **WEBSITE/CONTENT** ZOOM IN AND OUT VIDEO [http://www.theoneminutes.org/series/enjoy-your-file-download-your-life].
    * **WEBSITE/CONTENT** Visual references and website structure idea [https://www.wired.com/story/the-rise-of-dna-data-storage/].
    * **WEBSITE/CONTENT** Structure of website, non narrtive, dragable [http://indirect.flights].
@@ -513,13 +491,12 @@ ___
  
 <details>
 <summary><b>Content references</b></summary> 
+	<br/>
    * **CONTENT** Visual content references of media. [http://www.theoneminutes.org/series/enjoy-your-file-download-your-life].
    * **CONTENT** genereate new images out of two other images with the methode of "Fake" GAN [https://ganimals.media.mit.edu/breed_em].
    * **CONTENT** Narrtive of the voice, impact <a href="http://www.youtube.com/watch?feature=player_embedded&v=qZiLUirMElg
 " target="_blank"><img src="http://img.youtube.com/vi/qZiLUirMElg/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
-
 * **References of names and situations now a ways:**
 * https://en.wikipedia.org/wiki/List_of_anarchist_communities
 * Wiki Leaks
