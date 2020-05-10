@@ -52,7 +52,7 @@ ___
 
 <a name="2"></a>
 ## Research
-<br/>
+
 My research started with examining the potential and spectrum of IISH archives. Where examined in various subjects and objects. Here I came across Emma Goldman's and her story where I began and request some physical materials where I find these microfiches, which are not visualized on the website. So when they came, I received these microfiches with no idea what it was and how I could use it. I got an introduction to the machine that can help to see the pages on a large scale. The whole technical thing in it caught my interest but also this magazine and the magazine's vision and mission.
 
 Derrida in Archive Fever desricbe the similiarity between an srchive and the human psylogi mnd. How we capture, select, lost memory. That our urgent to control everything, but as Derrida desribe that there will always be another perspective. 
@@ -60,19 +60,17 @@ He desricbe as well that in a arhive will never be a linear narrative. its about
 
 <a name="2.1"></a>
 ### Microfiche
-<br/>
+
+
 <a name="2.1.1"></a>
-<details>
-<summary><b>What is a microfiche?</b></summary>
-<br/>
+### What is a microfiche?
 
 A microfiche is a sheet of flat film, 105 x 148 mm. Microfiche is a type of film. Each piece of film can hold more than one hundred pages of printed text. The film varies in size but is usually just a few inches long and wide. A microfiche reader is necessary to then read the film. Microfiche allows various institutions to save space by converting paper documents, which take up much more space, to smaller microfiche files. Historically, libraries found microfiche very useful to expand their collections, while saving space. With advances in computers, many libraries and businesses have replaced their microfiche files with computerized ones. A microfiche can be in negative and positive films Microfiche aims to store fragile documents in an analog format, which may be newspapers, paper documents, or other paper material that has storage needs.
 </details>
 
 <a name="2.1.2"></a>
-<details>
-<summary><b>The history of microfiche and its use</b></summary>
-	<br/>
+### The history of microfiche and its use
+
 The history of microfilm starts around the same time as the invention of photography. John Benjamin Dancer was one of the first to produce microphotographs in 1839, where he achieved a reduction ratio of 160:1. Throughout his life dancer perfected his microfilm results, and by 1853 he was successfully selling microphotographs as slides which could be viewed with a microscope. Throughout the rest of the century the science of microfilm continued to develop, as more people began to see new applications for the practice. One of its first real uses came during the Franco-Prussian war, where they were used to send messages to and from the front lines using pigeon carriers who could only carry large documents using microfilm.
 
 In the 1930’s the process was developed onto 35mm film, and saw its first real application for document storage when the University Microfilms Inc (UMI) was created by Eugene Power. He had previously been microfilming rare books, but now began making records of important dissertations. During WW2 the process was mainly used for espionage, as they could be used by spies to move around or send documents without them being found. They were also used for regular military mail purposes, and also by governments who feared their records and archives could be destroyed through relentless bombing campaigns.
@@ -88,7 +86,7 @@ As the reliability of Microforms will never change, they are used by all kinds o
 
 <a name="2.2.1"></a>
 ### What is Mother Earth journal?
-<br/>
+
 Mother Earth was a radical political journal and got their first publishing in March 1906 by anarchist Emma Goldman and Alexander Berkman. The journal ran from March 1906 to August 1917. 
 
 Mother Earth magazine. (1906-1918) (social science and Literature)
@@ -109,11 +107,9 @@ by the U.S. Post Office
 
 
 
-<a name="2.2.1"></a>
-<details>
-<summary><b> Who is Emma goldmann and Alexander Berkman?</b></summary>
-	<br/>
-</details>
+<a name="2.2.2"></a>
+### Who is Emma goldmann and Alexander Berkman?
+
 
 
 
@@ -129,9 +125,8 @@ On my transcoding I focused on two methods, preservation and transformation.
   
 
 <a name="reader"></a>
-<details>
-<summary><b>Microfiche reader machine</b></summary>
-<br/>
+### Microfiche reader machine
+
 * **Aims:** I wanted to figure out the reader machines functionality. So I recorded my self useing it with different focus points. 
 1. Recording of my handgesture when I was useing the machine. 
 2. The screen function of zoom in and out. 
@@ -146,22 +141,20 @@ On my transcoding I focused on two methods, preservation and transformation.
 3. The sound of the zoom in and out gave the machine an atmosphere of something fragile, old school, and useful.
 4. Shows that it takes time to use this reader machine and your movements doest change extremely. patience and attention
 
-<br/>
+
 [<img src="https://j.gifs.com/4QykW2.gif" width="10%">](https://youtu.be/dMeMqGDSDLc)[<img src="https://j.gifs.com/Qn8BVM.gif" width="10%">](https://youtu.be/42ISS8nKCM8)[<img src="https://j.gifs.com/r8lnQB.gif" width="10%">](https://youtu.be/dYVlv-RNt2A)[<img src="https://j.gifs.com/4Qy3xk.gif" width="20%">](https://youtu.be/9gLRmmCxDbU)
 
 
-</details>
+
 
 
 <a name="contenttranscoding"></a>
-<details>
-<summary><b>Content transcoding</h2></b></summary>
-<br/>
+### Content transcoding
+
 <a name="clean"></a>
-<details>
-<summary><b>1 Clean the scans files</b></summary>
-	<br/>
-	* **WHAT:** I wanted to make it more possible to read and translate in web-based format, because the scans of the pages, is not straight and contrain a lot of dust from the microfilm machine.  
+## 1 Clean the scans files
+
+* **WHAT:** I wanted to make it more possible to read and translate in web-based format, because the scans of the pages, is not straight and contrain a lot of dust from the microfilm machine.  
 
 * **TOOL:** Photoshop, adobe reader
 
@@ -177,13 +170,11 @@ On my transcoding I focused on two methods, preservation and transformation.
 
 
 Still in progress
-</details>
 
 
 <a name="processing"></a>
-<details>
-<summary><b>2 Processing with use the content</b></summary>
-	<br/>
+## 2 Processing with use the content
+	
 
 * **Aims:** I wanted to use the journal itself to generate some visuals that can give the website some visual element and see if I could generate some visuals and movement that referring back to reader machine
 
@@ -197,8 +188,7 @@ Still in progress
 <img src="https://github.com/lineafab/archive-coding-imd/blob/master/Mother%20Earth%20Magazine/S1.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/blob/master/Mother%20Earth%20Magazine/S2.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/blob/master/Mother%20Earth%20Magazine/S3.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S4.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S8.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S9.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S9.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S10.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S11.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S12.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S13.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S14.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S15.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S16.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S17.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S18.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S19.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S20.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S21.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S22.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S26.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S27.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S28.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S29.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S30.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S31.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S32.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S36.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S37.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S38.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S39.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S40.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S41.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S42.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S46.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S47.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/blob/master/Mother%20Earth%20Magazine/S48.png" width="100">
 
 
-<details>
-<summary>Processing code #1</summary>
+### Processing code #1
 
 //import java.util.Calendar;
 import com.hamoid;
@@ -254,8 +244,7 @@ String timestamp() {
 </details>
 
 
-<details>
-<summary><b>Processing code #2</b></summary>
+### Processing code #2
 	
 PImage img;
 
@@ -289,11 +278,10 @@ void draw() {
 }
 
 
-</details>
 
 
-<details>
-<summary><b>Processing code #3</b></summary>
+
+### Processing code #3
 	
 
 color FG = #46FF33;
@@ -327,14 +315,9 @@ void draw() {
   }
 }
 
-</details>
-</details>
-
 
 <a name="voice"></a>
-<details>
-<summary><b>3 Insert a voice into text </b></summary>
-	<br/>
+## 3 Insert a voice into text 
 
 * **WHAT:** The text is very old with a old languages. I wanted to get a person to read the text up, to get it more contemporary and relatable. 
 
@@ -348,9 +331,8 @@ void draw() {
 </details>
 
 <a name="present"></a>
-<details>
-<summary><b>4 Make visual to text with content from a more present perspective </b></summary>
-<br/>
+## 4 Make visual to text with content from a more present perspective 
+
 * **WHAT:** The text is very old with a old languages, but still very urgent subject. How will th visual look like of the text, if    I use some present content, but idea of it be for the future. 
 
 * **TOOL:** Youtube, google serach, Premiere Pro and RunWay. 
@@ -370,30 +352,21 @@ alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a><a href="ht
 alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a>
 
 Still in progress
-</details>
-</details>
+
 
 <a name="3.2.1"></a>
-<details>
-<summary><b>Website transcoding</b></summary>
-	<br/>
-<details>
-<summary><b>#1 Microfiche reader = website </b></summary>	
+## Website transcoding
+
+### #1 Microfiche reader = website
 <img src="https://github.com/lineafab/archive-coding-imd/blob/master/Mother%20Earth%20Magazine/coding Sketches.jpg" width="700"><img src="https://github.com/lineafab/archive-coding-imd/blob/master/Mother%20Earth%20Magazine/coding Sketches2.jpg" width="700"><img src="https://github.com/lineafab/archive-coding-imd/blob/master/Mother%20Earth%20Magazine/coding Sketches3.jpg" width="700"><img src="https://github.com/lineafab/archive-coding-imd/blob/master/Mother%20Earth%20Magazine/coding Sketches4.jpg" width="700">
 
-</details>
 	
 <a name="3.2.2"></a>
-<details>
-<summary><b>#2 Microfiche reader = website</b></summary>
-	<br/>
+### #2 Microfiche reader = website
+
 [<img src="https://j.gifs.com/ANYlMl.gif" width="20%">](https://youtu.be/c7qJmYxo4uM)
 	
-</details>
-
-<details>
-<summary><b>#1 code</b></summary>
-	<br/>
+#### #1 code
 	
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 	<script type="text/javascript">
@@ -462,8 +435,7 @@ Still in progress
 	</script>
 
 
-</details>
-</details>
+
 ___
 
 <a name="5"></a>
@@ -477,9 +449,8 @@ ___
 <a name="Bibliography"></a>
 ## Bibliography
 
-<details>
-<summary><b>Visual references</b></summary>
-	<br/>
+### Visual references
+
    * **WEBSITE** non linear narrtive, online journal, structure [https://www.e-flux.com].
    * **WEBSITE** Structure of website, 3 dimensions [http://differentrecordings.com].
    * **WEBSITE** Online reading, underlinies links, how to refering the orginal text into a more contemporary content [http://www.matthewshengoodman.com].
@@ -487,11 +458,8 @@ ___
    * **WEBSITE/CONTENT** Visual references and website structure idea [https://www.wired.com/story/the-rise-of-dna-data-storage/].
    * **WEBSITE/CONTENT** Structure of website, non narrtive, dragable [http://indirect.flights].
   
-  </details>
- 
-<details>
-<summary><b>Content references</b></summary> 
-	<br/>
+### Content references
+
    * **CONTENT** Visual content references of media. [http://www.theoneminutes.org/series/enjoy-your-file-download-your-life].
    * **CONTENT** genereate new images out of two other images with the methode of "Fake" GAN [https://ganimals.media.mit.edu/breed_em].
    * **CONTENT** Narrtive of the voice, impact <a href="http://www.youtube.com/watch?feature=player_embedded&v=qZiLUirMElg
@@ -503,7 +471,3 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 * Pussy Riot 
 * Donna Haraway 
 * Memo akten
-
-</details>
-
-
