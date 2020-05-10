@@ -87,7 +87,7 @@ As the reliability of Microforms will never change, they are used by all kinds o
 
 
 <a name="2.2"></a>
-### What is Mother Earth journal?
+Alt-H2 What is Mother Earth journal?
 <br/>
 Mother Earth was a radical political journal and got their first publishing in March 1906 by anarchist Emma Goldman and Alexander Berkman. The journal ran from March 1906 to August 1917. 
 
