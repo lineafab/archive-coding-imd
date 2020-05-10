@@ -274,15 +274,9 @@ void draw() {
   fill(#ffffff);
   noStroke();
   ellipse(mouseX, mouseY, 10, 10);
-
 }
 
-
-
-
-
 ### Processing code #3
-	
 
 color FG = #46FF33;
 color BG = #000000;
