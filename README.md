@@ -17,8 +17,8 @@
     - [Content transcoding](#contenttranscoding)
     	- [1 Clean the scans files](#clean)
         - [2 Processing with use the content](#processing)
-        - [3 Insert a voice into text.](#video)
-        - [4 text into video clips.](#voiceclips)
+        - [3 Text -> voice](#voice)
+        - [4 Text -> video](#videoclips)
     - [website transcoding](#3.2)
     	- [1 Microfiche reader = website](#3.2.1)
         - [2 Microfiche reader = website](#3.2.2)
@@ -311,8 +311,10 @@ void draw() {
 }
 
 
+
+
 <a name="voice"></a>
-## 3 Insert a voice into text 
+## 3 Text -> voice 
 
 * **WHAT:** The text is very old with a old languages. I wanted to get a person to read the text up, to get it more contemporary and relatable. 
 
@@ -321,12 +323,11 @@ void draw() {
 * **WHY:** No noise, more constancy in the volume. and spilt in small part of recording. 
 
 * **OUTCOME:** MP4 files. Youtube upload. 
-<br/>
-[M.E.J Issue 1. Page 1](https://soundcloud.com/linea-lan-cai-fabricius/mother-earth-journal-issues-1/s-e7kshTiTnpQ)
-</details>
 
-<a name="present"></a>
-## 4 Make visual to text with content from a more present perspective 
+[M.E.J Issue 1. Page 1](https://soundcloud.com/linea-lan-cai-fabricius/mother-earth-journal-issues-1/s-e7kshTiTnpQ)
+
+<a name="videoclips"></a>
+## 4 Text -> videoclips 
 
 * **WHAT:** The text is very old with a old languages, but still very urgent subject. How will th visual look like of the text, if    I use some present content, but idea of it be for the future. 
 
