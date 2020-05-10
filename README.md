@@ -62,16 +62,14 @@ He desricbe as well that in a arhive will never be a linear narrative. its about
 ### Microfiche
 <br/>
 <a name="2.1.1"></a>
-<details>
-<summary><b>What is a microfiche?</b></summary>
+#### What is a microfiche?
 	<br/>
 
 A microfiche is a sheet of flat film, 105 x 148 mm. Microfiche is a type of film. Each piece of film can hold more than one hundred pages of printed text. The film varies in size but is usually just a few inches long and wide. A microfiche reader is necessary to then read the film. Microfiche allows various institutions to save space by converting paper documents, which take up much more space, to smaller microfiche files. Historically, libraries found microfiche very useful to expand their collections, while saving space. With advances in computers, many libraries and businesses have replaced their microfiche files with computerized ones. A microfiche can be in negative and positive films Microfiche aims to store fragile documents in an analog format, which may be newspapers, paper documents, or other paper material that has storage needs.
-</details>
+
 
 <a name="2.1.2"></a>
-<details>
-<summary><b>The history of microfiche and its use</b></summary>
+#### The history of microfiche and its use
 	<br/>
 The history of microfilm starts around the same time as the invention of photography. John Benjamin Dancer was one of the first to produce microphotographs in 1839, where he achieved a reduction ratio of 160:1. Throughout his life dancer perfected his microfilm results, and by 1853 he was successfully selling microphotographs as slides which could be viewed with a microscope. Throughout the rest of the century the science of microfilm continued to develop, as more people began to see new applications for the practice. One of its first real uses came during the Franco-Prussian war, where they were used to send messages to and from the front lines using pigeon carriers who could only carry large documents using microfilm.
 
@@ -110,12 +108,8 @@ by the U.S. Post Office
 
 
 <a name="2.2.1"></a>
-<details>
-<summary><b> Who is Emma goldmann and Alexander Berkman?</b></summary>
+#### Who is Emma goldmann and Alexander Berkman?
 	<br/>
-</details>
-
-
 
 ___
 <a name="transcoding"></a>
@@ -129,8 +123,7 @@ On my transcoding I focused on two methods, preservation and transformation.
   
 
 <a name="reader"></a>
-<details>
-<summary><b>Microfiche reader machine</b></summary>
+#### Microfiche reader machine
 <br/>
 * **Aims:** I wanted to figure out the reader machines functionality. So I recorded my self useing it with different focus points. 
 1. Recording of my handgesture when I was useing the machine. 
@@ -150,16 +143,15 @@ On my transcoding I focused on two methods, preservation and transformation.
 [<img src="https://j.gifs.com/4QykW2.gif" width="10%">](https://youtu.be/dMeMqGDSDLc)[<img src="https://j.gifs.com/Qn8BVM.gif" width="10%">](https://youtu.be/42ISS8nKCM8)[<img src="https://j.gifs.com/r8lnQB.gif" width="10%">](https://youtu.be/dYVlv-RNt2A)[<img src="https://j.gifs.com/4Qy3xk.gif" width="20%">](https://youtu.be/9gLRmmCxDbU)
 
 
-</details>
+
 
 
 <a name="contenttranscoding"></a>
-<details>
-<summary><b>Content transcoding</h2></b></summary>
+## Content transcoding
 <br/>
+
 <a name="clean"></a>
-<details>
-<summary><b>1 Clean the scans files</b></summary>
+#### 1 Clean the scans files
 	<br/>
 	* **WHAT:** I wanted to make it more possible to read and translate in web-based format, because the scans of the pages, is not straight and contrain a lot of dust from the microfilm machine.  
 
@@ -181,8 +173,7 @@ Still in progress
 
 
 <a name="processing"></a>
-<details>
-<summary><b>2 Processing with use the content</b></summary>
+#### 2 Processing with use the content
 	<br/>
 
 * **Aims:** I wanted to use the journal itself to generate some visuals that can give the website some visual element and see if I could generate some visuals and movement that referring back to reader machine
@@ -197,8 +188,7 @@ Still in progress
 <img src="https://github.com/lineafab/archive-coding-imd/blob/master/Mother%20Earth%20Magazine/S1.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/blob/master/Mother%20Earth%20Magazine/S2.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/blob/master/Mother%20Earth%20Magazine/S3.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S4.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S8.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S9.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S9.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S10.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S11.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S12.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S13.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S14.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S15.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S16.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S17.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S18.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S19.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S20.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S21.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S22.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S26.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S27.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S28.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S29.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S30.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S31.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S32.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S36.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S37.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S38.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S39.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S40.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S41.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S42.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S46.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/tree/master/Mother%20Earth%20Magazine/S47.png" width="100"><img src="https://github.com/lineafab/archive-coding-imd/blob/master/Mother%20Earth%20Magazine/S48.png" width="100">
 
 
-<details>
-<summary>Processing code #1</summary>
+##### Processing code #1
 
 //import java.util.Calendar;
 import com.hamoid;
@@ -251,12 +241,11 @@ String timestamp() {
   return String.format("%1$ty%1$tm%1$td_%1$tH%1$tM%1$tS", now);
 }
 
-</details>
 
 
-<details>
-<summary><b>Processing code #2</b></summary>
-	
+
+##### Processing code #2
+
 PImage img;
 
 void setup() {
@@ -289,11 +278,10 @@ void draw() {
 }
 
 
-</details>
 
 
-<details>
-<summary><b>Processing code #3</b></summary>
+
+##### Processing code #3
 	
 
 color FG = #46FF33;
@@ -327,13 +315,10 @@ void draw() {
   }
 }
 
-</details>
-</details>
 
 
 <a name="voice"></a>
-<details>
-<summary><b>3 Insert a voice into text </b></summary>
+### 3 Insert a voice into text
 	<br/>
 
 * **WHAT:** The text is very old with a old languages. I wanted to get a person to read the text up, to get it more contemporary and relatable. 
@@ -348,8 +333,7 @@ void draw() {
 </details>
 
 <a name="present"></a>
-<details>
-<summary><b>4 Make visual to text with content from a more present perspective </b></summary>
+### 4 Make visual to text with content from a more present perspective
 <br/>
 * **WHAT:** The text is very old with a old languages, but still very urgent subject. How will th visual look like of the text, if    I use some present content, but idea of it be for the future. 
 
@@ -370,29 +354,25 @@ alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a><a href="ht
 alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a>
 
 Still in progress
-</details>
-</details>
+
 
 <a name="3.2.1"></a>
-<details>
-<summary><b>Website transcoding</b></summary>
+### Website transcoding
 	<br/>
-<details>
-<summary><b>#1 Microfiche reader = website </b></summary>	
+#### 1 Microfiche reader = website 
 <img src="https://github.com/lineafab/archive-coding-imd/blob/master/Mother%20Earth%20Magazine/coding Sketches.jpg" width="700"><img src="https://github.com/lineafab/archive-coding-imd/blob/master/Mother%20Earth%20Magazine/coding Sketches2.jpg" width="700"><img src="https://github.com/lineafab/archive-coding-imd/blob/master/Mother%20Earth%20Magazine/coding Sketches3.jpg" width="700"><img src="https://github.com/lineafab/archive-coding-imd/blob/master/Mother%20Earth%20Magazine/coding Sketches4.jpg" width="700">
 
 </details>
 	
 <a name="3.2.2"></a>
-<details>
-<summary><b>#2 Microfiche reader = website</b></summary>
+
+#### 2 Microfiche reader = website</b></summary>
 	<br/>
 [<img src="https://j.gifs.com/ANYlMl.gif" width="20%">](https://youtu.be/c7qJmYxo4uM)
 	
 </details>
 
-<details>
-<summary><b>#1 code</b></summary>
+#### #1 code
 	<br/>
 	
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
@@ -462,8 +442,7 @@ Still in progress
 	</script>
 
 
-</details>
-</details>
+
 ___
 
 <a name="5"></a>
@@ -477,8 +456,7 @@ ___
 <a name="Bibliography"></a>
 ## Bibliography
 
-<details>
-<summary><b>Visual references</b></summary>
+### Visual references
 	<br/>
    * **WEBSITE** non linear narrtive, online journal, structure [https://www.e-flux.com].
    * **WEBSITE** Structure of website, 3 dimensions [http://differentrecordings.com].
@@ -487,10 +465,9 @@ ___
    * **WEBSITE/CONTENT** Visual references and website structure idea [https://www.wired.com/story/the-rise-of-dna-data-storage/].
    * **WEBSITE/CONTENT** Structure of website, non narrtive, dragable [http://indirect.flights].
   
-  </details>
  
-<details>
-<summary><b>Content references</b></summary> 
+ 
+### Content references
 	<br/>
    * **CONTENT** Visual content references of media. [http://www.theoneminutes.org/series/enjoy-your-file-download-your-life].
    * **CONTENT** genereate new images out of two other images with the methode of "Fake" GAN [https://ganimals.media.mit.edu/breed_em].
@@ -504,6 +481,5 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 * Donna Haraway 
 * Memo akten
 
-</details>
 
 
