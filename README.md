@@ -11,7 +11,7 @@
         - [The history of microfiche and its use](#2.1.2)
     - [Mother Earth Journal](#2.2)
         - [What is Mother Earth Journal?](#2.2.1)
-        - [Who is Emma goldmann and ?](#2.2.2)
+        - [Who is Emma goldmann and Alexander Berkman?](#2.2.2)
 3. [Transcoding](#transcoding)
     - [Microfiche reader machine](#reader)
     - [Content transcoding](#contenttranscoding)
@@ -44,7 +44,7 @@ ___
 | **Physical Description** | Unknown
 | **Type** | Serials
 | **Medium** | Microfiche
-| **Materials** | cellulose acetate base
+| **Materials** | Cellulose acetate base
 | **Date** | 1906
 | <img src="https://github.com/lineafab/archive-coding-imd/blob/master/Mother%20Earth%20Magazine/microfilmpictures2__Side_12.jpg" width="250"><img src="https://github.com/lineafab/archive-coding-imd/blob/master/Mother%20Earth%20Magazine/Microfilmpictures__Side_5.jpg" width="250"> | Mircofiches in envelopes. One sheet mircofiches contain 98 pages 14 x 7. The top part is red with the information: MOTHER EARTH, New Yor, 1906-1918 Vol.1/Nos. 2-3 Card 2 of 66. One microfiches 105 x 148 mm. The mircofilm is black and white. You see a illustration row 4 from top, that is the where the journal begins. The illustration is the journals first cover.
 
