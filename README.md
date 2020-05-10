@@ -1,12 +1,12 @@
 
-[<img src="https://github.com/lineafab/archive-coding-imd/blob/master/COVERNEW.png" width="100%">](#)
+[<img src="https://github.com/lineafab/archive-coding-imd/blob/master/Mother%20Earth%20Magazine/COVERNEW.png" width="100%">](#)
 # MOTHER EARTH JOURNAL
 
 ### Table of Contents
 1. [Artefact](#1)
     - [Metadata](#1.1)
 2. [Research](#2)
-    - [Micofiches](#2.1)
+    - [Microfiches](#2.1)
         - [What is a microfiche](#2.1.1)
         - [The history of microfiche and its use](#2.1.2)
     - [Mother Earth Journal](#2.2)
