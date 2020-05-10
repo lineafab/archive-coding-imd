@@ -82,10 +82,11 @@ As the introduction of computers and the internet arrived in the 1990’s, this 
 As the reliability of Microforms will never change, they are used by all kinds of libraries and archives as the best way to keep a hard copy of every document, and ensure they are never lost. Although they cannot be moved or shared in the same way as a digital file, they are completely full proof and will stand easily stand the test of time.
 </details>
 
-
+<a name="2.2"></a>
+### Mother Earth Journal
 
 <a name="2.2.1"></a>
-### What is Mother Earth journal?
+### What is Mother Earth Journal?
 
 Mother Earth was a radical political journal and got their first publishing in March 1906 by anarchist Emma Goldman and Alexander Berkman. The journal ran from March 1906 to August 1917. 
 
