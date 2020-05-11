@@ -31,7 +31,7 @@
 ___
 
 <a name="1"></a>
-# artifact - Microfiche/Mother Earth Journal
+# Artefact - Microfiche/Mother Earth Journal
 105 x 148 mm card made out transparent film. The content has been reduced 24% 25 % in size. It can be read be reader by a special microfiche/film reader. This microfishe serie contain the journal Mother Earth. This journal pay attention to science and literature. Founded by the anarchist Emma Goldman and Alexander Berkman. The journal ran from March 1906 t August 1918. Came in various volume and monthly issues. 
 
 
