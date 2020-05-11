@@ -1,5 +1,5 @@
 
-[<img src="https://github.com/lineafab/archive-coding-imd/blob/master/Mother%20Earth%20Magazine/COVERNEW.png" width="100%">](#)
+[https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/COVERNEW.png](#)
 # MOTHER EARTH JOURNAL
 
 ### Table of Contents
