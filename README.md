@@ -436,7 +436,7 @@ ___
 <a name="5"></a>
 ## Outcome
 
-[Website](https://github.com/lineafab/archive-coding-imd/blob/master/WEBSITE%20CODE/autoscroll.html)
+[Website](https://lineafab.github.io/Motherearth/WEBSITE%20CODE/index.html)
 
 <a name="Concluesion"></a>
 ## Concluesion
