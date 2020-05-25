@@ -10,7 +10,6 @@
         - [The history of microfiche and its use](#2.1.2)
     - [Mother Earth Journal](#2.2)
         - [What is Mother Earth Journal?](#2.2.1)
-        - [Who is Emma goldmann and Alexander Berkman?](#2.2.2)
 3. [Transcoding](#transcoding)
     - [Microfiche reader machine](#reader)
     - [Content transcoding](#contenttranscoding)
@@ -103,13 +102,6 @@ Mother Earth magazine. (1906-1918) (social science and Literature)
 → In August 1917, for the final issue of Mother Earth—which was confiscated
 by the U.S. Post Office
 → Mother Earth Bulletin was forced to close. 
-
-
-
-
-<a name="2.2.2"></a>
-### Who is Emma goldmann and Alexander Berkman?
-
 
 
 
@@ -335,13 +327,12 @@ void draw() {
 <a name="videoclips"></a>
 ## 4 Text -> videoclips 
 
-* **WHAT:** The text is very old with a old languages, but still very urgent subject. How will th visual look like of the text, if    I use some present content, but idea of it be for the future. 
+* **Aims:** The text is very old with a old languages, but still very urgent subject. How will th visual look like of the text, if I use some present content, but idea of it be for the future. 
 
-* **TOOL:** Youtube, google serach, Premiere Pro and RunWay. 
+* **Methods:** Youtube, google serach, Premiere Pro and RunWay. 
 
-* **WHY:** Mix to present content together
-
-* **OUTCOME:** Video clip. Youtube upload. 
+* **Result:** Not the greatest. it had to much interpretation and it did not resemble the text. I figure out that I was need to look of the all ready given visual and look into words and not interpretation. 
+ 
 
 [<img src="https://j.gifs.com/1WvNrq.gif" width="20%">](https://youtu.be/A6jYDI_QiCk)
 
@@ -442,11 +433,15 @@ ___
 
 <a name="5"></a>
 ## Outcome
+This is the outcome. A website with use of my transcoding tools with the aim to transform this artifact into a more preservation.
 
 [Website](https://lineafab.github.io/Motherearth/WEBSITE%20CODE/index.html)
 
 <a name="Concluesion"></a>
 ## Concluesion
+
+The concluesion of this project, That sometime the stepes you take can help you and the viewer to understand and more aware of the process step and how to make it more understable. It have been interessting to start from this very analog and old archive. To request objects and items from the archive and get this old item. With the idea. How can I make it resiliencen? 
+
 
 <a name="Bibliography"></a>
 ## Bibliography
