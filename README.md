@@ -323,7 +323,7 @@ void draw() {
 
 * **OUTCOME:** MP4 files. Youtube upload. 
 
-[M.E.J Issue 1. Page 1](https://soundcloud.com/linea-lan-cai-fabricius/mother-earth-journal-issues-1/s-e7kshTiTnpQ)
+[M.E.J Issue 1. Page 1](https://soundcloud.com/linea-lan-cai-fabricius/sets/mother-earth-journal-1906/s-PVhu8LoeH5d)
 
 <a name="videoclips"></a>
 ## 4 Text -> videoclips 
