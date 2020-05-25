@@ -119,9 +119,16 @@ ___
 <br/>
 ### Description
 <br/>
-In my transcoding I wanted to research how to preserved these microfiches and the journal with a more accessible contemporary mediums. How can I preserve this microfiche with this text based journal into a more understanding narrative with a mission and vision, without losing its context. One of the big lack of a microfiche is the cost expenses. Reading microfiches need a reader-printers are not always available, often on a public library, limiting the potential user and the ability to make copies. I want to show that the issues from a 100 years old journal is still nowadays headlines issues in different format og outcomes. But the reason and the thoughs has not changes. I want to portraying the relavans of the mother earth journal subjects to todays contemporary stages. 
+In my transcoding I wanted to research how to preserved these microfiches and the journal with a more accessible contemporary mediums. How can I preserve this microfiche with this text based journal into a more understanding narrative with a mission and vision, without losing its context. One of the big lack of a microfiche is the cost expenses. Reading microfiches need a reader-printers are not always available, often on a public library, limiting the potential user and the ability to make copies. I want to show that the issues from a 100 years old journal is still nowadays headlines issues in different format og outcomes. But the reason and the thoughs has not changes. 
 
 On my transcoding I focused on two methods, preservation and transformation.
+Preservation of the micro-reader. Preservation of the journal. 
+Transformation of the micro-reader. Transformation of the journal. 
+
+By listen. 
+By reading
+By seeing.
+By doing. 
   
 
 <a name="reader"></a>
@@ -315,13 +322,13 @@ void draw() {
 <a name="voice"></a>
 ## 3 Text -> voice 
 
-* **WHAT:** The text is very old with a old languages. I wanted to get a person to read the text up, to get it more contemporary and relatable. 
+* **Aims:** The text is very old with a old languages. I wanted to get a person to read the text up, to get it more contemporary and relatable content.
 
-* **TOOL:** Iphone recording program, apple headphones, a blanket. Audaity Editing. 
+* **Methods:** Iphone recording program, apple headphones, a blanket. Audaity Editing.
 
-* **WHY:** No noise, more constancy in the volume. and spilt in small part of recording. 
+* **Result:** I have divided the recording into 20 small clips. It can be easier to understand and grasp the content. As well give the possibility to create your imagery. 
+<br/>
 
-* **OUTCOME:** MP4 files. Youtube upload. 
 
 [M.E.J Issue 1. Page 1](https://soundcloud.com/linea-lan-cai-fabricius/sets/mother-earth-journal-1906/s-PVhu8LoeH5d)
 
@@ -353,7 +360,7 @@ Still in progress
 ## Website transcoding
 
 ### #1 Microfiche reader = website
-<img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/coding Sketches.jpg" width="40%"><img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/coding Sketches2.jpg" width="700"><img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/coding Sketches3.jpg" width="40%"><img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/coding Sketches4.jpg" width="40%">
+<img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/readme5.png" width="40%">
 
 	
 <a name="3.2.2"></a>
