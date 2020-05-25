@@ -1,5 +1,5 @@
 ![image](https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/COVERNEW.png)
-# MOTHER EARTH JOURNAL
+# Morther Earth Journal
 
 ### Table of Contents
 1. [Artefact](#1)
