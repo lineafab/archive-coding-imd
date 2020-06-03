@@ -135,7 +135,7 @@ By doing.
 1. Here I discovered with small repetitive movements, I controlled the machine, and capture the pages quickly. 
 2.The zoom in and out function gave me the opportunities to get a complete perspective over the microfiches. With the zoom in part, I discovered I could get small details of the microfiches, so I remove all the unnecessary information that I did not need. 
 3. The sound of the zoom in and out gave the machine an atmosphere of something fragile, old school, and useful.
-4. Shows that it takes time to use this reader machine and your movements doest change extremely. patience and attention
+4. Shows that it takes time to use this reader machine and your movements doest change extremely. patience and attention.
 
 | [<img src="https://j.gifs.com/4QykW2.gif" width="10%">](https://youtu.be/dMeMqGDSDLc) | [<img src="https://j.gifs.com/Qn8BVM.gif" width="10%">](https://youtu.be/42ISS8nKCM8) |
 |     :---:      |     :---:     |
