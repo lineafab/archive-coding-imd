@@ -127,22 +127,20 @@ By doing.
 
 * **Methods:** Video camera, handhold recording
 
-| he screen function of zoom in and out.  | Recording of my hand gesture when I was using the machine.  |
+* **Result:** From the beginning, the microfiche reader machine has fascinated me, so of actually analyse with different focus point, I discover some more efficient way to control it but also how I capture a picture of a page.
+
+| The screen function of zoom in and out.  | Recording of my hand gesture when I was using the machine.  |
 |     :---:      |     :---:     |
 | [<img src="https://j.gifs.com/4QykW2.gif" width="10%">](https://youtu.be/dMeMqGDSDLc) | [<img src="https://j.gifs.com/Qn8BVM.gif" width="10%">](https://youtu.be/42ISS8nKCM8) |
+| Result | Result  |
+| The zoom in and out function gave me the opportunities to get a complete perspective over the microfiches. With the zoom in part, I discovered I could get small details of the microfiches, so I remove all the unnecessary information that I did not need.  | Here I discovered with small repetitive movements, I controlled the machine, and capture the pages quickly.   |
 
 
 | The full picture of me using the reader machine from the back.| The sound of the machine. |
 |     :---:      |     :---:     |
 [<img src="https://j.gifs.com/4Qy3xk.gif" width="20%">](https://youtu.be/9gLRmmCxDbU)| [<img src="https://j.gifs.com/r8lnQB.gif" width="10%">](https://youtu.be/dYVlv-RNt2A) |
-
-
-* **Result:** From the beginning, the microfiche reader machine has fascinated me, so of actually analyse with different focus point, I discover some more efficient way to control it but also how I capture a picture of a page.
-1. Here I discovered with small repetitive movements, I controlled the machine, and capture the pages quickly. 
-2.The zoom in and out function gave me the opportunities to get a complete perspective over the microfiches. With the zoom in part, I discovered I could get small details of the microfiches, so I remove all the unnecessary information that I did not need. 
-3. The sound of the zoom in and out gave the machine an atmosphere of something fragile, old school, and useful.
-4. Shows that it takes time to use this reader machine and your movements doest change extremely. patience and attention.
-
+| Result | Result  |
+| Shows that it takes time to use this reader machine and your movements doest change extremely. patience and attention. | The sound of the zoom in and out gave the machine an atmosphere of something fragile, old school, and useful.  |
 
 
 <a name="contenttranscoding"></a>
