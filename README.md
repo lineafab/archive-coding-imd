@@ -153,11 +153,11 @@ By doing.
 <a name="clean"></a>
 ### 1 Clean the scans files
 
-* **WHAT:** I wanted to make it more possible to read and translate in web-based format, because the scans of the pages, is not straight and contrain a lot of dust from the microfilm machine.  
+* **AIMS:** I wanted to make it more possible to read and translate in web-based format, because the scans of the pages, is not straight and contrain a lot of dust from the microfilm machine.  
 
-* **TOOL:** Photoshop, adobe reader
+* **Methods:** Photoshop, adobe reader
 
-* **OUTCOME:** No dust files, more straight and translateable jpg files. 
+* **Result:** No dust files, more straight and translateable jpg files. 
 
 * **Files below, before and after. 
 
@@ -166,9 +166,6 @@ By doing.
 
 **After**
 <img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/readme2.png" width="80%">
-
-
-Still in progress
 
 
 <a name="processing"></a>
@@ -188,7 +185,7 @@ Still in progress
 
 
 ### Processing code #1
-
+<details>
 //import java.util.Calendar;
 import com.hamoid;
 
@@ -244,7 +241,7 @@ String timestamp() {
 
 
 ### Processing code #2
-	
+<details>	
 PImage img;
 
 void setup() {
@@ -274,9 +271,9 @@ void draw() {
   noStroke();
   ellipse(mouseX, mouseY, 10, 10);
 }
-
+</details>
 ### Processing code #3
-
+<details>
 color FG = #46FF33;
 color BG = #000000;
 PImage img; 
@@ -308,7 +305,7 @@ void draw() {
   }
 }
 
-
+</details>
 
 
 <a name="voice"></a>
