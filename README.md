@@ -176,16 +176,19 @@ By doing.
 * **Result:** By using the program Processing it immediately gave an expression of modern content and digital expression.But as well as references back to the reader machine. movement and the clear and unclear 
 <br/>
 
-
-| [<img src="https://j.gifs.com/6XANRN.gif" width="20%">](https://youtu.be/0qo4fB9sFdE) | [<img src="https://j.gifs.com/mO9jQ3.gif" width="20%">](https://youtu.be/rYcdIvrz1ZY) | [<img src="https://j.gifs.com/NL6BYv.gif" width="20%">](https://youtu.be/NvykllljJAY) |
+| Processing code 1 | Processing code 2 | Processing code 1 |
 |     :---:      |     :---:     |     :---:     |
+| [<img src="https://j.gifs.com/6XANRN.gif" width="20%">](https://youtu.be/0qo4fB9sFdE) | [<img src="https://j.gifs.com/mO9jQ3.gif" width="20%">](https://youtu.be/rYcdIvrz1ZY) | [<img src="https://j.gifs.com/NL6BYv.gif" width="20%">](https://youtu.be/NvykllljJAY) |
 
 
+| First try-out: color, size, shape, content | First second-out: with used of the original magazine content | 
+|     :---:      |     :---:     |
 | <img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/readme3.png" width="80%"> | <img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/readme4.png" width="80%"> |
-|     :---:      |     :---:     |
 
-| <img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/readme8.png" width="80%"> | <img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/readme9.png" width="80%"> |
+
+| First third: color, size, shape, found or created content | Elements from the original magazine -> Representation in new visual expression | 
 |     :---:      |     :---:     |
+|  <img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/readme9.png" width="80%"> | <img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/readme8.png" width="80%">|
 
 
 
