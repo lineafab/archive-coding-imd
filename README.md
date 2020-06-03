@@ -354,6 +354,7 @@ alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a> |
 [<img src="https://j.gifs.com/ANYlMl.gif" width="20%">](https://youtu.be/c7qJmYxo4uM)
 	
 #### #1 code
+<details>
 	
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 	<script type="text/javascript">
@@ -421,9 +422,7 @@ alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a> |
 		} );
 	</script>
 
-
-
-___
+</details>
 
 <a name="5"></a>
 ## Outcome
