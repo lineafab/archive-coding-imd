@@ -158,7 +158,6 @@ By doing.
 
 * **Result:** No dust files, more straight and translateable jpg files. 
 
-* **Files below, before and after. 
 
 | Before | After |
 |     :---:      |     :---:     |
@@ -346,11 +345,25 @@ void draw() {
 ## Website transcoding
 
 ### #1 Microfiche reader -> website
+
+* **AIMS:** Here I wanted to sketch out how it could look like if I made a representation of the microfiches readers function. Small picture, where you needed to move around on the website. When you press on one of the images, a pop up will show, with references or the original text. This try out contain sound, video, text and hyperlinks 
+
+* **Methods:** Photoshop
+
+* **Result:** Gave quick references to the microfiche reader. Will not guide the reader enough. need a better structure. 
+
+
 <img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/readme5.png" width="40%">
 
 	
 <a name="3.2.2"></a>
 ### #2 Microfiche reader -> website
+
+* **AIMS:** I wanted to create an automatic narrative, where the text will be the main focus. but the new add function will be when there will be content to visuals or references to a contemporary situation will show up when it's in the content.  
+
+* **Methods:** html, css, js. 
+
+* **Result:** It was working with will the auto-scroll and the text show op when it was in the content, but it didn't have any references to microfiche and it will give a very straightforward narrative. without the viewer could control it.  The out must be something in between these two transcoding try-outs. Some that's representing the microfiche and the mother earth journal.
 
 [<img src="https://j.gifs.com/ANYlMl.gif" width="20%">](https://youtu.be/c7qJmYxo4uM)
 	
