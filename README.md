@@ -144,8 +144,7 @@ By doing.
 [<img src="https://j.gifs.com/4Qy3xk.gif" width="20%">](https://youtu.be/9gLRmmCxDbU)| [<img src="https://j.gifs.com/r8lnQB.gif" width="10%">](https://youtu.be/dYVlv-RNt2A) |
 |     :---:      |     :---:     |
 
-|<img src="https://j.gifs.com/4QykW2.gif" width="10%">](https://youtu.be/dMeMqGDSDLc) |<img src="https://j.gifs.com/Qn8BVM.gif" width="10%">](https://youtu.be/42ISS8nKCM8) |
-| <img src="https://j.gifs.com/4Qy3xk.gif" width="20%">](https://youtu.be/9gLRmmCxDbU) | [<img src="https://j.gifs.com/r8lnQB.gif" width="10%">](https://youtu.be/dYVlv-RNt2A)     | 
+
 
 <a name="contenttranscoding"></a>
 ## Content transcoding
@@ -161,11 +160,16 @@ By doing.
 
 * **Files below, before and after. 
 
+| Before| After|
+|     :---:      |     :---:     |
+| <img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/readme.png" width="80%">| <img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/readme2.png" width="80%"> |
+
+
 **Before**
-<img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/readme.png" width="80%">
+
 
 **After**
-<img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/readme2.png" width="80%">
+
 
 
 <a name="processing"></a>
@@ -178,6 +182,10 @@ By doing.
 
 * **Result:** By using the program Processing it immediately gave an expression of modern content and digital expression.But as well as references back to the reader machine. movement and the clear and unclear 
 <br/>
+
+
+
+
 [<img src="https://j.gifs.com/6XANRN.gif" width="20%">](https://youtu.be/0qo4fB9sFdE)
 [<img src="https://j.gifs.com/mO9jQ3.gif" width="20%">](https://youtu.be/rYcdIvrz1ZY)
 [<img src="https://j.gifs.com/NL6BYv.gif" width="20%">](https://youtu.be/NvykllljJAY)
