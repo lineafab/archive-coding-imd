@@ -439,6 +439,18 @@ void draw() {
 ## Outcome
 This is the outcome. A website with the use of my transcoding tools with the aim to transform this artefact into more preservation.
 
+| LANDING PAGE| HOVER ON HEAD TITLE | POP UP WINDOW ON ORIGINAL TEXT|
+|     :---:      |     :---:     |     :---:     |
+| <img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/WEB1.png" width="40%"> |<img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/WEB2.png" width="40%"> | <img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/WEB3.png" width="40%"> |
+
+| ZOOM IN ON IMAGES| ORIGINAL SIZE | CLICK ON ZOOM IN FUNCTION |
+|     :---:      |     :---:     |     :---:     |
+| <img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/WEB5.png" width="40%"> |<img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/WEB6.png" width="40%"> | <img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/WEB7 .png" width="40%"> |
+
+| CLICK ON ZOOM OUT FUNCTION| SCROLL LEFT + ZOOM IN ON IMAGES | POP UP WINDOW ON ORIGINAL TEXT |
+|     :---:      |     :---:     |     :---:     |
+| <img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/WEB8.png" width="40%"> |<img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/WEB9.png" width="40%"> | <img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/WEB10  .png" width="40%"> |
+
 [Website](https://lineafab.github.io/Motherearth/WEBSITE%20CODE/index.html)
 
 <a name="Concluesion"></a>
