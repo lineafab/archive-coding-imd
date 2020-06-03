@@ -124,25 +124,24 @@ By doing.
 ### Microfiche reader machine
 
 * **Aims:** I wanted to figure out the reader machines functionality. So I recorded my self using it with different focus points. 
-1. Recording of my hand gesture when I was using the machine. 
-2. The screen function of zoom in and out. 
-3. The sound of the machine.
-4. The full picture of me using the reader machine from the back
 
 * **Methods:** Video camera, handhold recording
+
+| he screen function of zoom in and out.  | Recording of my hand gesture when I was using the machine.  |
+|     :---:      |     :---:     |
+| [<img src="https://j.gifs.com/4QykW2.gif" width="10%">](https://youtu.be/dMeMqGDSDLc) | [<img src="https://j.gifs.com/Qn8BVM.gif" width="10%">](https://youtu.be/42ISS8nKCM8) |
+
+
+| The full picture of me using the reader machine from the back.| The sound of the machine. |
+|     :---:      |     :---:     |
+[<img src="https://j.gifs.com/4Qy3xk.gif" width="20%">](https://youtu.be/9gLRmmCxDbU)| [<img src="https://j.gifs.com/r8lnQB.gif" width="10%">](https://youtu.be/dYVlv-RNt2A) |
+
 
 * **Result:** From the beginning, the microfiche reader machine has fascinated me, so of actually analyse with different focus point, I discover some more efficient way to control it but also how I capture a picture of a page.
 1. Here I discovered with small repetitive movements, I controlled the machine, and capture the pages quickly. 
 2.The zoom in and out function gave me the opportunities to get a complete perspective over the microfiches. With the zoom in part, I discovered I could get small details of the microfiches, so I remove all the unnecessary information that I did not need. 
 3. The sound of the zoom in and out gave the machine an atmosphere of something fragile, old school, and useful.
 4. Shows that it takes time to use this reader machine and your movements doest change extremely. patience and attention.
-
-| [<img src="https://j.gifs.com/4QykW2.gif" width="10%">](https://youtu.be/dMeMqGDSDLc) | [<img src="https://j.gifs.com/Qn8BVM.gif" width="10%">](https://youtu.be/42ISS8nKCM8) |
-|     :---:      |     :---:     |
-
-
-[<img src="https://j.gifs.com/4Qy3xk.gif" width="20%">](https://youtu.be/9gLRmmCxDbU)| [<img src="https://j.gifs.com/r8lnQB.gif" width="10%">](https://youtu.be/dYVlv-RNt2A) |
-|     :---:      |     :---:     |
 
 
 
