@@ -18,8 +18,8 @@
         - [3 Text -> voice](#voice)
         - [4 Text -> video](#videoclips)
     - [website transcoding](#3.2)
-    	- [1 Microfiche reader = website](#3.2.1)
-        - [2 Microfiche reader = website](#3.2.2)
+    	- [1 Microfiche reader -> website](#3.2.1)
+        - [2 Microfiche reader -> website](#3.2.2)
 4. [Reflection](#4)
 5. [Outcome](#5)
 6. [Conclusion](#Conclusion)
@@ -344,12 +344,12 @@ alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a> |
 <a name="3.2.1"></a>
 ## Website transcoding
 
-### #1 Microfiche reader = website
+### #1 Microfiche reader -> website
 <img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/readme5.png" width="40%">
 
 	
 <a name="3.2.2"></a>
-### #2 Microfiche reader = website
+### #2 Microfiche reader -> website
 
 [<img src="https://j.gifs.com/ANYlMl.gif" width="20%">](https://youtu.be/c7qJmYxo4uM)
 	
