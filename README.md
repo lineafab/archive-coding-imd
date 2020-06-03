@@ -181,10 +181,10 @@ By doing.
 |     :---:      |     :---:     |     :---:     |
 
 
-| [<img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/readme3.png" width="80%">|  [<img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/readme4.png" width="80%">|
+| <img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/readme3.png" width="80%"> | <img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/readme4.png" width="80%"> |
 |     :---:      |     :---:     |
 
-| [<img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/readme8.png" width="80%"> | [<img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/readme9.png" width="80%"> |
+| <img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/readme8.png" width="80%"> | <img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/readme9.png" width="80%"> |
 |     :---:      |     :---:     |
 
 
@@ -338,7 +338,7 @@ void draw() {
 | [<img src="https://j.gifs.com/1WvNrq.gif" width="20%">](https://youtu.be/A6jYDI_QiCk) | <a href="http://www.youtube.com/watch?feature=player_embedded&v=UB72b5OtECc" target="_blank"><img src="http://img.youtube.com/vi/UB72b5OtECc/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a> | 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=WmyXKr6Ymcs
-" target="_blank"><img src="http://img.youtube.com/vi/WmyXKr6Ymcs/0.jpg" 
+" target="_blank"><img src="http://img.youtube.com/vi/WmyXKr6Ymcs/0.jpg" | 
 alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a> |
 |     :---:      |     :---:     |     :---:     |
 
