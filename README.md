@@ -338,9 +338,9 @@ void draw() {
 
 * **Result:** Not the greatest. it had too much interpretation and it did not resemble the text. I figure out that I needed to look of the already given visual and look into words and not interpretation. Referring back to transcoding 2.
  
-| [<img src="https://j.gifs.com/1WvNrq.gif" width="20%">](https://youtu.be/A6jYDI_QiCk) | <a href="http://www.youtube.com/watch?feature=player_embedded&v=UB72b5OtECc" target="_blank"><img src="http://img.youtube.com/vi/UB72b5OtECc/0.jpg" alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=WmyXKr6Ymcs" target="_blank"><img src="http://img.youtube.com/vi/WmyXKr6Ymcs/0.jpg" alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a> |
+| First try-out: Runway | Second try-out: Premiere pro mix 2 diffent video tape together (Visual narrative) | Third try out: Premiere pro mix 2 diffent video tape together (Visual narrative)|
 |     :---:      |     :---:     |     :---:     |
-
+| [<img src="https://j.gifs.com/1WvNrq.gif" width="20%">](https://youtu.be/A6jYDI_QiCk) | <a href="http://www.youtube.com/watch?feature=player_embedded&v=UB72b5OtECc" target="_blank"><img src="http://img.youtube.com/vi/UB72b5OtECc/0.jpg" alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=WmyXKr6Ymcs" target="_blank"><img src="http://img.youtube.com/vi/WmyXKr6Ymcs/0.jpg" alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a> |
 
 <a name="3.2.1"></a>
 ## Website transcoding
