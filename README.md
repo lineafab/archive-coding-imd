@@ -181,10 +181,10 @@ By doing.
 |     :---:      |     :---:     |     :---:     |
 
 
-[<img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/readme3.png" width="80%">| [<img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/readme4.png" width="80%">|
+| [<img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/readme3.png" width="80%">|  [<img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/readme4.png" width="80%">|
 |     :---:      |     :---:     |
 
-[<img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/readme8.png" width="80%">>| [<img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/readme9.png" width="80%">|
+| [<img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/readme8.png" width="80%"> | [<img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/readme9.png" width="80%"> |
 |     :---:      |     :---:     |
 
 
