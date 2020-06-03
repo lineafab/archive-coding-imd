@@ -445,12 +445,12 @@ This is the outcome. A website with the use of my transcoding tools with the aim
 
 | POP UP WINDOW ON ORIGINAL TEXT| ZOOM IN ON IMAGES |
 |     :---:      |     :---:     |
-| <img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/WEB3.png" width="40%"> || <img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/WEB5.png" width="40%"> |
+| <img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/WEB3.png" width="40%"> |<img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/WEB5.png" width="40%"> |
 
 
-| ORIGINAL SIZE | CLICK ON ZOOM IN FUNCTION | 
+| CLICK ON ZOOM IN FUNCTION | CLICK ON ZOOM OUT FUNCTION | 
 |     :---:     |     :---:     |
-|<img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/WEB6.png" width="40%"> | <img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/WEB7.png" width="40%"> |
+|<img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/WEB7.png" width="40%"> | <img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/WEB8.png" width="40%"> |
 
 | SCROLL LEFT + ZOOM IN ON IMAGES | POP UP WINDOW ON ORIGINAL TEXT |
 |     :---:     |     :---:     |
