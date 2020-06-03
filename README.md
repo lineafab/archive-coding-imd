@@ -137,13 +137,12 @@ By doing.
 3. The sound of the zoom in and out gave the machine an atmosphere of something fragile, old school, and useful.
 4. Shows that it takes time to use this reader machine and your movements doest change extremely. patience and attention
 
-| [<img src="https://j.gifs.com/4QykW2.gif" width="10%">](https://youtu.be/dMeMqGDSDLc) | [<img src="https://j.gifs.com/Qn8BVM.gif" width="10%">](https://youtu.be/42ISS8nKCM8) |[<img src="https://j.gifs.com/4Qy3xk.gif" width="20%">](https://youtu.be/9gLRmmCxDbU)| [<img src="https://j.gifs.com/r8lnQB.gif" width="10%">](https://youtu.be/dYVlv-RNt2A) |
-| :---         |     :---:      |     :---:     |          ---: |
+| [<img src="https://j.gifs.com/4QykW2.gif" width="10%">](https://youtu.be/dMeMqGDSDLc) | [<img src="https://j.gifs.com/Qn8BVM.gif" width="10%">](https://youtu.be/42ISS8nKCM8) |
+|     :---:      |     :---:     |
 
 
-
-
-
+[<img src="https://j.gifs.com/4Qy3xk.gif" width="20%">](https://youtu.be/9gLRmmCxDbU)| [<img src="https://j.gifs.com/r8lnQB.gif" width="10%">](https://youtu.be/dYVlv-RNt2A) |
+|     :---:      |     :---:     |
 
 
 <a name="contenttranscoding"></a>
