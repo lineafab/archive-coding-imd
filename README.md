@@ -44,7 +44,7 @@ ___
 | **Medium** | Microfiche
 | **Materials** | Cellulose acetate base
 | **Date** | 1906
-| <img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/readme6.png" width="60%"><img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/readme7.png" width="60%"> | Mircofiches in envelopes. One sheet mircofiches contain 98 pages 14 x 7. The top part is red with the information: MOTHER EARTH, New Yor, 1906-1918 Vol.1/Nos. 2-3 Card 2 of 66. One microfiches 105 x 148 mm. The mircofilm is black and white. You see a illustration row 4 from top, that is the where the journal begins. The illustration is the journals first cover.
+| <img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/readme6.png" width="80%"><img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/readme7.png" width="80%"> | Mircofiches in envelopes. One sheet mircofiches contain 98 pages 14 x 7. The top part is red with the information: MOTHER EARTH, New Yor, 1906-1918 Vol.1/Nos. 2-3 Card 2 of 66. One microfiches 105 x 148 mm. The mircofilm is black and white. You see a illustration row 4 from top, that is the where the journal begins. The illustration is the journals first cover.
 
 ___
 
@@ -103,9 +103,6 @@ Mother Earth magazine. (1906-1918) (social science and Literature)
 by the U.S. Post Office
 → Mother Earth Bulletin was forced to close. 
 
-
-
-___
 <a name="transcoding"></a>
 ## Transcoding
 <br/>
@@ -140,8 +137,10 @@ By doing.
 3. The sound of the zoom in and out gave the machine an atmosphere of something fragile, old school, and useful.
 4. Shows that it takes time to use this reader machine and your movements doest change extremely. patience and attention
 
+| [<img src="https://j.gifs.com/4QykW2.gif" width="10%">](https://youtu.be/dMeMqGDSDLc) | [<img src="https://j.gifs.com/Qn8BVM.gif" width="10%">](https://youtu.be/42ISS8nKCM8) |[<img src="https://j.gifs.com/4Qy3xk.gif" width="20%">](https://youtu.be/9gLRmmCxDbU)| [<img src="https://j.gifs.com/r8lnQB.gif" width="10%">](https://youtu.be/dYVlv-RNt2A) |
+| :---         |     :---:      |     :---:     |          ---: |
 
-[<img src="https://j.gifs.com/4QykW2.gif" width="10%">](https://youtu.be/dMeMqGDSDLc)[<img src="https://j.gifs.com/Qn8BVM.gif" width="10%">](https://youtu.be/42ISS8nKCM8)[<img src="https://j.gifs.com/r8lnQB.gif" width="10%">](https://youtu.be/dYVlv-RNt2A)[<img src="https://j.gifs.com/4Qy3xk.gif" width="20%">](https://youtu.be/9gLRmmCxDbU)
+
 
 
 
