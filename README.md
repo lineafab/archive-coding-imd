@@ -31,7 +31,7 @@ ___
 
 <a name="1"></a>
 # Artefact - Microfiche/Mother Earth Journal
-105 x 148 mm card made out transparent film. The content has been reduced by 25% from the original source. It can be read be reader by a special microfiche/film reader. This micro fiches serie contain the journal Mother Earth. This journal pay attention to science and literature. Founded by the anarchist Emma Goldman and Alexander Berkman. The journal ran from March 1906 t August 1918. Came in various volume and monthly issues.
+105 x 148 mm card made out the transparent film. The content has been reduced by 25% from the original source. It can be read be reader by a special microfiche/film reader. This microfiches series contain the journal Mother Earth. This journal pays attention to science and literature. Founded by the anarchist Emma Goldman and Alexander Berkman. The journal ran from March 1906 t August 1918. Came in various volume and monthly issues.
 
 
 <a name="1.1"></a>
@@ -44,7 +44,7 @@ ___
 | **Medium** | Microfiche
 | **Materials** | Cellulose acetate base
 | **Date** | 1906
-| <img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/readme6.png" width="80%"><img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/readme7.png" width="80%"> | Mircofiches in envelopes. One sheet mircofiches contain 98 pages 14 x 7. The top part is red with the information: MOTHER EARTH, New Yor, 1906-1918 Vol.1/Nos. 2-3 Card 2 of 66. One microfiches 105 x 148 mm. The mircofilm is black and white. You see a illustration row 4 from top, that is the where the journal begins. The illustration is the journals first cover.
+| <img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/readme6.png" width="80%"><img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/readme7.png" width="80%"> | Microfiches in envelopes. One sheet microfiches contain 98 pages 14 x 7. The top part is red with the information: MOTHER EARTH, New Yor, 1906-1918 Vol.1/Nos. 2-3 Card 2 of 66. One microfiches 105 x 148 mm. The microfilm is black and white. You see an illustration row 4 from the top, that is the where the journal begins. The illustration is the journals first cover.
 
 ___
 
@@ -53,8 +53,8 @@ ___
 
 My research started with examining the potential and spectrum of IISH archives. Where examined in various subjects and objects. Here I came across Emma Goldman's and her story where I began and request some physical materials where I find these microfiches, which are not visualized on the website. So when they came, I received these microfiches with no idea what it was and how I could use it. I got an introduction to the machine that can help to see the pages on a large scale. The whole technical thing in it caught my interest but also this magazine and the magazine's vision and mission.
 
-Derrida in Archive Fever desricbe the similiarity between an srchive and the human psylogi mnd. How we capture, select, lost memory. That our urgent to control everything, but as Derrida desribe that there will always be another perspective. 
-He desricbe as well that in a arhive will never be a linear narrative. its about perspective and personally  opinion/direction. Can I use the way/function(machine) of used of the microfilm today?. To transcode this magazine in the future. installation. circle experiences. Where to break the circle?
+Derrida in Archive Fever describes the similarity between an archive and the human psychology mind  How we capture, select, lost memory. That our urgent to control everything, but as Derrida describe that there will always be another perspective. 
+He described as well that in an archive will never be a linear narrative. it's about perspective and personally opinion/direction. Can I use the way/function(machine) of use of the microfilm today?. To transcode this magazine in the future. installation. circle experiences. Where to break the circle?
 
 <a name="2.1"></a>
 ### Microfiche
@@ -63,22 +63,22 @@ He desricbe as well that in a arhive will never be a linear narrative. its about
 <a name="2.1.1"></a>
 ### What is a microfiche?
 
-A microfiche is a sheet of flat film, 105 x 148 mm. Microfiche is a type of film. Each piece of film can hold more than one hundred pages of printed text. The film varies in size but is usually just a few inches long and wide. A microfiche reader is necessary to then read the film. Microfiche allows various institutions to save space by converting paper documents, which take up much more space, to smaller microfiche files. Historically, libraries found microfiche very useful to expand their collections, while saving space. With advances in computers, many libraries and businesses have replaced their microfiche files with computerized ones. A microfiche can be in negative and positive films Microfiche aims to store fragile documents in an analog format, which may be newspapers, paper documents, or other paper material that has storage needs.
-</details>
+A microfiche is a sheet of flat film, 105 x 148 mm. Microfiche is a type of film. Each piece of film can hold more than one hundred pages of printed text. The film varies in size but is usually just a few inches long and wide. A microfiche reader is necessary to then read the film. Microfiche allows various institutions to save space by converting paper documents, which take up much more space, to smaller microfiche files. Historically, libraries found microfiche very useful to expand their collections, while saving space. With advances in computers, many libraries and businesses have replaced their microfiche files with computerized ones. Microfiche can be in negative and positive films Microfiche aims to store fragile documents in an analogue format, which may be newspapers, paper documents, or other paper material that has storage needs.
+
 
 <a name="2.1.2"></a>
 ### The history of microfiche and its use
 
-The history of microfilm starts around the same time as the invention of photography. John Benjamin Dancer was one of the first to produce microphotographs in 1839, where he achieved a reduction ratio of 160:1. Throughout his life dancer perfected his microfilm results, and by 1853 he was successfully selling microphotographs as slides which could be viewed with a microscope. Throughout the rest of the century the science of microfilm continued to develop, as more people began to see new applications for the practice. One of its first real uses came during the Franco-Prussian war, where they were used to send messages to and from the front lines using pigeon carriers who could only carry large documents using microfilm.
+The history of microfilm starts around the same time as the invention of photography. John Benjamin Dancer was one of the first to produce microphotographs in 1839, where he achieved a reduction ratio of 160:1. Throughout his life dancer perfected his microfilm results, and by 1853 he was successfully selling microphotographs as slides which could be viewed with a microscope. Throughout the rest of the century, the science of microfilm continued to develop, as more people began to see new applications for the practice. One of its first real uses came during the Franco-Prussian war, where they were used to send messages to and from the front lines using pigeon carriers who could only carry large documents using microfilm.
 
-In the 1930’s the process was developed onto 35mm film, and saw its first real application for document storage when the University Microfilms Inc (UMI) was created by Eugene Power. He had previously been microfilming rare books, but now began making records of important dissertations. During WW2 the process was mainly used for espionage, as they could be used by spies to move around or send documents without them being found. They were also used for regular military mail purposes, and also by governments who feared their records and archives could be destroyed through relentless bombing campaigns.
+In the 1930s the process was developed onto 35mm film and saw its first real application for document storage when the University Microfilms Inc (UMI) was created by Eugene Power. He had previously been microfilming rare books, but now began making records of important dissertations. During WW2 the process was mainly used for espionage, as they could be used by spies to move around or send documents without them being found. They were also used for regular military mail purposes, and also by governments who feared their records and archives could be destroyed through relentless bombing campaigns.
 
-In the post war years the technology for microfilm continued to improve, with better film, viewers and readers being produced. The possibility of using microfilm as an information source as well as storage was explored. This lead to libraries developing their capabilities in this area, and by the 1970’s the practice had become much more affordable and was used for a huge variety of applications.
+In the post-war years, the technology for microfilm continued to improve, with better film, viewers and readers being produced. The possibility of using microfilm as an information source as well as storage was explored. This leads to libraries developing their capabilities in this area, and by the 1970’s the practice had become much more affordable and was used for a huge variety of applications.
 
-As the introduction of computers and the internet arrived in the 1990’s, this improved technology also increased output for microform applications. This meant they could now be produced directly from a computer, and then used for an unlimited amount of uses such as hospital records or catalogues.
+As the introduction of computers and the internet arrived in the 1990s, this improved technology also increased output for microform applications. This meant they could now be produced directly from a computer, and then used for an unlimited amount of uses such as hospital records or catalogues.
 
-As the reliability of Microforms will never change, they are used by all kinds of libraries and archives as the best way to keep a hard copy of every document, and ensure they are never lost. Although they cannot be moved or shared in the same way as a digital file, they are completely full proof and will stand easily stand the test of time.
-</details>
+As the reliability of Microforms will never change, they are used by all kinds of libraries and archives as the best way to keep a hard copy of every document and ensure they are never lost. Although they cannot be moved or shared in the same way as a digital file, they are completely full-proof and will stand easily stand the test of time.
+
 
 <a name="2.2"></a>
 ### Mother Earth Journal
@@ -90,7 +90,7 @@ Mother Earth was a radical political journal and got their first publishing in M
 
 Mother Earth magazine. (1906-1918) (social science and Literature)
 
-→ "The Open Road" was the orginal name, but they got lawsuit by another magazine with the same name. 
+→ "The Open Road" was the original name, but they got lawsuit by another magazine with the same name. 
 → The first magazine was sixty-four pages long, measured 5 inches by 8 inches, and had a price of ten cents.
 → Mother Earth remained in monthly circulation until August 1917
 → "indicating life was germinating in the womb of Mother earth"
@@ -108,9 +108,9 @@ by the U.S. Post Office
 <br/>
 ### Description
 <br/>
-In my transcoding I wanted to research how to preserved these microfiches and the journal with a more accessible contemporary mediums. How can I preserve this microfiche with this text based journal into a more understanding narrative with a mission and vision, without losing its context. One of the big lack of a microfiche is the cost expenses. Reading microfiches need a reader-printers are not always available, often on a public library, limiting the potential user and the ability to make copies. I want to show that the issues from a 100 years old journal is still nowadays headlines issues in different format og outcomes. But the reason and the thoughs has not changes. 
+In my transcoding, I wanted to research how to preserve these microfiches and the journal with a more accessible contemporary medium. How can I preserve this microfiche with this text-based journal into a more understanding narrative with a mission and vision, without losing its context? One of the big lack of microfiche is the cost expenses. Reading microfiches need a reader-printers are not always available, often on a public library, limiting the potential user and the ability to make copies. I want to show that the issues from a 100 years old journal are still nowadays headlined issues in a different format on outcomes. But the reason and the thought has not changed. 
 
-On my transcoding I focused on two methods, preservation and transformation.
+On my transcoding, I focused on two methods, preservation and transformation.
 Preservation of the micro-reader. Preservation of the journal. 
 Transformation of the micro-reader. Transformation of the journal. 
 
@@ -123,11 +123,11 @@ By doing.
 <a name="reader"></a>
 ### Microfiche reader machine
 
-* **Aims:** I wanted to figure out the reader machines functionality. So I recorded my self useing it with different focus points. 
-1. Recording of my handgesture when I was useing the machine. 
+* **Aims:** I wanted to figure out the reader machines functionality. So I recorded my self using it with different focus points. 
+1. Recording of my hand gesture when I was using the machine. 
 2. The screen function of zoom in and out. 
 3. The sound of the machine.
-4. Full picture of me using the reader machine from the back
+4. The full picture of me using the reader machine from the back
 
 * **Methods:** Video camera, handhold recording
 
@@ -316,7 +316,7 @@ void draw() {
 <a name="voice"></a>
 ## 3 Text -> voice 
 
-* **Aims:** The text is very old with a old languages. I wanted to get a person to read the text up, to get it more contemporary and relatable content.
+* **Aims:** The text is very old with an old language. I wanted to get a person to read the text up, to get it more contemporary and relatable content.
 
 * **Methods:** Iphone recording program, apple headphones, a blanket. Audaity Editing.
 
@@ -329,11 +329,11 @@ void draw() {
 <a name="videoclips"></a>
 ## 4 Text -> videoclips 
 
-* **Aims:** The text is very old with a old languages, but still very urgent subject. How will th visual look like of the text, if I use some present content, but idea of it be for the future. 
+* **Aims:** The text is very old with an old language, but still very urgent subject. How will the visual look like of the text, if I use some present content, but the idea of it be for the future. 
 
 * **Methods:** Youtube, google serach, Premiere Pro and RunWay. 
 
-* **Result:** Not the greatest. it had to much interpretation and it did not resemble the text. I figure out that I was need to look of the all ready given visual and look into words and not interpretation. Refering back to transcoding 2. 
+* **Result:** Not the greatest. it had too much interpretation and it did not resemble the text. I figure out that I needed to look of the already given visual and look into words and not interpretation. Referring back to transcoding 2.
  
 | [<img src="https://j.gifs.com/1WvNrq.gif" width="20%">](https://youtu.be/A6jYDI_QiCk) | <a href="http://www.youtube.com/watch?feature=player_embedded&v=UB72b5OtECc" target="_blank"><img src="http://img.youtube.com/vi/UB72b5OtECc/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a> | 
@@ -429,15 +429,14 @@ ___
 
 <a name="5"></a>
 ## Outcome
-This is the outcome. A website with use of my transcoding tools with the aim to transform this artifact into a more preservation.
+This is the outcome. A website with the use of my transcoding tools with the aim to transform this artefact into more preservation.
 
 [Website](https://lineafab.github.io/Motherearth/WEBSITE%20CODE/index.html)
 
 <a name="Concluesion"></a>
 ## Concluesion
 
-The concluesion of this project, That sometime the stepes you take can help you and the viewer to understand and more aware of the process step and how to make it more understable. It have been interessting to start from this very analog and old archive. To request objects and items from the archive and get this old item. With the idea. How can I make it resiliencen? 
-
+The conclusion of this project, That sometimes the steps you take can help you and the viewer to understand and more aware of the process step and how to make it more understandable. It has been interesting to start from this very analogue and old archive. To request objects and items from the archive and get this old item. With the idea. How can I make it resilience? 
 
 <a name="Bibliography"></a>
 ## Bibliography
