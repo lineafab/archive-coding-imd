@@ -448,7 +448,7 @@ This is the outcome. A website with the use of my transcoding tools with the aim
 | <img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/WEB3.png" width="40%"> || <img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/WEB5.png" width="40%"> |
 
 
-| ORIGINAL SIZE | CLICK ON ZOOM IN FUNCTION |
+| ORIGINAL SIZE | CLICK ON ZOOM IN FUNCTION | 
 |     :---:     |     :---:     |
 |<img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/WEB6.png" width="40%"> | <img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/WEB7.png" width="40%"> |
 
@@ -456,6 +456,7 @@ This is the outcome. A website with the use of my transcoding tools with the aim
 |     :---:     |     :---:     |
 |<img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/WEB9.png" width="40%"> | <img src="https://raw.githubusercontent.com/lineafab/archive-coding-imd/master/Mother%20Earth%20Magazine/WEB10.png" width="40%"> |
 
+This is the link to try out the website by yourself. 
 [Website](https://lineafab.github.io/Motherearth/WEBSITE%20CODE/index.html)
 
 <a name="Concluesion"></a>
